@@ -5,6 +5,7 @@ import { useRouter, useSearchParams } from "next/navigation";
 import FilterBar from "@/components/FilterBar";
 import EggCard from "@/components/EggCard";
 import { Pagination } from "@/components/ui/pagination";
+import { SearchBar } from "@/components/ui/search-bar";
 import { Dragon } from "@/types/dragon";
 
 interface GalleryClientProps {
@@ -12,7 +13,10 @@ interface GalleryClientProps {
   regions: string[];
 }
 
-export default function GalleryClientContent({ initialData, regions }: GalleryClientProps) {
+export default function GalleryClientContent({
+  initialData,
+  regions,
+}: GalleryClientProps) {
   const router = useRouter();
   const searchParams = useSearchParams();
 
@@ -23,6 +27,11 @@ export default function GalleryClientContent({ initialData, regions }: GalleryCl
   const urlStage = Number(searchParams.get("stage")) || 1;
 
   const [selectedStage, setSelectedStage] = useState(urlStage);
+
+  // Add search state
+  const [searchQuery, setSearchQuery] = useState(
+    searchParams.get("search") || ""
+  );
 
   // Update URL when stage changes
   const handleStageSelect = useCallback(
@@ -82,10 +91,39 @@ export default function GalleryClientContent({ initialData, regions }: GalleryCl
     [router, searchParams]
   );
 
+  // Add search handler
+  const handleSearch = useCallback(
+    (value: string) => {
+      const params = new URLSearchParams(searchParams);
+      if (value) {
+        params.set("search", value);
+      } else {
+        params.delete("search");
+      }
+      params.delete("page");
+      router.push(`?${params.toString()}`);
+      setSearchQuery(value);
+    },
+    [router, searchParams]
+  );
+
   // Filter and sort data
   const sortedData = useMemo(() => {
     let filtered = [...initialData];
 
+    // Apply search filter
+    if (searchQuery) {
+      const query = searchQuery.toLowerCase();
+      filtered = filtered.filter(
+        (egg) =>
+          egg.name.toLowerCase().includes(query) ||
+          egg.egg_description.toLowerCase().includes(query) ||
+          egg.region.toLowerCase().includes(query) ||
+          egg.rarity.toLowerCase().includes(query)
+      );
+    }
+
+    // Apply existing filters
     if (currentRegion) {
       filtered = filtered.filter((egg) => egg.region === currentRegion);
     }
@@ -109,7 +147,7 @@ export default function GalleryClientContent({ initialData, regions }: GalleryCl
     }
 
     return filtered;
-  }, [initialData, currentRegion, currentRarity]);
+  }, [initialData, currentRegion, currentRarity, searchQuery]);
 
   // Pagination
   const itemsPerPage = 8;
@@ -124,10 +162,10 @@ export default function GalleryClientContent({ initialData, regions }: GalleryCl
 
     // If egg stage is selected (0), include the egg_img_url
     if (selectedStage === 0) {
-      return paginatedItems.map(item => ({
+      return paginatedItems.map((item) => ({
         ...item,
         isEggStage: true,
-        egg_img_url: item.egg_img_url // Make sure this is available for EggCard
+        egg_img_url: item.egg_img_url, // Make sure this is available for EggCard
       }));
     }
 
@@ -135,32 +173,44 @@ export default function GalleryClientContent({ initialData, regions }: GalleryCl
   }, [sortedData, currentPage, itemsPerPage, selectedStage]);
 
   return (
-    <div className="grid grid-cols-1 lg:grid-cols-[280px_1fr] gap-6 px-6">
-      <FilterBar
-        regions={regions}
-        selectedRegion={currentRegion}
-        rarityOrder={currentRarity}
-        selectedStage={selectedStage}
-        onStageSelect={handleStageSelect}
-        onRegionSelect={handleRegionSelect}
-        onRarityOrderChange={handleRarityOrderChange}
-        className="h-fit lg:sticky lg:top-4"
-        selectedSort={null}
-      />
+    <div className="space-y-8 px-6">
+      <div className="flex justify-center">
+        <SearchBar
+          value={searchQuery}
+          onChange={handleSearch}
+          className="max-w-md mx-auto"
+          placeholder="Search dragons by name, region, or rarity..."
+        />
+      </div>
+      <div className="grid grid-cols-1 lg:grid-cols-[280px_1fr] gap-6 ">
+        <FilterBar
+          regions={regions}
+          selectedRegion={currentRegion}
+          rarityOrder={currentRarity}
+          selectedStage={selectedStage}
+          onStageSelect={handleStageSelect}
+          onRegionSelect={handleRegionSelect}
+          onRarityOrderChange={handleRarityOrderChange}
+          className="h-fit lg:sticky lg:top-4"
+          selectedSort={null}
+        />
 
-      <div className="space-y-6">
-        <div className="grid grid-cols-1 xs:grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4">
-          {currentItems.map((egg, index) => (
-            <EggCard key={index} egg={egg} selectedStage={selectedStage} />
-          ))}
-        </div>
+        <div className="space-y-6">
+          {/* Add SearchBar */}
 
-        <div className="flex justify-center">
-          <Pagination
-            currentPage={currentPage}
-            totalPages={totalPages}
-            onPageChange={handlePageChange}
-          />
+          <div className="grid grid-cols-1 xs:grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4">
+            {currentItems.map((egg, index) => (
+              <EggCard key={index} egg={egg} selectedStage={selectedStage} />
+            ))}
+          </div>
+
+          <div className="flex justify-center">
+            <Pagination
+              currentPage={currentPage}
+              totalPages={totalPages}
+              onPageChange={handlePageChange}
+            />
+          </div>
         </div>
       </div>
     </div>

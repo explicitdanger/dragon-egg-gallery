@@ -156,7 +156,6 @@ export class SpineObject {
     } else if (this.view === "profile" && this.aspectRatio <= 1) {
       this.skeletonBinary.scale = 0.8;
     }
-    console.log(this.skeletonScale, this.skeletonBinary.scale);
   }
 }
 

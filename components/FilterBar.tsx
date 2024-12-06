@@ -192,7 +192,8 @@ export default function FilterBar({
           <SheetTrigger asChild>
             <Button 
               variant="outline" 
-              className="w-full border-bistre/20 bg-vanilla text-bistre hover:bg-chamoisee/10 rounded-lg"
+              className="w-full border-bistre/20 bg-vanilla text-bistre hover:bg-chamoisee/10 
+                         rounded-xl sm:rounded-xl md:rounded-xl"
             >
               <Filter className="mr-2 h-4 w-4" />
               Filters
@@ -200,7 +201,8 @@ export default function FilterBar({
           </SheetTrigger>
           <SheetContent 
             side="left" 
-            className="w-full max-w-[400px] border-r border-bistre/10 bg-vanilla p-0"
+            className="w-full max-w-[400px] border-r border-bistre/10 bg-vanilla p-0 
+                       rounded-r-xl sm:rounded-r-xl md:rounded-r-xl"
           >
             <SheetTitle className="sr-only">
               Filters
