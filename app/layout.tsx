@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import { GeistSans } from "geist/font/sans";
 import Link from "next/link";
+import { Analytics } from "@vercel/analytics/react";
 
 export const metadata: Metadata = {
   title: "eggs",
@@ -57,6 +58,7 @@ export default function RootLayout({
             </p>
           </div>
           {children}
+          <Analytics />
 
           {/* Decorative bottom border */}
           <div className="flex justify-center mt-4 sm:mt-6 space-x-2">
