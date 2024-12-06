@@ -4,7 +4,6 @@ import { cn } from "@/lib/utils";
 import { Dragon } from "@/types/dragon";
 import Link from "next/link";
 import DragonCanvas from "./DragonCanvas";
-import Image from "next/image";
 
 function toTitleCase(str: string | undefined): string {
   if (!str) return "";
@@ -46,20 +45,7 @@ export default function EggCard({ egg, selectedStage }: EggCardProps) {
 
         <CardHeader className="bg-gradient-to-b from-chamoisee/20 to-chamoisee/5 flex-1 p-0">
           <div className="relative w-full h-full flex items-center justify-center overflow-hidden">
-            {selectedStage === 0 && egg.egg_img_url ? (
-              <div>
-                <Image
-                  src={egg.egg_img_url}
-                  alt={`${egg.name} egg`}
-                  width={80}
-                  height={80}
-                  className="object-contain w-full h-full"
-                  priority
-                />
-              </div>
-            ) : (
-              <DragonCanvas egg={egg} selectedStage={selectedStage} />
-            )}
+            <DragonCanvas egg={egg} selectedStage={selectedStage} />
           </div>
         </CardHeader>
 

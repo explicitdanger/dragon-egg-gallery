@@ -20,9 +20,8 @@ export default function GalleryClientContent({ initialData, regions }: GalleryCl
   const currentRegion = searchParams.get("region");
   const currentRarity = searchParams.get("rarity") as "asc" | "desc" | null;
   const currentPage = Number(searchParams.get("page")) || 1;
-  const urlStage = Number(searchParams.get("stage")) || 1; // Default to 1 (hatch)
+  const urlStage = Number(searchParams.get("stage")) || 1;
 
-  // Stage selection state from URL
   const [selectedStage, setSelectedStage] = useState(urlStage);
 
   // Update URL when stage changes
@@ -152,11 +151,7 @@ export default function GalleryClientContent({ initialData, regions }: GalleryCl
       <div className="space-y-6">
         <div className="grid grid-cols-1 xs:grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4">
           {currentItems.map((egg, index) => (
-            <EggCard 
-              key={index} 
-              egg={egg} 
-              selectedStage={selectedStage}
-            />
+            <EggCard key={index} egg={egg} selectedStage={selectedStage} />
           ))}
         </div>
 
