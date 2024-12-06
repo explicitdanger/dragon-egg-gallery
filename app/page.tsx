@@ -16,7 +16,7 @@ async function getData() {
   
   const data = await resp.json();
   const dragonsArray = Object.values(data.dragon[0]) as Dragon[];
-  return { dragons: dragonsArray }
+  return { dragons: dragonsArray };
 }
 
 export default async function Home() {
