@@ -66,11 +66,11 @@ export default function RootLayout({
           </div>
 
           {/* Footer note */}
-          <div className="text-center mt-6 sm:mt-8">
+{/*           <div className="text-center mt-6 sm:mt-8">
             <span className="inline-block px-4 sm:px-6 py-1.5 sm:py-2 bg-vanilla/10 rounded-full text-vanilla/80 text-xs sm:text-sm font-medium tracking-wide">
               ✨ A cute little dragon egg database ✨
             </span>
-          </div>
+          </div> */}
         </div>
       </body>
     </html>
