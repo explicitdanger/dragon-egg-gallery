@@ -115,10 +115,25 @@ export default function GalleryClientContent({ initialData, regions }: GalleryCl
   // Pagination
   const itemsPerPage = 8;
   const totalPages = Math.ceil(sortedData.length / itemsPerPage);
-  const currentItems = sortedData.slice(
-    (currentPage - 1) * itemsPerPage,
-    currentPage * itemsPerPage
-  );
+
+  // Update the currentItems to include egg_img_url
+  const currentItems = useMemo(() => {
+    const paginatedItems = sortedData.slice(
+      (currentPage - 1) * itemsPerPage,
+      currentPage * itemsPerPage
+    );
+
+    // If egg stage is selected (0), include the egg_img_url
+    if (selectedStage === 0) {
+      return paginatedItems.map(item => ({
+        ...item,
+        isEggStage: true,
+        egg_img_url: item.egg_img_url // Make sure this is available for EggCard
+      }));
+    }
+
+    return paginatedItems;
+  }, [sortedData, currentPage, itemsPerPage, selectedStage]);
 
   return (
     <div className="grid grid-cols-1 lg:grid-cols-[280px_1fr] gap-6 px-6">
@@ -137,7 +152,11 @@ export default function GalleryClientContent({ initialData, regions }: GalleryCl
       <div className="space-y-6">
         <div className="grid grid-cols-1 xs:grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4">
           {currentItems.map((egg, index) => (
-            <EggCard key={index} egg={egg} selectedStage={selectedStage} />
+            <EggCard 
+              key={index} 
+              egg={egg} 
+              selectedStage={selectedStage}
+            />
           ))}
         </div>
 

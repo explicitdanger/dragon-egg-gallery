@@ -3,7 +3,7 @@ import GalleryClientLoading from '@/components/GalleryClientLoading';
 import { Dragon } from '@/types/dragon';
 import { notFound } from 'next/navigation';
 
-const apiUrl = "https://raw.githubusercontent.com/explicitdanger/eggs-db/refs/heads/main/updated_dragon_list.json"
+const apiUrl = "https://raw.githubusercontent.com/explicitdanger/eggs-db/refs/heads/main/dragon_list.json"
 
 async function getData() {
   const resp = await fetch(
