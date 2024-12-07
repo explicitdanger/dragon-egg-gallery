@@ -20,7 +20,7 @@ export async function getDragonData(name: string) {
   try {
     const resp = await fetch(
       `https://raw.githubusercontent.com/explicitdanger/eggs-db/refs/heads/main/dragons/${name.toLowerCase()}.json`,
-      { next: { revalidate: 3600 } }
+      { next: { revalidate: 3600 }, cache: "no-cache" }
     );
 
     if (!resp.ok) {
