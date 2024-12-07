@@ -8,11 +8,11 @@ interface GalleryClientProps {
 }
 
 export default function GalleryClientLoading({
-    initialData,
-    regions,
-  }: GalleryClientProps) {
-    return (
-      <div className="space-y-8">
+  initialData,
+  regions,
+}: GalleryClientProps) {
+  return (
+    <div className="space-y-8">
   
         <Suspense
           fallback={

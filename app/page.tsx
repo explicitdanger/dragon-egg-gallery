@@ -1,23 +1,9 @@
 // Server Component
 import GalleryClientLoading from '@/components/GalleryClientLoading';
+import { getData } from '@/lib/utils';
 import { Dragon } from '@/types/dragon';
 import { notFound } from 'next/navigation';
 
-const apiUrl = "https://raw.githubusercontent.com/explicitdanger/eggs-db/refs/heads/main/dragon_list.json"
-
-async function getData() {
-  const resp = await fetch(
-    apiUrl,
-    { next: { revalidate: 3600 } }
-  );
-  if (!resp.ok) {
-    notFound();
-  }
-  
-  const data = await resp.json();
-  const dragonsArray = Object.values(data.dragon[0]) as Dragon[];
-  return { dragons: dragonsArray };
-}
 
 export default async function Home() {
   const data = await getData();

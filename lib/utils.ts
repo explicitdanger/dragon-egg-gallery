@@ -1,3 +1,4 @@
+import { Dragon } from "@/types/dragon";
 import { clsx, type ClassValue } from "clsx";
 import { notFound } from "next/navigation";
 import { twMerge } from "tailwind-merge";
@@ -15,6 +16,21 @@ export enum DragonMoves {
 }
 
 export type SelectedStage = "hatch" | "hatchling" | "adult";
+
+export async function getData() {
+  const apiUrl = "https://raw.githubusercontent.com/explicitdanger/eggs-db/refs/heads/main/dragon_list.json";
+  const resp = await fetch(
+    apiUrl,
+    { next: { revalidate: 3600 } }
+  );
+  if (!resp.ok) {
+    notFound();
+  }
+  
+  const data = await resp.json();
+  const dragonsArray = Object.values(data.dragon[0]) as Dragon[];
+  return { dragons: dragonsArray };
+}
 
 export async function getDragonData(name: string) {
   try {
