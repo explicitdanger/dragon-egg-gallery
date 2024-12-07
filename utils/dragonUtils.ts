@@ -49,6 +49,7 @@ export function filterAssetsByFormNumber(
   assets: Asset[],
   formNumber: string
 ): Asset[] {
+  // console.log(assets,formNumber)
   return assets.filter((a) => a.form_number === formNumber);
 }
 
