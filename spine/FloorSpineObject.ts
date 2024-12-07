@@ -11,6 +11,14 @@ class FloorSpineObject extends BaseSpineObject {
     super.initialize(canvas);
   }
 
+  protected getSkeletonBinary(
+    atlasLoader: spine.AtlasAttachmentLoader
+  ): spine.SkeletonBinary {
+    const binary = super.getSkeletonBinary(atlasLoader);
+    binary.scale = 0.6;
+    return binary;
+  }
+
   update(canvas: spine.SpineCanvas, delta: number): void {
     super.update(canvas, delta);
   }

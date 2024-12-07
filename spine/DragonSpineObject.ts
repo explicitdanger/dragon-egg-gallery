@@ -1,3 +1,6 @@
+// this class is not being used for dragon spine objects
+// see SpineObject.ts for the main class
+
 import { BaseSpineObject } from "./BaseSpineObject";
 import * as spine from "@esotericsoftware/spine-webgl";
 

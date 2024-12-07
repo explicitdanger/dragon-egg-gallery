@@ -6,6 +6,14 @@ class BackgroundSpineObject extends BaseSpineObject {
     super(assetUrl, "idle");
   }
 
+  protected getSkeletonBinary(
+    atlasLoader: spine.AtlasAttachmentLoader
+  ): spine.SkeletonBinary {
+    const binary = super.getSkeletonBinary(atlasLoader);
+    binary.scale = 0.6;
+    return binary;
+  }
+
   async loadAssets(canvas: spine.SpineCanvas): Promise<void> {
     await super.loadAssets(canvas);
   }
