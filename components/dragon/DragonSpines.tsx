@@ -46,6 +46,7 @@ export default function DragonSpines({
   const stages = ["egg", "hatch", "hatchling", "adult"] as const;
   const currentStage = stages[selectedStage];
   const canvasId = `dragon-canvas-${name}`;
+  console.log(selectedForm);
 
   const availableForms = getAvailableForms(forms);
   const formMapping = createFormMapping(availableForms);

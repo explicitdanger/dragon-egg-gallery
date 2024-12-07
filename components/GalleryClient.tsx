@@ -24,7 +24,7 @@ export default function GalleryClientContent({
   const currentRegion = searchParams.get("region");
   const currentRarity = searchParams.get("rarity") as "asc" | "desc" | null;
   const currentPage = Number(searchParams.get("page")) || 1;
-  const urlStage = Number(searchParams.get("stage")) || 1;
+  const urlStage = Number(searchParams.get("stage")) || 0;
 
   const [selectedStage, setSelectedStage] = useState(urlStage);
 
