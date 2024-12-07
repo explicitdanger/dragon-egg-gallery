@@ -19,10 +19,11 @@ type Props = {
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { name } = await params;
   const dragon = await getDragonData(name);
+  const decodedName = decodeURIComponent(dragon.name);
 
   return {
     title: `✨ ${
-      dragon.name.charAt(0).toUpperCase() + dragon.name.slice(1)
+      decodedName.charAt(0).toUpperCase() + decodedName.slice(1)
     } - egg-db`,
     description: dragon.egg_description,
   };
@@ -56,7 +57,7 @@ export default async function DragonPage({ params }: Props) {
               <div className="relative mb-6 sm:mb-4">
                 <Link href={`/${name}`}>
                   <h1 className="text-center text-3xl sm:text-4xl font-extrabold font-sans text-bistre/90 capitalize tracking-tight">
-                    {(await name).replace(/_/g, " ")}
+                    {decodeURIComponent((await name).replace(/_/g, " "))}
                   </h1>
                 </Link>
               </div>
