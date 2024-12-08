@@ -18,15 +18,13 @@ export enum DragonMoves {
 export type SelectedStage = "hatch" | "hatchling" | "adult";
 
 export async function getData() {
-  const apiUrl = "https://raw.githubusercontent.com/explicitdanger/eggs-db/refs/heads/main/dragon_list.json";
-  const resp = await fetch(
-    apiUrl,
-    { next: { revalidate: 3600 } }
-  );
+  const apiUrl =
+    "https://raw.githubusercontent.com/explicitdanger/eggs-db/refs/heads/main/dragon_list.json";
+  const resp = await fetch(apiUrl, { next: { revalidate: 3600 } });
   if (!resp.ok) {
     notFound();
   }
-  
+
   const data = await resp.json();
   const dragonsArray = Object.values(data.dragon[0]) as Dragon[];
   return { dragons: dragonsArray };
@@ -68,6 +66,7 @@ export async function getBackgroundsList() {
     return [];
   }
 }
+
 export async function getFloorList() {
   try {
     const resp = await fetch(
@@ -76,6 +75,20 @@ export async function getFloorList() {
     );
     const { floor } = await resp.json();
     return floor;
+  } catch (error) {
+    console.error("Error fetching floor list:", error);
+    return [];
+  }
+}
+
+export async function getPersonalityJson() {
+  try {
+    const resp = await fetch(
+      "https://raw.githubusercontent.com/explicitdanger/eggs-db/refs/heads/main/personality_list.json",
+      { next: { revalidate: 3600 } }
+    );
+    const personality_json = await resp.json();
+    return personality_json;
   } catch (error) {
     console.error("Error fetching floor list:", error);
     return [];

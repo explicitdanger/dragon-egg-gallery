@@ -1,6 +1,11 @@
 import { Suspense } from "react";
 import { PreviewControls } from "@/components/preview/PreviewControls";
-import { getDragonData, getBackgroundsList, getFloorList } from "@/lib/utils";
+import {
+  getDragonData,
+  getBackgroundsList,
+  getFloorList,
+  getPersonalityJson,
+} from "@/lib/utils";
 import { SelectedStage } from "@/lib/utils";
 import { redirect } from "next/navigation";
 import PreviewLoading from "./loading";
@@ -25,13 +30,10 @@ export default async function PreviewPage({
   );
 }
 
-async function PreviewContent({
-  params,
-  searchParams,
-}: PreviewPageProps) {
+async function PreviewContent({ params, searchParams }: PreviewPageProps) {
   const { name } = await params;
   const { form, gender, stage } = await searchParams;
-  
+
   if (!form || !gender || !stage) {
     redirect(`/${name}`);
   }
@@ -40,6 +42,7 @@ async function PreviewContent({
   const dragon = await getDragonData(name);
   const backgroundsList = await getBackgroundsList();
   const floorList = await getFloorList();
+  const personalityJson = await getPersonalityJson();
 
   return (
     <PreviewControls
@@ -51,6 +54,8 @@ async function PreviewContent({
       assets={dragon.assets}
       backgroundsList={backgroundsList}
       floorList={floorList}
+      personalityList={Object.keys(personalityJson)}
+      personalityJson={personalityJson}
     />
   );
 }

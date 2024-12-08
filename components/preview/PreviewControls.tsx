@@ -14,7 +14,7 @@ import { DragonMoves, SelectedStage } from "@/lib/utils";
 import { Combobox } from "@/components/ui/combobox";
 import { useSpineAnimation } from "@/hooks/useSpineAnimation";
 import { animateAura } from "@/spine/SpineObject";
-import { personalityList } from "@/types/personality";
+import { Personality } from "@/types/personality";
 import { StageSelector } from "../dragon/StageSelector";
 import { FormSelector } from "../dragon/FormSelector";
 import { GenderSelector } from "../dragon/GenderSelector";
@@ -51,6 +51,8 @@ interface PreviewControlsProps {
   name: string;
   floorList: Background[];
   backgroundsList: Background[];
+  personalityList: string[];
+  personalityJson: Record<string, Personality>;
 }
 
 export function PreviewControls({
@@ -62,6 +64,8 @@ export function PreviewControls({
   name,
   backgroundsList,
   floorList,
+  personalityList,
+  personalityJson,
 }: PreviewControlsProps) {
   const router = useRouter();
   const searchParams = useSearchParams();
@@ -156,11 +160,23 @@ export function PreviewControls({
     };
 
     // Animate both auras
-    animateAura(frontCanvas, selectedPersonality, "front", "preview");
-    animateAura(backCanvas, selectedPersonality, "back", "preview");
+    animateAura(
+      frontCanvas,
+      selectedPersonality,
+      "front",
+      "preview",
+      personalityJson
+    );
+    animateAura(
+      backCanvas,
+      selectedPersonality,
+      "back",
+      "preview",
+      personalityJson
+    );
 
     return cleanup;
-  }, [selectedPersonality, frontAuraCanvasId, backAuraCanvasId]);
+  }, [selectedPersonality, frontAuraCanvasId, backAuraCanvasId,personalityJson]);
 
   // Function to update URL
   const updateURL = (params: Record<string, string>) => {

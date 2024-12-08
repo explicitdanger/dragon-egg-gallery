@@ -6,7 +6,7 @@ import {
   floorBaseUrl,
 } from "@/utils/dragonUtils";
 import * as spine from "@esotericsoftware/spine-webgl";
-import { personalityJson } from "../types/personality";
+import { Personality } from "../types/personality";
 
 export class SpineObject {
   skeleton: spine.Skeleton | null;
@@ -125,7 +125,7 @@ export class SpineObject {
     if (!this.skeletonBinary?.scale) return;
 
     // if (this.aspectRatio > 1) {
-      // for desktops
+    // for desktops
     //   if (this.view === "preview") {
     //     this.skeletonBinary.scale = 0.5;
     //   } else if (this.view === "card") {
@@ -189,7 +189,7 @@ interface AuraConfig {
 }
 
 function getAuraConfig(
-  personality: (typeof personalityJson)[keyof typeof personalityJson],
+  personality: Personality,
   type: "front" | "back"
 ): AuraConfig {
   if (personality.each) {
@@ -209,7 +209,8 @@ export function animateAura(
   canvas: HTMLCanvasElement,
   personalityName: string,
   type: "front" | "back",
-  view: string
+  view: string,
+  personalityJson: Record<string, Personality>
 ): spine.SpineCanvas | null {
   const personality = personalityJson[personalityName];
   if (!personality) return null;
