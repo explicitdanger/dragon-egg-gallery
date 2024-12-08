@@ -44,7 +44,7 @@ export async function getDragonData(name: string) {
     }
 
     const data = await resp.json();
-
+    console.log(data)
     if (!data) {
       notFound();
     }
