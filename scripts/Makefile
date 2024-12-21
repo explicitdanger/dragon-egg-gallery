@@ -53,11 +53,17 @@ clean:
 update_bg:
 	@echo "\n=== Checking for Background updates ===\n"
 	python bg/check_new_bg.py
+	mv bg/updated_bg_assets.json bg/bg_assets.json
+	cp bg/bg_assets.json ../db/bg_assets.json
 
 update_floor:
 	@echo "\n=== Checking for Floor updates ===\n"
 	python floor/check_new_floor.py
+	mv floor/updated_floor_assets.json floor/floor_assets.json
+	cp floor/floor_assets.json ../db/floor_assets.json
 
 update_personality:
 	@echo "\n=== Checking for Personality updates ===\n"
 	python personality/check_new_personality.py
+	mv personality/updated_personality_assets.json personality/personality_list.json
+	cp personality/personality_list.json ../db/personality_list.json
