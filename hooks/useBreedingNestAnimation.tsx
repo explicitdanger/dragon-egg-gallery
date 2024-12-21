@@ -24,5 +24,4 @@ export default function useBreedingNestAnimation(canvasId: string) {
             }
         };
     }, []);
-
 }
