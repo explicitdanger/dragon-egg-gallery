@@ -4,8 +4,8 @@ import {
   getBackgroundsList,
   getFloorList,
   getPersonalityJson,
-} from "@/lib/utils";
-import { SelectedStage } from "@/lib/utils";
+} from "@/utils/api";
+import { SelectedStage } from "@/utils/types";
 import { redirect } from "next/navigation";
 
 interface PreviewPageProps {

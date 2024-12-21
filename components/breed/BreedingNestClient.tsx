@@ -2,7 +2,7 @@
 
 import { useState, useMemo } from "react";
 import { useSpineAnimation } from "@/hooks/useSpineAnimation";
-import { Dragon } from "@/types/dragon";
+import { Dragon } from "@/utils/types";
 import { DragonCard } from "@/components/breed/DragonCard";
 import { Tabs, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import Image from "next/image";

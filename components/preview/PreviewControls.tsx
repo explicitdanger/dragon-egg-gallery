@@ -10,11 +10,15 @@ import {
   groupAssetsByGender,
   getCurrentAsset,
 } from "@/utils/dragonUtils";
-import { DragonMoves, SelectedStage } from "@/lib/utils";
+import {
+  DragonMoves,
+  SelectedStage,
+  Personality,
+  DragonAsset as Asset,
+} from "@/utils/types";
 import { Combobox } from "@/components/ui/combobox";
 import { useSpineAnimation } from "@/hooks/useSpineAnimation";
 import { animateAura } from "@/spine/SpineObject";
-import { Personality } from "@/types/personality";
 import { StageSelector } from "../dragon/StageSelector";
 import { FormSelector } from "../dragon/FormSelector";
 import { GenderSelector } from "../dragon/GenderSelector";
@@ -28,14 +32,6 @@ import {
 } from "@/components/ui/sheet";
 import { Button } from "@/components/ui/button";
 import { ShareDialog } from "@/components/share/ShareDialog";
-
-interface Asset {
-  stage: SelectedStage;
-  path: string;
-  form_number: string;
-  gender: "m" | "f" | "n";
-  color_code: string;
-}
 
 interface Background {
   display_name: string;
@@ -176,7 +172,12 @@ export function PreviewControls({
     );
 
     return cleanup;
-  }, [selectedPersonality, frontAuraCanvasId, backAuraCanvasId,personalityJson]);
+  }, [
+    selectedPersonality,
+    frontAuraCanvasId,
+    backAuraCanvasId,
+    personalityJson,
+  ]);
 
   // Function to update URL
   const updateURL = (params: Record<string, string>) => {

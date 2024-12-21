@@ -6,7 +6,7 @@ import {
   floorBaseUrl,
 } from "@/utils/dragonUtils";
 import * as spine from "@esotericsoftware/spine-webgl";
-import { Personality } from "../types/personality";
+import { Personality } from "@/utils/types";
 
 export class SpineObject {
   skeleton: spine.Skeleton | null;

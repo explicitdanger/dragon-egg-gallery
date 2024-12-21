@@ -4,6 +4,16 @@ export interface Personality {
   each?: string;
 }
 
+export enum DragonMoves {
+  MOVE = "move",
+  IDLE = "idle",
+  HOLD = "holding",
+  TOUCH = "touch",
+  NONE = "none",
+}
+
+export type SelectedStage = "hatch" | "hatchling" | "adult";
+
 export interface Dragon {
   name: string;
   egg_description: string;
@@ -21,10 +31,10 @@ export interface Dragon {
   egg_img_url: string;
 }
 
-interface DragonAsset {
+export interface DragonAsset {
   form_number: string;
   gender: "f" | "m" | "n";
-  stage: "hatch" | "hatchling" | "adult";
+  stage: SelectedStage;
   color_code: string;
   path: string;
 }

@@ -1,6 +1,5 @@
-import { SelectedStage } from "@/lib/utils";
 import * as spine from "@esotericsoftware/spine-webgl";
-
+import { SelectedStage } from "@/utils/types";
 export class BaseSpineObject {
   skeleton: spine.Skeleton | null;
   animationState: spine.AnimationState | null;

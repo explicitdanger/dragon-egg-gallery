@@ -1,6 +1,6 @@
 import { useEffect, useRef } from "react";
 import { animate } from "@/spine/SpineObject";
-import { DragonMoves, SelectedStage } from "@/lib/utils";
+import { DragonMoves, SelectedStage } from "@/utils/types";
 import * as spine from "@esotericsoftware/spine-webgl";
 
 export function useSpineAnimation(

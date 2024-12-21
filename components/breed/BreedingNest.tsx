@@ -1,7 +1,7 @@
 import BreedingNestClient from "./BreedingNestClient";
-import { getData } from "@/lib/utils";
+import { getData } from "@/utils/api";
 import { notFound } from "next/navigation";
-import { Dragon } from "@/types/dragon";
+import { Dragon } from "@/utils/types";
 
 export default async function BreedingNest() {
   const data = await getData();

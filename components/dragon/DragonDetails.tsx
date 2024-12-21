@@ -1,17 +1,7 @@
+import { Dragon } from "@/utils/types";
+
 interface DragonDetailsProps {
-  dragon: {
-    name: string;
-    egg_description: string;
-    elements: string[];
-    rarity: string;
-    region: string;
-    dragon_type: string;
-    body_type: string;
-    food: string;
-    tradeable: boolean;
-    breeding_tier: number;
-    forms?: string[];
-  };
+  dragon: Dragon;
 }
 
 export default function DragonDetails({ dragon }: DragonDetailsProps) {

@@ -16,7 +16,7 @@ import {
   groupAssetsByGender,
   getCurrentAsset,
 } from "@/utils/dragonUtils";
-import { DragonMoves } from "@/lib/utils";
+import { DragonMoves } from "@/utils/types";
 
 interface Asset {
   stage: "hatch" | "hatchling" | "adult";

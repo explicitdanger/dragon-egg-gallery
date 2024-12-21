@@ -1,8 +1,8 @@
 import { Metadata } from "next";
 import DragonSpines from "@/components/dragon/DragonSpines";
 import DragonDetails from "@/components/dragon/DragonDetails";
-import { Dragon } from "@/types/dragon";
-import { getDragonData } from "@/lib/utils";
+import { Dragon } from "@/utils/types";
+import { getDragonData } from "@/utils/api";
 import Link from "next/link";
 
 // Define the params type
