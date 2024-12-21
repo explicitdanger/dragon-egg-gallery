@@ -1,0 +1,67 @@
+{
+  "name": "sand dragon",
+  "egg_description": "This Egg's shell has a sand-like texture.",
+  "elements": [
+    "fire",
+    "earth"
+  ],
+  "rarity": "Common",
+  "region": "East Yutakan",
+  "dragon_type": "Sand Dragon",
+  "body_type": "Draco",
+  "food": "Mealworm, Crickets",
+  "tradeable": true,
+  "breeding_tier": 4,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "sand_01_f_adult_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "sand_01_f_hatch_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "sand_01_f_hatchling_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "sand_01_m_adult_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "sand_01_m_hatch_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "sand_01_m_hatchling_y"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c1/Sand_01_m_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173514",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Sand_Dragon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/53/Sand_00_e_egg_y.png/revision/latest?cb=20240202221009"
+}

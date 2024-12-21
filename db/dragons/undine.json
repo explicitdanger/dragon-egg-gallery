@@ -1,0 +1,126 @@
+{
+  "name": "undine",
+  "egg_description": "This Egg causes hallucinations.",
+  "elements": [
+    "water",
+    "dream"
+  ],
+  "rarity": "Rare",
+  "region": "Deep Sea",
+  "dragon_type": "Water drop Dragon",
+  "body_type": "Draco",
+  "food": "Starfruit",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "persion",
+    "signature",
+    "undead (default)",
+    "undead (signature)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "rp",
+      "path": "undine_01_f_adult_rp"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "rp",
+      "path": "undine_01_f_hatch_rp"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "rp",
+      "path": "undine_01_f_hatchling_rp"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "rp",
+      "path": "undine_01_m_adult_rp"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "rp",
+      "path": "undine_01_m_hatch_rp"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "rp",
+      "path": "undine_01_m_hatchling_rp"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "rp",
+      "path": "undine_02_f_adult_rp"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "rp",
+      "path": "undine_02_f_hatch_rp"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "rp",
+      "path": "undine_02_f_hatchling_rp"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "rp",
+      "path": "undine_02_m_adult_rp"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "rp",
+      "path": "undine_02_m_hatch_rp"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "rp",
+      "path": "undine_02_m_hatchling_rp"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "rp",
+      "path": "undine_03_f_adult_rp"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "rp",
+      "path": "undine_03_m_adult_rp"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/23/Undine_01_f_adult_rp_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173640",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Undine",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/99/Undine_00_e_egg_rp.png/revision/latest?cb=20240418015134"
+}

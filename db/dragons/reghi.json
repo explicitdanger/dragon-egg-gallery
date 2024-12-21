@@ -1,0 +1,66 @@
+{
+  "name": "reghi",
+  "egg_description": "This Egg locates things that have been abandoned.",
+  "elements": [
+    "dark",
+    "dream"
+  ],
+  "rarity": "Rare",
+  "region": "Sky Kingdom",
+  "dragon_type": "Collector Dragon",
+  "body_type": "Wyvern",
+  "food": "Tulip",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "reghi_01_f_adult_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "reghi_01_f_hatch_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "reghi_01_f_hatchling_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "reghi_01_m_adult_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "reghi_01_m_hatch_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "reghi_01_m_hatchling_bk"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/34/Reghi_01_f_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20241114001213",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Reghi",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/09/Reghi_00_e_egg_bk.png/revision/latest?cb=20241114001348"
+}

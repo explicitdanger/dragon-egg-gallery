@@ -1,0 +1,152 @@
+{
+  "name": "phoenix dragon",
+  "egg_description": "This Egg is burning in flames.",
+  "elements": [
+    "fire"
+  ],
+  "rarity": "Uncommon",
+  "region": "East Yutakan",
+  "dragon_type": "Phoenix Dragon",
+  "body_type": "Draco",
+  "food": "Roast Turkey",
+  "tradeable": true,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "blue phoenix",
+    "ash phoenix",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "r",
+      "path": "phoenix_01_f_adult_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "r",
+      "path": "phoenix_01_f_hatch_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "r",
+      "path": "phoenix_01_f_hatchling_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "r",
+      "path": "phoenix_01_m_adult_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "r",
+      "path": "phoenix_01_m_hatch_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "r",
+      "path": "phoenix_01_m_hatchling_r"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "phoenix_02_f_adult_b"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "phoenix_02_f_hatch_b"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "phoenix_02_f_hatchling_b"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "phoenix_02_m_adult_b"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "phoenix_02_m_hatch_b"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "phoenix_02_m_hatchling_b"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "phoenix_03_f_adult_bk"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "phoenix_03_f_hatch_bk"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "phoenix_03_f_hatchling_bk"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "phoenix_03_m_adult_bk"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "phoenix_03_m_hatch_bk"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "phoenix_03_m_hatchling_bk"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/ac/Phoenix_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173353",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Phoenix_Dragon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d0/Phoenix_00_e_egg_r.png/revision/latest?cb=20240202215900"
+}

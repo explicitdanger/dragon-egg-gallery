@@ -1,0 +1,125 @@
+{
+  "name": "lattegon",
+  "egg_description": "This Egg is topped with cream.",
+  "elements": [
+    "water"
+  ],
+  "rarity": "Rare",
+  "region": "Special",
+  "dragon_type": "Coffee Dragon",
+  "body_type": "Draco",
+  "food": "coffee beans",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "cafe latte",
+    "white chocolate latte",
+    "undead (default)",
+    "undead (cafe latte)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "yr",
+      "path": "lattegon_01_f_adult_yr"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "yr",
+      "path": "lattegon_01_f_hatch_yr"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "yr",
+      "path": "lattegon_01_f_hatchling_yr"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "yr",
+      "path": "lattegon_01_m_adult_yr"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "yr",
+      "path": "lattegon_01_m_hatch_yr"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "yr",
+      "path": "lattegon_01_m_hatchling_yr"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "yr",
+      "path": "lattegon_02_f_adult_yr"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "yr",
+      "path": "lattegon_02_f_hatch_yr"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "yr",
+      "path": "lattegon_02_f_hatchling_yr"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "yr",
+      "path": "lattegon_02_m_adult_yr"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "yr",
+      "path": "lattegon_02_m_hatch_yr"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "yr",
+      "path": "lattegon_02_m_hatchling_yr"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "lattegon_03_f_adult_w"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "lattegon_03_m_adult_w"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/fe/Lattegon_02_m_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173207",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Lattegon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d9/Lattegon_00_e_egg_yr.png/revision/latest?cb=20231206033041"
+}

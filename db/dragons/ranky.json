@@ -1,0 +1,309 @@
+{
+  "name": "ranky",
+  "egg_description": "This Egg is wearing headphones.",
+  "elements": [
+    "lightning",
+    "dark"
+  ],
+  "rarity": "Rare",
+  "region": "Special",
+  "dragon_type": "Gamer Dragon",
+  "body_type": "Draco",
+  "food": "Whirl Flower",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "cyberpunk",
+    "cooking game",
+    "rhythm game",
+    "sports game",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "gy",
+      "path": "ranky_01_f_adult_gy"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "gy",
+      "path": "ranky_01_f_hatch_gy"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "gy",
+      "path": "ranky_01_f_hatchling_gy"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "gy",
+      "path": "ranky_01_m_adult_gy"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "gy",
+      "path": "ranky_01_m_hatch_gy"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "gy",
+      "path": "ranky_01_m_hatchling_gy"
+    },
+    {
+      "form_number": "01n",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "p",
+      "path": "ranky_01n_f_adult_p"
+    },
+    {
+      "form_number": "01n",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "p",
+      "path": "ranky_01n_m_adult_p"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "gy",
+      "path": "ranky_02_f_adult_gy"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "gy",
+      "path": "ranky_02_f_hatch_gy"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "gy",
+      "path": "ranky_02_f_hatchling_gy"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "gy",
+      "path": "ranky_02_m_adult_gy"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "gy",
+      "path": "ranky_02_m_hatch_gy"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "gy",
+      "path": "ranky_02_m_hatchling_gy"
+    },
+    {
+      "form_number": "02n",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "p",
+      "path": "ranky_02n_f_adult_p"
+    },
+    {
+      "form_number": "02n",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "p",
+      "path": "ranky_02n_m_adult_p"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "ranky_03_f_adult_y"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "ranky_03_f_hatch_y"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "ranky_03_f_hatchling_y"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "ranky_03_m_adult_y"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "ranky_03_m_hatch_y"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "ranky_03_m_hatchling_y"
+    },
+    {
+      "form_number": "03n",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "ranky_03n_f_adult_bk"
+    },
+    {
+      "form_number": "03n",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "ranky_03n_m_adult_bk"
+    },
+    {
+      "form_number": "04",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "ranky_04_f_adult_b"
+    },
+    {
+      "form_number": "04",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "ranky_04_f_hatch_b"
+    },
+    {
+      "form_number": "04",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "ranky_04_f_hatchling_b"
+    },
+    {
+      "form_number": "04",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "ranky_04_m_adult_b"
+    },
+    {
+      "form_number": "04",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "ranky_04_m_hatch_b"
+    },
+    {
+      "form_number": "04",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "ranky_04_m_hatchling_b"
+    },
+    {
+      "form_number": "04n",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "pb",
+      "path": "ranky_04n_f_adult_pb"
+    },
+    {
+      "form_number": "04n",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "pb",
+      "path": "ranky_04n_m_adult_pb"
+    },
+    {
+      "form_number": "05",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "bg",
+      "path": "ranky_05_f_adult_bg"
+    },
+    {
+      "form_number": "05",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "bg",
+      "path": "ranky_05_f_hatch_bg"
+    },
+    {
+      "form_number": "05",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "bg",
+      "path": "ranky_05_f_hatchling_bg"
+    },
+    {
+      "form_number": "05",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bg",
+      "path": "ranky_05_m_adult_bg"
+    },
+    {
+      "form_number": "05",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "bg",
+      "path": "ranky_05_m_hatch_bg"
+    },
+    {
+      "form_number": "05",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "bg",
+      "path": "ranky_05_m_hatchling_bg"
+    },
+    {
+      "form_number": "05n",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "ranky_05n_f_adult_y"
+    },
+    {
+      "form_number": "05n",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "ranky_05n_m_adult_y"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/61/Ranky_02_m_adult_gy_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173439",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Ranky",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e6/Ranky_00_e_egg_gy.png/revision/latest?cb=20231026203556"
+}

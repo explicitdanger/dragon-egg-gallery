@@ -1,0 +1,66 @@
+{
+  "name": "lightning dragon",
+  "egg_description": "The pattern on this Egg resembles lightning.",
+  "elements": [
+    "lightning"
+  ],
+  "rarity": "Epic",
+  "region": "East Yutakan",
+  "dragon_type": "Lightning Dragon",
+  "body_type": "Draco",
+  "food": "Grasshopper",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "r",
+      "path": "lightning_01_f_adult_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "r",
+      "path": "lightning_01_f_hatch_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "r",
+      "path": "lightning_01_f_hatchling_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "r",
+      "path": "lightning_01_m_adult_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "r",
+      "path": "lightning_01_m_hatch_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "r",
+      "path": "lightning_01_m_hatchling_r"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/82/Lightning_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173208",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Lightning_Dragon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/cb/Lightning_00_e_egg_r.png/revision/latest?cb=20240202224409"
+}

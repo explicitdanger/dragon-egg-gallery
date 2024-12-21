@@ -1,0 +1,67 @@
+{
+  "name": "poison river",
+  "egg_description": "This Egg has tentacles attached.",
+  "elements": [
+    "water",
+    "dark"
+  ],
+  "rarity": "Epic",
+  "region": "West Yutakan",
+  "dragon_type": "Poison Dragon",
+  "body_type": "Draco",
+  "food": "Meggison",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "p",
+      "path": "poisonriver_01_f_adult_p"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "p",
+      "path": "poisonriver_01_f_hatch_p"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "p",
+      "path": "poisonriver_01_f_hatchling_p"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "p",
+      "path": "poisonriver_01_m_adult_p"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "p",
+      "path": "poisonriver_01_m_hatch_p"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "p",
+      "path": "poisonriver_01_m_hatchling_p"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/54/Poisonriver_01_m_adult_p_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173354",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Poison_River",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d1/Poisonriver_00_e_egg_p.png/revision/latest?cb=20230919103453"
+}

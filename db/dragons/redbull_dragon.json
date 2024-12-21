@@ -1,0 +1,66 @@
+{
+  "name": "redbull dragon",
+  "egg_description": "This Egg exudes strong energy.",
+  "elements": [
+    "fire"
+  ],
+  "rarity": "Rare",
+  "region": "East Yutakan",
+  "dragon_type": "Bull Dragon",
+  "body_type": "Draco",
+  "food": "Roast Turkey",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "r",
+      "path": "redbulldragon_01_f_adult_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "r",
+      "path": "redbulldragon_01_f_hatch_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "r",
+      "path": "redbulldragon_01_f_hatchling_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "r",
+      "path": "redbulldragon_01_m_adult_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "r",
+      "path": "redbulldragon_01_m_hatch_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "r",
+      "path": "redbulldragon_01_m_hatchling_r"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/79/Redbulldragon_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173439",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Redbull_Dragon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/8d/Redbulldragon_00_e_egg_r.png/revision/latest?cb=20240318030805"
+}

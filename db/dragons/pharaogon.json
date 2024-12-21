@@ -1,0 +1,66 @@
+{
+  "name": "pharaogon",
+  "egg_description": "This Egg is guarded by a snake.",
+  "elements": [
+    "light"
+  ],
+  "rarity": "Legendary",
+  "region": "West Yutakan",
+  "dragon_type": "Emperor Dragon",
+  "body_type": "Draco",
+  "food": "Melon",
+  "tradeable": true,
+  "breeding_tier": 0,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "pharaogon_01_f_adult_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "pharaogon_01_f_hatch_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "pharaogon_01_f_hatchling_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "pharaogon_01_m_adult_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "pharaogon_01_m_hatch_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "pharaogon_01_m_hatchling_y"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/43/Pharaogon_01_m_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173353",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Pharaogon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9b/Pharaogon_00_e_egg_y.png/revision/latest?cb=20231020163951"
+}

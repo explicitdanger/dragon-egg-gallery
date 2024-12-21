@@ -1,0 +1,97 @@
+{
+  "name": "fat",
+  "egg_description": "This Egg comes with a shield.",
+  "elements": [
+    "steel",
+    "dream"
+  ],
+  "rarity": "Common",
+  "region": "East Yutakan",
+  "dragon_type": "Sleep Dragon",
+  "body_type": "Draco",
+  "food": "All Sorts",
+  "tradeable": true,
+  "breeding_tier": 4,
+  "forms": [
+    "default",
+    "sleeping fat",
+    "furious fat",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "fat_01_f_adult_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "fat_01_f_hatch_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "fat_01_f_hatchling_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "fat_01_m_adult_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "fat_01_m_hatch_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "fat_01_m_hatchling_bk"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "fat_02_f_adult_bk"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "fat_02_m_adult_bk"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "fat_03_f_adult_bk"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "fat_03_m_adult_bk"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/fc/Fat_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172400",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Fat",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/72/Fat_00_e_egg_bk.png/revision/latest?cb=20240202223918"
+}

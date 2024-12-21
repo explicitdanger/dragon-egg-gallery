@@ -1,0 +1,67 @@
+{
+  "name": "snow frost dragon",
+  "egg_description": "This Egg is surrounded by cold air.",
+  "elements": [
+    "dark",
+    "water"
+  ],
+  "rarity": "Epic",
+  "region": "Special",
+  "dragon_type": "Ice Dragon",
+  "body_type": "Draco",
+  "food": "Dark Melon",
+  "tradeable": false,
+  "breeding_tier": 5,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "snowfrostdragon_01_f_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "snowfrostdragon_01_f_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "snowfrostdragon_01_f_hatchling_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "snowfrostdragon_01_m_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "snowfrostdragon_01_m_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "snowfrostdragon_01_m_hatchling_w"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/76/Snowfrostdragon_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173519",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Snow_Frost_Dragon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c5/Snowfrostdragon_00_e_egg_w.png/revision/latest?cb=20230824075907"
+}

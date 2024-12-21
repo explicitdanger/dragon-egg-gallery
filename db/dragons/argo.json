@@ -1,0 +1,110 @@
+{
+  "name": "argo",
+  "egg_description": "This Egg burns with justice.",
+  "elements": [
+    "light",
+    "fire"
+  ],
+  "rarity": "Epic",
+  "region": "Deep Sea",
+  "dragon_type": "Ether Dragon",
+  "body_type": "Draco",
+  "food": "Drumstick",
+  "tradeable": false,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "persion",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "argo_01_f_adult_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "argo_01_f_hatch_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "argo_01_f_hatchling_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "argo_01_m_adult_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "argo_01_m_hatch_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "argo_01_m_hatchling_bk"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "argo_02_f_adult_b"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "argo_02_f_hatch_b"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "argo_02_f_hatchling_b"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "argo_02_m_adult_b"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "argo_02_m_hatch_b"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "argo_02_m_hatchling_b"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e3/Argo_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419190537",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Argo",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/42/Argo_00_e_egg_bk.png/revision/latest?cb=20240418014803"
+}

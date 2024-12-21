@@ -1,0 +1,81 @@
+{
+  "name": "cozy dragon",
+  "egg_description": "This Egg feels emotional instability.",
+  "elements": [
+    "light"
+  ],
+  "rarity": "Uncommon",
+  "region": "Sky Kingdom",
+  "dragon_type": "Light Dragon",
+  "body_type": "Draco",
+  "food": "Melon",
+  "tradeable": true,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "serious",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "cozydragon_01_f_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "cozydragon_01_f_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "cozydragon_01_f_hatchling_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "cozydragon_01_m_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "cozydragon_01_m_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "cozydragon_01_m_hatchling_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "cozydragon_02_f_adult_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "cozydragon_02_m_adult_w"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/88/Cozydragon_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033757",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Cozy_Dragon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/32/Cozydragon_00_e_egg_w.png/revision/latest?cb=20240724022318"
+}

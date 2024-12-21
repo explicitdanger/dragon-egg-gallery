@@ -1,0 +1,67 @@
+{
+  "name": "frame",
+  "egg_description": "This Egg is placed in a frame.",
+  "elements": [
+    "dream",
+    "steel"
+  ],
+  "rarity": "Rare",
+  "region": "West Yutakan",
+  "dragon_type": "Frame Dragon",
+  "body_type": "Draco",
+  "food": "Memory",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "frame_01_f_adult_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "frame_01_f_hatch_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "frame_01_f_hatchling_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "frame_01_m_adult_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "frame_01_m_hatch_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "frame_01_m_hatchling_bk"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/8a/Frame_01_f_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172400",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Frame",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c0/Frame_00_e_egg_bk.png/revision/latest?cb=20231117000726"
+}

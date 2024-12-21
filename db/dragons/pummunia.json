@@ -1,0 +1,39 @@
+{
+  "name": "pummunia",
+  "egg_description": "This Egg flutters in search of sweet treats.",
+  "elements": [
+    "dark",
+    "dream"
+  ],
+  "rarity": "Epic",
+  "region": "Special",
+  "dragon_type": "Egg Dragon",
+  "body_type": "Munia",
+  "food": "Candy",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "yr",
+      "path": "pummunia_01_f_adult_yr"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "yr",
+      "path": "pummunia_01_m_adult_yr"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/96/Pummunia_01_m_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20241017004958",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Pummunia",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/53/Pummunia_00_e_egg_yr.png/revision/latest?cb=20241017005208"
+}

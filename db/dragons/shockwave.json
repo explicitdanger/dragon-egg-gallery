@@ -1,0 +1,412 @@
+{
+  "name": "shockwave",
+  "egg_description": "This Egg leaves a trail.",
+  "elements": [
+    "wind",
+    "steel"
+  ],
+  "rarity": "Rare",
+  "region": "Special",
+  "dragon_type": "Speed Dragon",
+  "body_type": "Draco",
+  "food": "Whirl Flower",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "azure's blue sky",
+    "azure's golden sunset",
+    "azure's crimson sunset",
+    "azure's starry sky",
+    "blue sky",
+    "golden sunset",
+    "crimson sunset",
+    "starry sky",
+    "undead (default)",
+    "undead (azure's blue sky)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "shockwave_01_f_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "shockwave_01_f_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "shockwave_01_f_hatchling_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "shockwave_01_m_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "shockwave_01_m_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "shockwave_01_m_hatchling_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "shockwave_02_f_adult_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "shockwave_02_f_hatch_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "shockwave_02_f_hatchling_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "shockwave_02_m_adult_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "shockwave_02_m_hatch_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "shockwave_02_m_hatchling_w"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "shockwave_03_f_adult_b"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "shockwave_03_f_hatch_b"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "shockwave_03_f_hatchling_b"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "shockwave_03_m_adult_b"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "shockwave_03_m_hatch_b"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "shockwave_03_m_hatchling_b"
+    },
+    {
+      "form_number": "04",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "shockwave_04_f_adult_w"
+    },
+    {
+      "form_number": "04",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "shockwave_04_f_hatch_w"
+    },
+    {
+      "form_number": "04",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "shockwave_04_f_hatchling_w"
+    },
+    {
+      "form_number": "04",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "shockwave_04_m_adult_w"
+    },
+    {
+      "form_number": "04",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "shockwave_04_m_hatch_w"
+    },
+    {
+      "form_number": "04",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "shockwave_04_m_hatchling_w"
+    },
+    {
+      "form_number": "05",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "shockwave_05_f_adult_bk"
+    },
+    {
+      "form_number": "05",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "shockwave_05_f_hatch_bk"
+    },
+    {
+      "form_number": "05",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "shockwave_05_f_hatchling_bk"
+    },
+    {
+      "form_number": "05",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "shockwave_05_m_adult_bk"
+    },
+    {
+      "form_number": "05",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "shockwave_05_m_hatch_bk"
+    },
+    {
+      "form_number": "05",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "shockwave_05_m_hatchling_bk"
+    },
+    {
+      "form_number": "06",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "shockwave_06_f_adult_w"
+    },
+    {
+      "form_number": "06",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "shockwave_06_f_hatch_w"
+    },
+    {
+      "form_number": "06",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "shockwave_06_f_hatchling_w"
+    },
+    {
+      "form_number": "06",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "shockwave_06_m_adult_w"
+    },
+    {
+      "form_number": "06",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "shockwave_06_m_hatch_w"
+    },
+    {
+      "form_number": "06",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "shockwave_06_m_hatchling_w"
+    },
+    {
+      "form_number": "07",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "shockwave_07_f_adult_b"
+    },
+    {
+      "form_number": "07",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "shockwave_07_f_hatch_b"
+    },
+    {
+      "form_number": "07",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "shockwave_07_f_hatchling_b"
+    },
+    {
+      "form_number": "07",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "shockwave_07_m_adult_b"
+    },
+    {
+      "form_number": "07",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "shockwave_07_m_hatch_b"
+    },
+    {
+      "form_number": "07",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "shockwave_07_m_hatchling_b"
+    },
+    {
+      "form_number": "08",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "shockwave_08_f_adult_w"
+    },
+    {
+      "form_number": "08",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "shockwave_08_f_hatch_w"
+    },
+    {
+      "form_number": "08",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "shockwave_08_f_hatchling_w"
+    },
+    {
+      "form_number": "08",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "shockwave_08_m_adult_w"
+    },
+    {
+      "form_number": "08",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "shockwave_08_m_hatch_w"
+    },
+    {
+      "form_number": "08",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "shockwave_08_m_hatchling_w"
+    },
+    {
+      "form_number": "09",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "shockwave_09_f_adult_bk"
+    },
+    {
+      "form_number": "09",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "shockwave_09_f_hatch_bk"
+    },
+    {
+      "form_number": "09",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "shockwave_09_f_hatchling_bk"
+    },
+    {
+      "form_number": "09",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "shockwave_09_m_adult_bk"
+    },
+    {
+      "form_number": "09",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "shockwave_09_m_hatch_bk"
+    },
+    {
+      "form_number": "09",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "shockwave_09_m_hatchling_bk"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a0/Shockwave_02_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240530035101",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Shockwave",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/85/Shockwave_00_e_egg_w.png/revision/latest?cb=20240530022641"
+}

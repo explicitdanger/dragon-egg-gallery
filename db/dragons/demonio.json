@@ -1,0 +1,66 @@
+{
+  "name": "demonio",
+  "egg_description": "This Egg has a crimson gem attached to it.",
+  "elements": [
+    "fire"
+  ],
+  "rarity": "Rare",
+  "region": "West Yutakan",
+  "dragon_type": "Guardian Dragon",
+  "body_type": "Draco",
+  "food": "Roast Turkey",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "r",
+      "path": "demonio_01_f_adult_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "r",
+      "path": "demonio_01_f_hatch_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "r",
+      "path": "demonio_01_f_hatchling_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "r",
+      "path": "demonio_01_m_adult_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "r",
+      "path": "demonio_01_m_hatch_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "r",
+      "path": "demonio_01_m_hatchling_r"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/7c/Demonio_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172216",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Demonio",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/77/Demonio_00_e_egg_r.png/revision/latest?cb=20231026195440"
+}

@@ -1,0 +1,152 @@
+{
+  "name": "cratio",
+  "egg_description": "This Egg is boiling lava.",
+  "elements": [
+    "fire"
+  ],
+  "rarity": "Epic",
+  "region": "Special",
+  "dragon_type": "Volcano Dragon",
+  "body_type": "Drake",
+  "food": "Magic Petals",
+  "tradeable": false,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "aquris",
+    "abyss",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "cratio_01_f_adult_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "cratio_01_f_hatch_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "cratio_01_f_hatchling_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "cratio_01_m_adult_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "cratio_01_m_hatch_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "cratio_01_m_hatchling_bk"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "cratio_02_f_adult_bk"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "cratio_02_f_hatch_bk"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "cratio_02_f_hatchling_bk"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "cratio_02_m_adult_bk"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "cratio_02_m_hatch_bk"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "cratio_02_m_hatchling_bk"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "pb",
+      "path": "cratio_03_f_adult_pb"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "pb",
+      "path": "cratio_03_f_hatch_pb"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "pb",
+      "path": "cratio_03_f_hatchling_pb"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "pb",
+      "path": "cratio_03_m_adult_pb"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "pb",
+      "path": "cratio_03_m_hatch_pb"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "pb",
+      "path": "cratio_03_m_hatchling_pb"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b8/Cratio_02_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171929",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Cratio",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/04/Cratio_00_e_egg_bk.png/revision/latest?cb=20240201023921"
+}

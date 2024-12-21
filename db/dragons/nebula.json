@@ -1,0 +1,45 @@
+{
+  "name": "nebula",
+  "egg_description": "This Egg holds the energy of the stars.",
+  "elements": [
+    "dream"
+  ],
+  "rarity": "Epic",
+  "region": "East Yutakan",
+  "dragon_type": "Nebula Dragon",
+  "body_type": "Draco",
+  "food": "Starfruit",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "n",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "nebula_01_n_adult_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "n",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "nebula_01_n_hatch_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "n",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "nebula_01_n_hatchling_bk"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/ab/Nebula_01_n_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173306",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Nebula",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f9/Nebula_00_e_egg_bk.png/revision/latest?cb=20240202230338"
+}

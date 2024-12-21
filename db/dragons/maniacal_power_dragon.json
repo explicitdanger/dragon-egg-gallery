@@ -1,0 +1,67 @@
+{
+  "name": "maniacal power dragon",
+  "egg_description": "This Egg holds tremendously rough power.",
+  "elements": [
+    "dark",
+    "earth"
+  ],
+  "rarity": "Epic",
+  "region": "Special",
+  "dragon_type": "Power Dragon",
+  "body_type": "Draco",
+  "food": "Paopao Fruit",
+  "tradeable": false,
+  "breeding_tier": 5,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "yr",
+      "path": "maniacalpowerdragon_01_f_adult_yr"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "yr",
+      "path": "maniacalpowerdragon_01_f_hatch_yr"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "yr",
+      "path": "maniacalpowerdragon_01_f_hatchling_yr"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "yr",
+      "path": "maniacalpowerdragon_01_m_adult_yr"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "yr",
+      "path": "maniacalpowerdragon_01_m_hatch_yr"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "yr",
+      "path": "maniacalpowerdragon_01_m_hatchling_yr"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/57/Maniacalpowerdragon_01_m_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173233",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Maniacal_Power_Dragon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f2/Maniacalpowerdragon_00_e_egg_yr.png/revision/latest?cb=20230824080039"
+}

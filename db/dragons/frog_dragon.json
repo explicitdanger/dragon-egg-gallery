@@ -1,0 +1,195 @@
+{
+  "name": "frog dragon",
+  "egg_description": "This Egg is smooth but has coarse hairs.",
+  "elements": [
+    "water"
+  ],
+  "rarity": "Common",
+  "region": "East Yutakan",
+  "dragon_type": "Water Dragon",
+  "body_type": "Draco",
+  "food": "Crickets, Mealworm",
+  "tradeable": true,
+  "breeding_tier": 4,
+  "forms": [
+    "spring",
+    "summer",
+    "fall",
+    "winter",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "g",
+      "path": "frog_01_f_adult_g"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "g",
+      "path": "frog_01_f_hatch_g"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "g",
+      "path": "frog_01_f_hatchling_g"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "g",
+      "path": "frog_01_m_adult_g"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "g",
+      "path": "frog_01_m_hatch_g"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "g",
+      "path": "frog_01_m_hatchling_g"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "frog_02_f_adult_b"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "frog_02_f_hatch_b"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "frog_02_f_hatchling_b"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "frog_02_m_adult_b"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "frog_02_m_hatch_b"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "frog_02_m_hatchling_b"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "yr",
+      "path": "frog_03_f_adult_yr"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "yr",
+      "path": "frog_03_f_hatch_yr"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "yr",
+      "path": "frog_03_f_hatchling_yr"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "yr",
+      "path": "frog_03_m_adult_yr"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "yr",
+      "path": "frog_03_m_hatch_yr"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "yr",
+      "path": "frog_03_m_hatchling_yr"
+    },
+    {
+      "form_number": "04",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "bg",
+      "path": "frog_04_f_adult_bg"
+    },
+    {
+      "form_number": "04",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "bg",
+      "path": "frog_04_f_hatch_bg"
+    },
+    {
+      "form_number": "04",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "bg",
+      "path": "frog_04_f_hatchling_bg"
+    },
+    {
+      "form_number": "04",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bg",
+      "path": "frog_04_m_adult_bg"
+    },
+    {
+      "form_number": "04",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "bg",
+      "path": "frog_04_m_hatch_bg"
+    },
+    {
+      "form_number": "04",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "bg",
+      "path": "frog_04_m_hatchling_bg"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/2e/Frog_01_m_adult_g_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172400",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Frog_Dragon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/00/Frog_00_e_egg_g.png/revision/latest?cb=20240202221142"
+}

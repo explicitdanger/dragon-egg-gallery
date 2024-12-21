@@ -1,0 +1,45 @@
+{
+  "name": "white dragon",
+  "egg_description": "This Egg forms bright light around it.",
+  "elements": [
+    "light"
+  ],
+  "rarity": "Epic",
+  "region": "East Yutakan",
+  "dragon_type": "Hope Dragon",
+  "body_type": "Draco",
+  "food": "Melon",
+  "tradeable": false,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "whitedragon_01_f_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "whitedragon_01_f_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "whitedragon_01_f_hatchling_w"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/1c/Whitedragon_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173723",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/White_Dragon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/39/Whitedragon_00_e_egg_w.png/revision/latest?cb=20240203000530"
+}

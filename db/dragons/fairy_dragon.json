@@ -1,0 +1,152 @@
+{
+  "name": "fairy dragon",
+  "egg_description": "This Egg's antennae scans the surrounding area.",
+  "elements": [
+    "dream"
+  ],
+  "rarity": "Epic",
+  "region": "Deep Sea",
+  "dragon_type": "Fairy Dragon",
+  "body_type": "Draco",
+  "food": "Starfruit",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "azure submerged volcano",
+    "tranquil rocky outcrop",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "fairydragon_01_f_adult_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "fairydragon_01_f_hatch_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "fairydragon_01_f_hatchling_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "fairydragon_01_m_adult_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "fairydragon_01_m_hatch_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "fairydragon_01_m_hatchling_b"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "gy",
+      "path": "fairydragon_02_f_adult_gy"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "gy",
+      "path": "fairydragon_02_f_hatch_gy"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "gy",
+      "path": "fairydragon_02_f_hatchling_gy"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "gy",
+      "path": "fairydragon_02_m_adult_gy"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "gy",
+      "path": "fairydragon_02_m_hatch_gy"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "gy",
+      "path": "fairydragon_02_m_hatchling_gy"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "pb",
+      "path": "fairydragon_03_f_adult_pb"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "pb",
+      "path": "fairydragon_03_f_hatch_pb"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "pb",
+      "path": "fairydragon_03_f_hatchling_pb"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "pb",
+      "path": "fairydragon_03_m_adult_pb"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "pb",
+      "path": "fairydragon_03_m_hatch_pb"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "pb",
+      "path": "fairydragon_03_m_hatchling_pb"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/17/Fairydragon_01_f_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172359",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Fairy_Dragon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/52/Fairydragon_00_e_egg_rp.png/revision/latest?cb=20240210080447"
+}

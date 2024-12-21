@@ -1,0 +1,109 @@
+{
+  "name": "sigma",
+  "egg_description": "This Egg wishes to protect darkness.",
+  "elements": [
+    "dark"
+  ],
+  "rarity": "Rare",
+  "region": "Deep Sea",
+  "dragon_type": "Dark Dragon",
+  "body_type": "Draco",
+  "food": "Purple Tulip",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "persion",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "pb",
+      "path": "sigma_01_f_adult_pb"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "pb",
+      "path": "sigma_01_f_hatch_pb"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "pb",
+      "path": "sigma_01_f_hatchling_pb"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "pb",
+      "path": "sigma_01_m_adult_pb"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "pb",
+      "path": "sigma_01_m_hatch_pb"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "pb",
+      "path": "sigma_01_m_hatchling_pb"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "r",
+      "path": "sigma_02_f_adult_r"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "r",
+      "path": "sigma_02_f_hatch_r"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "r",
+      "path": "sigma_02_f_hatchling_r"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "r",
+      "path": "sigma_02_m_adult_r"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "r",
+      "path": "sigma_02_m_hatch_r"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "r",
+      "path": "sigma_02_m_hatchling_r"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/fe/Sigma_01_f_adult_pb_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173516",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Sigma",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/09/Sigma_00_e_egg_pb.png/revision/latest?cb=20240215021402"
+}

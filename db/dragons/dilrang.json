@@ -1,0 +1,66 @@
+{
+  "name": "dilrang",
+  "egg_description": "This Egg is adorned with ornaments that emit a powerful light.",
+  "elements": [
+    "light"
+  ],
+  "rarity": "Rare",
+  "region": "Deep Sea",
+  "dragon_type": "Flying Dragon",
+  "body_type": "Draco",
+  "food": "Melon",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "dilrang_01_f_adult_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "dilrang_01_f_hatch_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "dilrang_01_f_hatchling_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "dilrang_01_m_adult_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "dilrang_01_m_hatch_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "dilrang_01_m_hatchling_y"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d0/Dilrang_01_m_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240530035101",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Dilrang",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/cb/Dilrang_00_e_egg_y.png/revision/latest?cb=20240530022621"
+}

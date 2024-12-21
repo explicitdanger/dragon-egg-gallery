@@ -1,0 +1,109 @@
+{
+  "name": "valla",
+  "egg_description": "The branches around this Egg can be easily broken.",
+  "elements": [
+    "light"
+  ],
+  "rarity": "Common",
+  "region": "East Yutakan",
+  "dragon_type": "Light Dragon",
+  "body_type": "Draco",
+  "food": "Grass",
+  "tradeable": true,
+  "breeding_tier": 4,
+  "forms": [
+    "default",
+    "full moon valla",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "bg",
+      "path": "valla_01_f_adult_bg"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "bg",
+      "path": "valla_01_f_hatch_bg"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "bg",
+      "path": "valla_01_f_hatchling_bg"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bg",
+      "path": "valla_01_m_adult_bg"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "bg",
+      "path": "valla_01_m_hatch_bg"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "bg",
+      "path": "valla_01_m_hatchling_bg"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "valla_02_f_adult_y"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "valla_02_f_hatch_y"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "valla_02_f_hatchling_y"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "valla_02_m_adult_y"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "valla_02_m_hatch_y"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "valla_02_m_hatchling_y"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/23/Valla_01_m_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173659",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Valla",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/71/Valla_00_e_egg_bg.png/revision/latest?cb=20240202224736"
+}

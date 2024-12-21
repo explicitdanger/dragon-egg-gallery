@@ -1,0 +1,67 @@
+{
+  "name": "lava dragon",
+  "egg_description": "This Egg's shell has solidified lava on it.",
+  "elements": [
+    "fire",
+    "earth"
+  ],
+  "rarity": "Uncommon",
+  "region": "East Yutakan",
+  "dragon_type": "Lava Dragon",
+  "body_type": "Draco",
+  "food": "Fire Carrot",
+  "tradeable": true,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "yr",
+      "path": "lava_01_f_adult_yr"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "yr",
+      "path": "lava_01_f_hatch_yr"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "yr",
+      "path": "lava_01_f_hatchling_yr"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "yr",
+      "path": "lava_01_m_adult_yr"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "yr",
+      "path": "lava_01_m_hatch_yr"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "yr",
+      "path": "lava_01_m_hatchling_yr"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/4c/Lava_01_m_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173207",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Lava_Dragon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c4/Lava_00_e_egg_yr.png/revision/latest?cb=20240202221042"
+}

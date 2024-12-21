@@ -1,0 +1,110 @@
+{
+  "name": "nubestella",
+  "egg_description": "This Egg gathers the energy of wishes.",
+  "elements": [
+    "dream",
+    "wind"
+  ],
+  "rarity": "Legendary",
+  "region": "Sky Kingdom",
+  "dragon_type": "Angel Dragon",
+  "body_type": "Draco",
+  "food": "Starlight Fruit",
+  "tradeable": true,
+  "breeding_tier": 0,
+  "forms": [
+    "default",
+    "celestial",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "nubestella_01_f_adult_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "nubestella_01_f_hatch_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "nubestella_01_f_hatchling_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "nubestella_01_m_adult_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "nubestella_01_m_hatch_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "nubestella_01_m_hatchling_b"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "nubestella_02_f_adult_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "nubestella_02_f_hatch_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "nubestella_02_f_hatchling_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "nubestella_02_m_adult_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "nubestella_02_m_hatch_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "nubestella_02_m_hatchling_w"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/49/Nubestella_01_f_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240905005432",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Nubestella",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/35/Nubestella_00_e_egg_b.png/revision/latest?cb=20240905003826"
+}

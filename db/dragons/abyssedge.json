@@ -1,0 +1,109 @@
+{
+  "name": "abyssedge",
+  "egg_description": "The fins of this Egg are as sharp as knives.",
+  "elements": [
+    "water"
+  ],
+  "rarity": "Uncommon",
+  "region": "East Yutakan",
+  "dragon_type": "Shark Dragon",
+  "body_type": "Drake",
+  "food": "Piranha",
+  "tradeable": false,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "underground castle",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "abyssedge_01_f_adult_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "abyssedge_01_f_hatch_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "abyssedge_01_f_hatchling_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "abyssedge_01_m_adult_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "abyssedge_01_m_hatch_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "abyssedge_01_m_hatchling_bk"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "abyssedge_02_f_adult_bk"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "abyssedge_02_f_hatch_bk"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "abyssedge_02_f_hatchling_bk"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "abyssedge_02_m_adult_bk"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "abyssedge_02_m_hatch_bk"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "abyssedge_02_m_hatchling_bk"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d0/Abyssedge_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/116?cb=20240419171841",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Abyssedge",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b3/Abyssedge_00_e_egg_bk.png/revision/latest?cb=20240202234752"
+}

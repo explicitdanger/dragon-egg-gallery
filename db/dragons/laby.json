@@ -1,0 +1,153 @@
+{
+  "name": "laby",
+  "egg_description": "This Egg spreads a deep, rich world tree fragrance.",
+  "elements": [
+    "earth",
+    "light"
+  ],
+  "rarity": "Epic",
+  "region": "Special",
+  "dragon_type": "Fairy Dragon",
+  "body_type": "Draco",
+  "food": "Paopao Fruit",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "restricted",
+    "liberated",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "laby_01_f_adult_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "laby_01_f_hatch_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "laby_01_f_hatchling_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "laby_01_m_adult_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "laby_01_m_hatch_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "laby_01_m_hatchling_y"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "laby_02_f_adult_y"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "laby_02_f_hatch_y"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "laby_02_f_hatchling_y"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "laby_02_m_adult_y"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "laby_02_m_hatch_y"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "laby_02_m_hatchling_y"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "rp",
+      "path": "laby_03_f_adult_rp"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "rp",
+      "path": "laby_03_f_hatch_rp"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "rp",
+      "path": "laby_03_f_hatchling_rp"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "rp",
+      "path": "laby_03_m_adult_rp"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "rp",
+      "path": "laby_03_m_hatch_rp"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "rp",
+      "path": "laby_03_m_hatchling_rp"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/0d/Laby_02_f_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20241017004957",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Laby",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d6/Laby_00_e_egg_y.png/revision/latest?cb=20241017005208"
+}

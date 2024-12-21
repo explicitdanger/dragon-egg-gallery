@@ -1,0 +1,151 @@
+{
+  "name": "spica",
+  "egg_description": "This Egg looks after wishes.",
+  "elements": [
+    "dream"
+  ],
+  "rarity": "Rare",
+  "region": "Special",
+  "dragon_type": "Star Dragon",
+  "body_type": "Draco",
+  "food": "Starfruit",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "shooting star",
+    "black hole"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "spica_01_f_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "spica_01_f_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "spica_01_f_hatchling_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "spica_01_m_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "spica_01_m_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "spica_01_m_hatchling_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "spica_02_f_adult_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "spica_02_f_hatch_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "spica_02_f_hatchling_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "spica_02_m_adult_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "spica_02_m_hatch_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "spica_02_m_hatchling_w"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "p",
+      "path": "spica_03_f_adult_p"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "p",
+      "path": "spica_03_f_hatch_p"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "p",
+      "path": "spica_03_f_hatchling_p"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "p",
+      "path": "spica_03_m_adult_p"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "p",
+      "path": "spica_03_m_hatch_p"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "p",
+      "path": "spica_03_m_hatchling_p"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/82/Spica_02_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173520",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Spica",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c2/Spica_00_e_egg_w.png/revision/latest?cb=20240118022030"
+}

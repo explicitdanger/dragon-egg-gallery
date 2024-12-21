@@ -1,0 +1,66 @@
+{
+  "name": "hourglass dragon",
+  "egg_description": "This Egg measures time.",
+  "elements": [
+    "earth",
+    "wind"
+  ],
+  "rarity": "Rare",
+  "region": "West Yutakan",
+  "dragon_type": "Time Dragon",
+  "body_type": "Draco",
+  "food": "Yggdrasill",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "yr",
+      "path": "hourglassdragon_01_f_adult_yr"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "yr",
+      "path": "hourglassdragon_01_f_hatch_yr"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "yr",
+      "path": "hourglassdragon_01_f_hatchling_yr"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "yr",
+      "path": "hourglassdragon_01_m_adult_yr"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "yr",
+      "path": "hourglassdragon_01_m_hatch_yr"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "yr",
+      "path": "hourglassdragon_01_m_hatchling_yr"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/78/Hourglassdragon_01_f_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172452",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Hourglass_Dragon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f4/Hourglassdragon_00_e_egg_yr.png/revision/latest?cb=20230919101024"
+}

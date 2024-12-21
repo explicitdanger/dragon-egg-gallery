@@ -1,0 +1,195 @@
+{
+  "name": "deep blue purple lips",
+  "egg_description": "This Egg arouses greed.",
+  "elements": [
+    "water"
+  ],
+  "rarity": "Epic",
+  "region": "Deep Sea",
+  "dragon_type": "Water Dragon",
+  "body_type": "Deep Sea",
+  "food": "Mullet, crucian carp, mackerel",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "day",
+    "night",
+    "full moon",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "pb",
+      "path": "deepbluepurplelips_01_f_adult_pb"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "pb",
+      "path": "deepbluepurplelips_01_f_hatch_pb"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "pb",
+      "path": "deepbluepurplelips_01_f_hatchling_pb"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "pb",
+      "path": "deepbluepurplelips_01_m_adult_pb"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "pb",
+      "path": "deepbluepurplelips_01_m_hatch_pb"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "pb",
+      "path": "deepbluepurplelips_01_m_hatchling_pb"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "deepbluepurplelips_02_f_adult_y"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "deepbluepurplelips_02_f_hatch_y"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "deepbluepurplelips_02_f_hatchling_y"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "deepbluepurplelips_02_m_adult_y"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "deepbluepurplelips_02_m_hatch_y"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "deepbluepurplelips_02_m_hatchling_y"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "deepbluepurplelips_03_f_adult_b"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "deepbluepurplelips_03_f_hatch_b"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "deepbluepurplelips_03_f_hatchling_b"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "deepbluepurplelips_03_m_adult_b"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "deepbluepurplelips_03_m_hatch_b"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "deepbluepurplelips_03_m_hatchling_b"
+    },
+    {
+      "form_number": "04",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "deepbluepurplelips_04_f_adult_w"
+    },
+    {
+      "form_number": "04",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "deepbluepurplelips_04_f_hatch_w"
+    },
+    {
+      "form_number": "04",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "deepbluepurplelips_04_f_hatchling_w"
+    },
+    {
+      "form_number": "04",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "deepbluepurplelips_04_m_adult_w"
+    },
+    {
+      "form_number": "04",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "deepbluepurplelips_04_m_hatch_w"
+    },
+    {
+      "form_number": "04",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "deepbluepurplelips_04_m_hatchling_w"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/ec/Deepbluepurplelips_01_m_adult_pb_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419183145",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Deep_Blue_Purple_Lips",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/ea/Deepbluepurplelips_00_e_egg_pb.png/revision/latest?cb=20240418014856"
+}

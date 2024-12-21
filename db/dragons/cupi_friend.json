@@ -1,0 +1,152 @@
+{
+  "name": "cupi friend",
+  "egg_description": "This Egg brings a symbol of good luck.",
+  "elements": [
+    "light"
+  ],
+  "rarity": "Uncommon",
+  "region": "East Yutakan",
+  "dragon_type": "Friendship Dragon",
+  "body_type": "Draco",
+  "food": "Rainbow Fish",
+  "tradeable": false,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "heart",
+    "double heart",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "g",
+      "path": "cupifriend_01_f_adult_g"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "g",
+      "path": "cupifriend_01_f_hatch_g"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "g",
+      "path": "cupifriend_01_f_hatchling_g"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "g",
+      "path": "cupifriend_01_m_adult_g"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "g",
+      "path": "cupifriend_01_m_hatch_g"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "g",
+      "path": "cupifriend_01_m_hatchling_g"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "g",
+      "path": "cupifriend_02_f_adult_g"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "g",
+      "path": "cupifriend_02_f_hatch_g"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "g",
+      "path": "cupifriend_02_f_hatchling_g"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "g",
+      "path": "cupifriend_02_m_adult_g"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "g",
+      "path": "cupifriend_02_m_hatch_g"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "g",
+      "path": "cupifriend_02_m_hatchling_g"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "g",
+      "path": "cupifriend_03_f_adult_g"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "g",
+      "path": "cupifriend_03_f_hatch_g"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "g",
+      "path": "cupifriend_03_f_hatchling_g"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "g",
+      "path": "cupifriend_03_m_adult_g"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "g",
+      "path": "cupifriend_03_m_hatch_g"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "g",
+      "path": "cupifriend_03_m_hatchling_g"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9c/Cupifriend_03_m_adult_g_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171930",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Cupi_Friend",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a9/Cupifriend_00_e_egg_g.png/revision/latest?cb=20230906180946"
+}

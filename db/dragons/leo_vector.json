@@ -1,0 +1,65 @@
+{
+  "name": "leo vector",
+  "egg_description": "This Egg is being charged.",
+  "elements": [
+    "earth"
+  ],
+  "rarity": "Rare",
+  "region": "West Yutakan",
+  "dragon_type": "Weapon Dragon",
+  "body_type": "Drake",
+  "food": "Electricity",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "pb",
+      "path": "leovector_01_f_adult_pb"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "pb",
+      "path": "leovector_01_f_hatch_pb"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "pb",
+      "path": "leovector_01_f_hatchling_pb"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "pb",
+      "path": "leovector_01_m_adult_pb"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "pb",
+      "path": "leovector_01_m_hatch_pb"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "pb",
+      "path": "leovector_01_m_hatchling_pb"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/94/Leovector_01_m_adult_pb_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173208",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Leo_Vector",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/24/Leovector_00_e_egg_pb.png/revision/latest?cb=20231001094001"
+}

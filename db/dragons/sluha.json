@@ -1,0 +1,110 @@
+{
+  "name": "sluha",
+  "egg_description": "This Egg gazes at the world through yellow eyes.",
+  "elements": [
+    "light"
+  ],
+  "rarity": "Epic",
+  "region": "Special",
+  "dragon_type": "Good Dragon",
+  "body_type": "Draco",
+  "food": "Rainbow Flower",
+  "tradeable": false,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "grace",
+    "undead (default)",
+    "undead (grace)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "sluha_01_f_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "sluha_01_f_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "sluha_01_f_hatchling_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "sluha_01_m_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "sluha_01_m_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "sluha_01_m_hatchling_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "sluha_02_f_adult_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "sluha_02_f_hatch_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "sluha_02_f_hatchling_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "sluha_02_m_adult_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "sluha_02_m_hatch_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "sluha_02_m_hatchling_w"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/ee/Sluha_02_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173519",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Sluha",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/81/Sluha_00_e_egg_w.png/revision/latest?cb=20240418100503"
+}

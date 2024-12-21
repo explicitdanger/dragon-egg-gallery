@@ -1,0 +1,66 @@
+{
+  "name": "rusalka",
+  "egg_description": "This Egg shares its consciousness.",
+  "elements": [
+    "water"
+  ],
+  "rarity": "Rare",
+  "region": "Deep Sea",
+  "dragon_type": "Warden Dragon",
+  "body_type": "Draco",
+  "food": "Piremio",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "pb",
+      "path": "rusalka_01_f_adult_pb"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "pb",
+      "path": "rusalka_01_f_hatch_pb"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "pb",
+      "path": "rusalka_01_f_hatchling_pb"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "pb",
+      "path": "rusalka_01_m_adult_pb"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "pb",
+      "path": "rusalka_01_m_hatch_pb"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "pb",
+      "path": "rusalka_01_m_hatchling_pb"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/29/Rusalka_01_f_adult_pb_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173440",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Rusalka",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/66/Rusalka_00_e_egg_pb.png/revision/latest?cb=20240314030304"
+}

@@ -1,0 +1,81 @@
+{
+  "name": "applecheek",
+  "egg_description": "This Egg has large red spots on its sides.",
+  "elements": [
+    "earth"
+  ],
+  "rarity": "Epic",
+  "region": "East Yutakan",
+  "dragon_type": "Fruit Dragon",
+  "body_type": "Draco",
+  "food": "Apple",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "fall",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "gy",
+      "path": "applecheek_01_f_adult_gy"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "gy",
+      "path": "applecheek_01_f_hatch_gy"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "gy",
+      "path": "applecheek_01_f_hatchling_gy"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "gy",
+      "path": "applecheek_01_m_adult_gy"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "gy",
+      "path": "applecheek_01_m_hatch_gy"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "gy",
+      "path": "applecheek_01_m_hatchling_gy"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "r",
+      "path": "applecheek_02_f_adult_r"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "r",
+      "path": "applecheek_02_m_adult_r"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/34/Applecheek_01_f_adult_gy_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171851",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Applecheek",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/bd/Applecheek_00_e_egg_gy.png/revision/latest?cb=20240202224136"
+}

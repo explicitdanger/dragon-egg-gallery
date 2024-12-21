@@ -1,0 +1,109 @@
+{
+  "name": "eshu",
+  "egg_description": "This Egg resembles a phantom thief.",
+  "elements": [
+    "lightning"
+  ],
+  "rarity": "Epic",
+  "region": "Special",
+  "dragon_type": "Phantom Thief Dragon",
+  "body_type": "Drake",
+  "food": "Starfruit",
+  "tradeable": false,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "phantom thief",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "gy",
+      "path": "eshu_01_f_adult_gy"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "gy",
+      "path": "eshu_01_f_hatch_gy"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "gy",
+      "path": "eshu_01_f_hatchling_gy"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "gy",
+      "path": "eshu_01_m_adult_gy"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "gy",
+      "path": "eshu_01_m_hatch_gy"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "gy",
+      "path": "eshu_01_m_hatchling_gy"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "gy",
+      "path": "eshu_02_f_adult_gy"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "gy",
+      "path": "eshu_02_f_hatch_gy"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "gy",
+      "path": "eshu_02_f_hatchling_gy"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "gy",
+      "path": "eshu_02_m_adult_gy"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "gy",
+      "path": "eshu_02_m_hatch_gy"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "gy",
+      "path": "eshu_02_m_hatchling_gy"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/eb/Eshu_02_m_adult_gy_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172339",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Eshu",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/18/Eshu_00_e_egg_gy.png/revision/latest?cb=20231013080310"
+}

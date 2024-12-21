@@ -1,0 +1,111 @@
+{
+  "name": "regnator",
+  "egg_description": "This Egg wears a crown with the orb of Acuris.",
+  "elements": [
+    "water",
+    "dream"
+  ],
+  "rarity": "Epic",
+  "region": "Special",
+  "dragon_type": "Sea Dragon King Dragon",
+  "body_type": "Draco",
+  "food": "Rainbow Fish",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "conqueror",
+    "undead (default)",
+    "undead (conqueror)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "regnator_01_f_adult_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "regnator_01_f_hatch_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "regnator_01_f_hatchling_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "regnator_01_m_adult_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "regnator_01_m_hatch_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "regnator_01_m_hatchling_b"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "regnator_02_f_adult_b"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "regnator_02_f_hatch_b"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "regnator_02_f_hatchling_b"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "regnator_02_m_adult_b"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "regnator_02_m_hatch_b"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "regnator_02_m_hatchling_b"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/dd/Regnator_02_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173439",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Regnator",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/40/Regnator_00_e_egg_b.png/revision/latest?cb=20240201023810"
+}

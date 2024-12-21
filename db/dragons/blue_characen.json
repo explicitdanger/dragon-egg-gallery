@@ -1,0 +1,66 @@
+{
+  "name": "blue characen",
+  "egg_description": "This Egg has a blue keyhole.",
+  "elements": [
+    "water"
+  ],
+  "rarity": "Epic",
+  "region": "East Yutakan",
+  "dragon_type": "Nomad Dragon",
+  "body_type": "Draco",
+  "food": "Starfruit",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "bluecharacen_01_f_adult_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "bluecharacen_01_f_hatch_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "bluecharacen_01_f_hatchling_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "bluecharacen_01_m_adult_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "bluecharacen_01_m_hatch_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "bluecharacen_01_m_hatchling_b"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/95/Bluecharacen_01_f_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171911",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Blue_Characen",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/72/Bluecharacen_00_e_egg_b.png/revision/latest?cb=20240202235503"
+}

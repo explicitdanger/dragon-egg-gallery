@@ -1,0 +1,96 @@
+{
+  "name": "cactus dragon",
+  "egg_description": "This Egg remains unmoved by any stimuli.",
+  "elements": [
+    "earth"
+  ],
+  "rarity": "Rare",
+  "region": "Sky Kingdom",
+  "dragon_type": "Plant Dragon",
+  "body_type": "Drake",
+  "food": "Mango",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "blooming flower",
+    "withering flower",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "gy",
+      "path": "cactusdragon_01_f_adult_gy"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "gy",
+      "path": "cactusdragon_01_f_hatch_gy"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "gy",
+      "path": "cactusdragon_01_f_hatchling_gy"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "gy",
+      "path": "cactusdragon_01_m_adult_gy"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "gy",
+      "path": "cactusdragon_01_m_hatch_gy"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "gy",
+      "path": "cactusdragon_01_m_hatchling_gy"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "gy",
+      "path": "cactusdragon_02_f_adult_gy"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "gy",
+      "path": "cactusdragon_02_m_adult_gy"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "gy",
+      "path": "cactusdragon_03_f_adult_gy"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "gy",
+      "path": "cactusdragon_03_m_adult_gy"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/4b/Cactusdragon_01_m_adult_gy_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033756",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Cactus_Dragon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/58/Cactusdragon_00_e_egg_gy.png/revision/latest?cb=20240724022318"
+}

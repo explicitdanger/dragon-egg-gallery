@@ -1,0 +1,66 @@
+{
+  "name": "macaron dragon",
+  "egg_description": "This Egg is light and sweet.",
+  "elements": [
+    "dream",
+    "wind"
+  ],
+  "rarity": "Rare",
+  "region": "Deep Sea",
+  "dragon_type": "Dessert Dragon",
+  "body_type": "Drake",
+  "food": "Rainbow Flower",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "rp",
+      "path": "macarondragon_01_f_adult_rp"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "rp",
+      "path": "macarondragon_01_f_hatch_rp"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "rp",
+      "path": "macarondragon_01_f_hatchling_rp"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "rp",
+      "path": "macarondragon_01_m_adult_rp"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "rp",
+      "path": "macarondragon_01_m_hatch_rp"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "rp",
+      "path": "macarondragon_01_m_hatchling_rp"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/5e/Macarondragon_01_f_adult_rp_thumb.png/revision/latest/scale-to-width-down/115?cb=20240627033447",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Macaron_Dragon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b0/Macarondragon_00_e_egg_rp.png/revision/latest?cb=20240627025546"
+}

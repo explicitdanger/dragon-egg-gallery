@@ -1,0 +1,67 @@
+{
+  "name": "gold applecheek",
+  "egg_description": "This Egg smells like sweet and sour apples.",
+  "elements": [
+    "dream",
+    "earth"
+  ],
+  "rarity": "Epic",
+  "region": "Special",
+  "dragon_type": "Apple Dragon",
+  "body_type": "Draco",
+  "food": "Apple",
+  "tradeable": false,
+  "breeding_tier": 5,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "goldapplecheek_01_f_adult_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "goldapplecheek_01_f_hatch_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "goldapplecheek_01_f_hatchling_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "goldapplecheek_01_m_adult_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "goldapplecheek_01_m_hatch_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "goldapplecheek_01_m_hatchling_y"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f2/Goldapplecheek_01_f_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172430",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Gold_Applecheek",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9a/Goldapplecheek_00_e_egg_y.png/revision/latest?cb=20230824080111"
+}

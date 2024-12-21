@@ -1,0 +1,109 @@
+{
+  "name": "angra",
+  "egg_description": "This Egg bears God's curse.",
+  "elements": [
+    "wind"
+  ],
+  "rarity": "Legendary",
+  "region": "East Yutakan",
+  "dragon_type": "King Dragon",
+  "body_type": "Draco",
+  "food": "Yggdrasill",
+  "tradeable": true,
+  "breeding_tier": 0,
+  "forms": [
+    "default",
+    "ancient times",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "r",
+      "path": "angra_01_f_adult_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "r",
+      "path": "angra_01_f_hatch_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "r",
+      "path": "angra_01_f_hatchling_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "r",
+      "path": "angra_01_m_adult_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "r",
+      "path": "angra_01_m_hatch_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "r",
+      "path": "angra_01_m_hatchling_r"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "angra_02_f_adult_bk"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "angra_02_f_hatch_bk"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "angra_02_f_hatchling_bk"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "angra_02_m_adult_bk"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "angra_02_m_hatch_bk"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "angra_02_m_hatchling_bk"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/97/Angra_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171850",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Angra",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/cc/Angra_00_e_egg_r.png/revision/latest?cb=20240203000509"
+}

@@ -1,0 +1,65 @@
+{
+  "name": "amaltheia",
+  "egg_description": "This egg is wrapped in blue fur decked with stars.",
+  "elements": [
+    "dream"
+  ],
+  "rarity": "Rare",
+  "region": "Sky Kingdom",
+  "dragon_type": "Constellation Dragon",
+  "body_type": "Drake",
+  "food": "Starfruit",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "amaltheia_01_f_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "amaltheia_01_f_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "amaltheia_01_f_hatchling_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "amaltheia_01_m_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "amaltheia_01_m_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "amaltheia_01_m_hatchling_w"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/28/Amaltheia_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033805",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Amaltheia",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/6f/Amaltheia_00_e_egg_w.png/revision/latest?cb=20240724022318"
+}

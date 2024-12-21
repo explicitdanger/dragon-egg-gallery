@@ -1,0 +1,153 @@
+{
+  "name": "nidhogg",
+  "egg_description": "This Egg absorbs the source of the stars.",
+  "elements": [
+    "dark",
+    "lightning"
+  ],
+  "rarity": "Epic",
+  "region": "Special",
+  "dragon_type": "Soul Dragon",
+  "body_type": "Draco",
+  "food": "Starseed",
+  "tradeable": false,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "conquerer",
+    "apocalypse",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "nidhogg_01_f_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "nidhogg_01_f_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "nidhogg_01_f_hatchling_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "nidhogg_01_m_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "nidhogg_01_m_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "nidhogg_01_m_hatchling_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "nidhogg_02_f_adult_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "nidhogg_02_f_hatch_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "nidhogg_02_f_hatchling_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "nidhogg_02_m_adult_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "nidhogg_02_m_hatch_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "nidhogg_02_m_hatchling_w"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "r",
+      "path": "nidhogg_03_f_adult_r"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "r",
+      "path": "nidhogg_03_f_hatch_r"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "r",
+      "path": "nidhogg_03_f_hatchling_r"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "r",
+      "path": "nidhogg_03_m_adult_r"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "r",
+      "path": "nidhogg_03_m_hatch_r"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "r",
+      "path": "nidhogg_03_m_hatchling_r"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9a/Nidhogg_02_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173306",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Nidhogg",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/12/Nidhogg_00_e_egg_w.png/revision/latest?cb=20231013090322"
+}

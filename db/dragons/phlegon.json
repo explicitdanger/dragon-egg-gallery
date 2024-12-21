@@ -1,0 +1,124 @@
+{
+  "name": "phlegon",
+  "egg_description": "This Egg emits flames that resemble the sun.",
+  "elements": [
+    "fire"
+  ],
+  "rarity": "Rare",
+  "region": "Special",
+  "dragon_type": "Sun Dragon",
+  "body_type": "Drake",
+  "food": "Chicken",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "flare",
+    "hyper",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "phlegon_01_f_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "phlegon_01_f_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "phlegon_01_f_hatchling_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "phlegon_01_m_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "phlegon_01_m_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "phlegon_01_m_hatchling_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "phlegon_02_f_adult_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "phlegon_02_f_hatch_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "phlegon_02_f_hatchling_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "phlegon_02_m_adult_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "phlegon_02_m_hatch_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "phlegon_02_m_hatchling_w"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "phlegon_03_f_adult_w"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "phlegon_03_m_adult_w"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/5a/Phlegon_02_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240620012625",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Phlegon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/8e/Phlegon_00_e_egg_w.png/revision/latest?cb=20240620004153"
+}

@@ -1,0 +1,66 @@
+{
+  "body_type": "Drake",
+  "breeding_tier": 2,
+  "dragon_type": "Ice Dragon",
+  "egg_description": "This Egg freezes its surroundings.",
+  "egg_img_url": "https://dvc.wiki.gg/images/1/18/Brrry_Egg_Sprite.png",
+  "elements": [
+    "water"
+  ],
+  "food": "Yggdrasill",
+  "name": "Brrry",
+  "profile_img_url": "https://dvc.wiki.gg/images/1/18/Brrry_Egg_Sprite.png",
+  "profile_url": "https://dvc.wiki.gg/wiki/brrry",
+  "rarity": "Rare",
+  "region": "Special",
+  "tradeable": true,
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "brrry_01_f_adult_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "brrry_01_m_adult_b"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "brrry_02_f_adult_b"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "brrry_02_m_adult_b"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "brrry_03_f_adult_b"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "brrry_03_m_adult_b"
+    }
+  ],
+  "forms": [
+    "Default",
+    "Attendant",
+    "Santa"
+  ]
+}

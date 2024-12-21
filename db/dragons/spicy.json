@@ -1,0 +1,87 @@
+{
+  "name": "spicy",
+  "egg_description": "This Egg wants to reach the light.",
+  "elements": [
+    "light"
+  ],
+  "rarity": "Common",
+  "region": "East Yutakan",
+  "dragon_type": "Light Dragon",
+  "body_type": "Draco",
+  "food": "Grape",
+  "tradeable": true,
+  "breeding_tier": 4,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "spicy_01_f_adult_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "spicy_01_f_hatch_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "spicy_01_f_hatchling_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "spicy_01_m_adult_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "spicy_01_m_hatch_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "spicy_01_m_hatchling_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "n",
+      "stage": "adult",
+      "color_code": "g",
+      "path": "spicy_01_n_adult_g"
+    },
+    {
+      "form_number": "01",
+      "gender": "n",
+      "stage": "hatch",
+      "color_code": "g",
+      "path": "spicy_01_n_hatch_g"
+    },
+    {
+      "form_number": "01",
+      "gender": "n",
+      "stage": "hatchling",
+      "color_code": "g",
+      "path": "spicy_01_n_hatchling_g"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/4a/Spicy_01_m_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173521",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Spicy",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c5/Spicy_00_e_egg_y.png/revision/latest?cb=20240202224901"
+}

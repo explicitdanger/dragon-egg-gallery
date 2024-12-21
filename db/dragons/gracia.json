@@ -1,0 +1,66 @@
+{
+  "name": "gracia",
+  "egg_description": "This Egg breathes with its smooth shell.",
+  "elements": [
+    "water"
+  ],
+  "rarity": "Uncommon",
+  "region": "East Yutakan",
+  "dragon_type": "Guardian Dragon",
+  "body_type": "Drake",
+  "food": "Meggison",
+  "tradeable": false,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "pb",
+      "path": "gracia_01_f_adult_pb"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "pb",
+      "path": "gracia_01_f_hatch_pb"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "pb",
+      "path": "gracia_01_f_hatchling_pb"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "pb",
+      "path": "gracia_01_m_adult_pb"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "pb",
+      "path": "gracia_01_m_hatch_pb"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "pb",
+      "path": "gracia_01_m_hatchling_pb"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/30/Gracia_01_m_adult_pb_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172431",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Gracia",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c7/Gracia_00_e_egg_pb.png/revision/latest?cb=20240202234550"
+}

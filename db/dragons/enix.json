@@ -1,0 +1,66 @@
+{
+  "name": "enix",
+  "egg_description": "This Egg has a wooden horn.",
+  "elements": [
+    "water",
+    "earth"
+  ],
+  "rarity": "Legendary",
+  "region": "Deep Sea",
+  "dragon_type": "Guardian Dragon",
+  "body_type": "Draco",
+  "food": "Paopao Fruit",
+  "tradeable": false,
+  "breeding_tier": 0,
+  "forms": [
+    "default"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "gy",
+      "path": "enix_01_f_adult_gy"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "gy",
+      "path": "enix_01_f_hatch_gy"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "gy",
+      "path": "enix_01_f_hatchling_gy"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "gy",
+      "path": "enix_01_m_adult_gy"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "gy",
+      "path": "enix_01_m_hatch_gy"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "gy",
+      "path": "enix_01_m_hatchling_gy"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/0f/Enix_01_m_adult_gy_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172340",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Enix",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b5/Enix_00_e_egg_gy.png/revision/latest?cb=20240215021844"
+}

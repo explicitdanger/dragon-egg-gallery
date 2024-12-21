@@ -1,0 +1,66 @@
+{
+  "name": "maga",
+  "egg_description": "This Egg loves gusts of wind.",
+  "elements": [
+    "wind"
+  ],
+  "rarity": "Rare",
+  "region": "East Yutakan",
+  "dragon_type": "Guardian Dragon",
+  "body_type": "Draco",
+  "food": "Yggdrasill",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "bg",
+      "path": "maga_01_f_adult_bg"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "bg",
+      "path": "maga_01_f_hatch_bg"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "bg",
+      "path": "maga_01_f_hatchling_bg"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bg",
+      "path": "maga_01_m_adult_bg"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "bg",
+      "path": "maga_01_m_hatch_bg"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "bg",
+      "path": "maga_01_m_hatchling_bg"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c7/Maga_01_f_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173233",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Maga",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f6/Maga_00_e_egg_bg.png/revision/latest?cb=20240202234612"
+}

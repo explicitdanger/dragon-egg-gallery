@@ -1,0 +1,66 @@
+{
+  "name": "typhoon dragon",
+  "egg_description": "The dragon inside this egg has a soft mane.",
+  "elements": [
+    "wind"
+  ],
+  "rarity": "Rare",
+  "region": "East Yutakan",
+  "dragon_type": "Typhoon Dragon",
+  "body_type": "Draco",
+  "food": "Whirl Flower",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "typhoondragon_01_f_adult_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "typhoondragon_01_f_hatch_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "typhoondragon_01_f_hatchling_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "typhoondragon_01_m_adult_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "typhoondragon_01_m_hatch_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "typhoondragon_01_m_hatchling_b"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/0f/Typhoondragon_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173609",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Typhoon_Dragon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/5c/Typhoondragon_00_e_egg_b.png/revision/latest?cb=20240202221501"
+}

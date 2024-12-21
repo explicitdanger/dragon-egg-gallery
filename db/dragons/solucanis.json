@@ -1,0 +1,195 @@
+{
+  "name": "solucanis",
+  "egg_description": "This Egg is full of greed.",
+  "elements": [
+    "light"
+  ],
+  "rarity": "Rare",
+  "region": "Special",
+  "dragon_type": "Guardian Dragon",
+  "body_type": "Draco",
+  "food": "Melon",
+  "tradeable": false,
+  "breeding_tier": 0,
+  "forms": [
+    "default",
+    "bronze",
+    "moon eater",
+    "sun eater",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "solucanis_01_f_adult_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "solucanis_01_f_hatch_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "solucanis_01_f_hatchling_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "solucanis_01_m_adult_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "solucanis_01_m_hatch_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "solucanis_01_m_hatchling_bk"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "bg",
+      "path": "solucanis_02_f_adult_bg"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "bg",
+      "path": "solucanis_02_f_hatch_bg"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "bg",
+      "path": "solucanis_02_f_hatchling_bg"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bg",
+      "path": "solucanis_02_m_adult_bg"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "bg",
+      "path": "solucanis_02_m_hatch_bg"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "bg",
+      "path": "solucanis_02_m_hatchling_bg"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "solucanis_03_f_adult_bk"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "solucanis_03_f_hatch_bk"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "solucanis_03_f_hatchling_bk"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "solucanis_03_m_adult_bk"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "solucanis_03_m_hatch_bk"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "solucanis_03_m_hatchling_bk"
+    },
+    {
+      "form_number": "04",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "solucanis_04_f_adult_bk"
+    },
+    {
+      "form_number": "04",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "solucanis_04_f_hatch_bk"
+    },
+    {
+      "form_number": "04",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "solucanis_04_f_hatchling_bk"
+    },
+    {
+      "form_number": "04",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "solucanis_04_m_adult_bk"
+    },
+    {
+      "form_number": "04",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "solucanis_04_m_hatch_bk"
+    },
+    {
+      "form_number": "04",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "solucanis_04_m_hatchling_bk"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/72/Solucanis_04_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173520",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Solucanis",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/ce/Solucanis_00_e_egg_bk.png/revision/latest?cb=20240203000549"
+}

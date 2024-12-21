@@ -1,0 +1,66 @@
+{
+  "name": "record dragon",
+  "egg_description": "This Egg plays classical music.",
+  "elements": [
+    "dream"
+  ],
+  "rarity": "Rare",
+  "region": "Sky Kingdom",
+  "dragon_type": "Music Dragon",
+  "body_type": "Asian",
+  "food": "Coffee Bean",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "yr",
+      "path": "recorddragon_01_f_adult_yr"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "yr",
+      "path": "recorddragon_01_f_hatch_yr"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "yr",
+      "path": "recorddragon_01_f_hatchling_yr"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "pb",
+      "path": "recorddragon_01_m_adult_pb"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "pb",
+      "path": "recorddragon_01_m_hatch_pb"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "pb",
+      "path": "recorddragon_01_m_hatchling_pb"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/11/Recorddragon_01_f_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240814055603",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Record_Dragon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/2e/Recorddragon_00_e_egg_yr.png/revision/latest?cb=20240814055329"
+}

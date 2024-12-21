@@ -1,0 +1,81 @@
+{
+  "name": "lambgon",
+  "egg_description": "This Egg is covered with soft fur.",
+  "elements": [
+    "earth"
+  ],
+  "rarity": "Uncommon",
+  "region": "West Yutakan",
+  "dragon_type": "Dream Dragon",
+  "body_type": "Draco",
+  "food": "Paopao Fruit",
+  "tradeable": true,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "clumpy",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "lambgon_01_f_adult_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "lambgon_01_f_hatch_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "lambgon_01_f_hatchling_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "lambgon_01_m_adult_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "lambgon_01_m_hatch_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "lambgon_01_m_hatchling_y"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "lambgon_02_f_adult_y"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "lambgon_02_m_adult_y"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/79/Lambgon_01_m_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173207",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Lambgon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/0b/Lambgon_00_e_egg_y.png/revision/latest?cb=20230919100617"
+}

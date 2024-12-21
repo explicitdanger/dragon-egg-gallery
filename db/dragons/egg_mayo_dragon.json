@@ -1,0 +1,124 @@
+{
+  "name": "egg mayo dragon",
+  "egg_description": "This Egg smells like mayonnaise.",
+  "elements": [
+    "light",
+    "dream"
+  ],
+  "rarity": "Rare",
+  "region": "Special",
+  "dragon_type": "Feed Dragon",
+  "body_type": "Drake",
+  "food": "Grape",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "egg mayo",
+    "hamburger"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "eggmayodragon_01_f_adult_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "eggmayodragon_01_f_hatch_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "eggmayodragon_01_f_hatchling_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "eggmayodragon_01_m_adult_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "eggmayodragon_01_m_hatch_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "eggmayodragon_01_m_hatchling_y"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "eggmayodragon_02_f_adult_y"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "eggmayodragon_02_f_hatch_y"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "eggmayodragon_02_f_hatchling_y"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "eggmayodragon_02_m_adult_y"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "eggmayodragon_02_m_hatch_y"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "eggmayodragon_02_m_hatchling_y"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "eggmayodragon_03_f_adult_y"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "eggmayodragon_03_m_adult_y"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/12/Eggmayodragon_02_m_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172339",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Egg_Mayo_Dragon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/bb/Eggmayodragon_00_e_egg_y.png/revision/latest?cb=20240111032247"
+}

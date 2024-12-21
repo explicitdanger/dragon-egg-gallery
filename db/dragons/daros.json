@@ -1,0 +1,66 @@
+{
+  "name": "daros",
+  "egg_description": "This Egg holds memories within.",
+  "elements": [
+    "earth"
+  ],
+  "rarity": "Legendary",
+  "region": "West Yutakan",
+  "dragon_type": "Memory Dragon",
+  "body_type": "Drake",
+  "food": "Grapefruit",
+  "tradeable": false,
+  "breeding_tier": 0,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "daros_01_f_adult_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "daros_01_f_hatch_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "daros_01_f_hatchling_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "daros_01_m_adult_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "daros_01_m_hatch_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "daros_01_m_hatchling_y"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/5c/Daros_01_m_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172215",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Daros",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/33/Daros_00_e_egg_y.png/revision/latest?cb=20230919081321"
+}

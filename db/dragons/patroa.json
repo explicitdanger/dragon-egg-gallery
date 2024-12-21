@@ -1,0 +1,67 @@
+{
+  "name": "patroa",
+  "egg_description": "This Egg is guarded by an emerald snake.",
+  "elements": [
+    "fire"
+  ],
+  "rarity": "Uncommon",
+  "region": "East Yutakan",
+  "dragon_type": "Flame Dragon",
+  "body_type": "Draco",
+  "food": "Fire Carrot",
+  "tradeable": false,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "underground castle",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "n",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "patroa_01_n_adult_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "n",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "patroa_01_n_hatch_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "n",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "patroa_01_n_hatchling_y"
+    },
+    {
+      "form_number": "02",
+      "gender": "n",
+      "stage": "adult",
+      "color_code": "bg",
+      "path": "patroa_02_n_adult_bg"
+    },
+    {
+      "form_number": "02",
+      "gender": "n",
+      "stage": "hatch",
+      "color_code": "bg",
+      "path": "patroa_02_n_hatch_bg"
+    },
+    {
+      "form_number": "02",
+      "gender": "n",
+      "stage": "hatchling",
+      "color_code": "bg",
+      "path": "patroa_02_n_hatchling_bg"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/60/Patroa_01_n_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173353",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Patroa",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a7/Patroa_00_e_egg_y.png/revision/latest?cb=20240202234743"
+}

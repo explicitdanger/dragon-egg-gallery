@@ -1,0 +1,67 @@
+{
+  "name": "afrit",
+  "egg_description": "This Egg is tightly sealed.",
+  "elements": [
+    "fire",
+    "dream"
+  ],
+  "rarity": "Rare",
+  "region": "East Yutakan",
+  "dragon_type": "Spark Dragon",
+  "body_type": "Draco",
+  "food": "Chicken",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "r",
+      "path": "afrit_01_f_adult_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "r",
+      "path": "afrit_01_f_hatch_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "r",
+      "path": "afrit_01_f_hatchling_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "r",
+      "path": "afrit_01_m_adult_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "r",
+      "path": "afrit_01_m_hatch_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "r",
+      "path": "afrit_01_m_hatchling_r"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e6/Afrit_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171843",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Afrit",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/05/Afrit_00_e_egg_r.png/revision/latest?cb=20240202221133"
+}

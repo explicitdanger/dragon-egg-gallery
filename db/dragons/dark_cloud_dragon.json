@@ -1,0 +1,66 @@
+{
+  "name": "dark cloud dragon",
+  "egg_description": "This Egg is with the dark clouds.",
+  "elements": [
+    "lightning"
+  ],
+  "rarity": "Rare",
+  "region": "East Yutakan",
+  "dragon_type": "Cloud Dragon",
+  "body_type": "Draco",
+  "food": "Whirl Flower",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "darkcloud_01_f_adult_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "darkcloud_01_f_hatch_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "darkcloud_01_f_hatchling_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "darkcloud_01_m_adult_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "darkcloud_01_m_hatch_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "darkcloud_01_m_hatchling_bk"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/6c/Darkcloud_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171930",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Dark_Cloud_Dragon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e7/Darkcloud_00_e_egg_bk.png/revision/latest?cb=20240203000119"
+}

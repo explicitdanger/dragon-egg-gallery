@@ -1,0 +1,37 @@
+{
+  "name": "baby god dragon",
+  "egg_description": "This Egg follows the light with its eyes.",
+  "elements": [
+    "light"
+  ],
+  "rarity": "Legendary",
+  "region": "Special",
+  "dragon_type": "Baby Dragon",
+  "body_type": "Draco",
+  "food": "Melon",
+  "tradeable": false,
+  "breeding_tier": 0,
+  "forms": [
+    "default"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "babygoddragon_01_f_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "babygoddragon_01_m_adult_w"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/37/Babygoddragon_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240706201136",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Baby_God_Dragon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/97/Babygoddragon_00_e_egg_w.png/revision/latest?cb=20240704005507"
+}

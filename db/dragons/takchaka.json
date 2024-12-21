@@ -1,0 +1,66 @@
+{
+  "name": "takchaka",
+  "egg_description": "This Egg reads the flow of water with its antennae.",
+  "elements": [
+    "water"
+  ],
+  "rarity": "Epic",
+  "region": "Deep Sea",
+  "dragon_type": "Chaos Dragon",
+  "body_type": "Deep Sea",
+  "food": "Piremio",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "takchaka_01_f_adult_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "takchaka_01_f_hatch_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "takchaka_01_f_hatchling_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "takchaka_01_m_adult_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "takchaka_01_m_hatch_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "takchaka_01_m_hatchling_b"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/48/Takchaka_01_f_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240627033448",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Takchaka",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d0/Takchaka_00_e_egg_b.png/revision/latest?cb=20240627025546"
+}

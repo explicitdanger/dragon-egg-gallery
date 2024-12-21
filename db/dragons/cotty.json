@@ -1,0 +1,65 @@
+{
+  "body_type": "Draco",
+  "breeding_tier": 2,
+  "dragon_type": "Cotton Candy Dragon",
+  "egg_description": "This Egg has a light and soft qualities.",
+  "egg_img_url": "https://dvc.wiki.gg/images/6/68/Cotty_Egg_Sprite.png",
+  "elements": [
+    "dream",
+    "light"
+  ],
+  "food": "Melon",
+  "forms": [
+    "Default"
+  ],
+  "name": "Cotty",
+  "profile_img_url": "https://dvc.wiki.gg/images/6/68/Cotty_Egg_Sprite.png",
+  "profile_url": "https://dvc.wiki.gg/wiki/cotty",
+  "rarity": "Rare",
+  "region": "Sky Kingdom",
+  "tradeable": true,
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "cotty_01_f_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "cotty_01_m_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "cotty_01_f_hatchling_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "cotty_01_m_hatchling_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "cotty_01_f_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "cotty_01_m_adult_w"
+    }
+  ]
+}

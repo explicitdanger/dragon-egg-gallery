@@ -1,0 +1,45 @@
+{
+  "name": "jimon",
+  "egg_description": "This Egg can find its owner.",
+  "elements": [
+    "earth"
+  ],
+  "rarity": "Rare",
+  "region": "East Yutakan",
+  "dragon_type": "Egg Dragon",
+  "body_type": "Munia",
+  "food": "Jerky",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "n",
+      "stage": "adult",
+      "color_code": "rp",
+      "path": "jimon_01_n_adult_rp"
+    },
+    {
+      "form_number": "01",
+      "gender": "n",
+      "stage": "hatch",
+      "color_code": "rp",
+      "path": "jimon_01_n_hatch_rp"
+    },
+    {
+      "form_number": "01",
+      "gender": "n",
+      "stage": "hatchling",
+      "color_code": "rp",
+      "path": "jimon_01_n_hatchling_rp"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/be/Jimon_01_n_adult_rp_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173115",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Jimon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/96/Jimon_00_e_egg_rp.png/revision/latest?cb=20230911152907"
+}

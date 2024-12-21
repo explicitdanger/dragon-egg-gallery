@@ -1,0 +1,66 @@
+{
+  "name": "meteor dragon",
+  "egg_description": "This Egg has a blue horn that contains the energy of the stars.",
+  "elements": [
+    "light"
+  ],
+  "rarity": "Rare",
+  "region": "Special",
+  "dragon_type": "Star Dragon",
+  "body_type": "Drake",
+  "food": "Melon",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "meteordragon_01_f_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "meteordragon_01_f_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "meteordragon_01_f_hatchling_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "meteordragon_01_m_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "meteordragon_01_m_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "meteordragon_01_m_hatchling_w"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/6d/Meteordragon_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240711021343",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Meteor_Dragon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/06/Meteordragon_00_e_egg_w.png/revision/latest?cb=20240711004453"
+}

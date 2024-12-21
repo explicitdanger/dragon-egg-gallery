@@ -1,0 +1,66 @@
+{
+  "name": "penguingon",
+  "egg_description": "This Egg is white, smooth, and has dense dark blue fur.",
+  "elements": [
+    "water"
+  ],
+  "rarity": "Rare",
+  "region": "East Yutakan",
+  "dragon_type": "Penguin Dragon",
+  "body_type": "Draco",
+  "food": "Piremio",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "pb",
+      "path": "penguingon_01_f_adult_pb"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "penguingon_01_f_hatch_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "pb",
+      "path": "penguingon_01_f_hatchling_pb"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "pb",
+      "path": "penguingon_01_m_adult_pb"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "penguingon_01_m_hatch_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "pb",
+      "path": "penguingon_01_m_hatchling_pb"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/91/Penguingon_01_m_adult_pb_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173353",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Penguingon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/36/Penguingon_00_e_egg_pb.png/revision/latest?cb=20240215021246"
+}

@@ -1,0 +1,153 @@
+{
+  "name": "cortus",
+  "egg_description": "This Egg is wearing a thick helmet.",
+  "elements": [
+    "dark",
+    "steel"
+  ],
+  "rarity": "Uncommon",
+  "region": "Special",
+  "dragon_type": "lizard Dragon",
+  "body_type": "Draco",
+  "food": "Dark Melon",
+  "tradeable": false,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "warrior of the kingdom",
+    "restorer of the kingdom",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "pb",
+      "path": "cortus_01_f_adult_pb"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "pb",
+      "path": "cortus_01_f_hatch_pb"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "pb",
+      "path": "cortus_01_f_hatchling_pb"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "pb",
+      "path": "cortus_01_m_adult_pb"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "pb",
+      "path": "cortus_01_m_hatch_pb"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "pb",
+      "path": "cortus_01_m_hatchling_pb"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "pb",
+      "path": "cortus_02_f_adult_pb"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "pb",
+      "path": "cortus_02_f_hatch_pb"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "pb",
+      "path": "cortus_02_f_hatchling_pb"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "pb",
+      "path": "cortus_02_m_adult_pb"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "pb",
+      "path": "cortus_02_m_hatch_pb"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "pb",
+      "path": "cortus_02_m_hatchling_pb"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "pb",
+      "path": "cortus_03_f_adult_pb"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "pb",
+      "path": "cortus_03_f_hatch_pb"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "pb",
+      "path": "cortus_03_f_hatchling_pb"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "pb",
+      "path": "cortus_03_m_adult_pb"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "pb",
+      "path": "cortus_03_m_hatch_pb"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "pb",
+      "path": "cortus_03_m_hatchling_pb"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f8/Cortus_03_m_adult_pb_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171930",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Cortus",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c3/Cortus_00_e_egg_pb.png/revision/latest?cb=20240111032255"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "azak",
+  "egg_description": "This Egg has large pincers.",
+  "elements": [
+    "dark",
+    "steel"
+  ],
+  "rarity": "Legendary",
+  "region": "East Yutakan",
+  "dragon_type": "Hextech Dragon",
+  "body_type": "Draco",
+  "food": "Mana",
+  "tradeable": true,
+  "breeding_tier": 0,
+  "forms": [
+    "default",
+    "underground castle"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "azak_01_f_adult_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "azak_01_m_adult_b"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "g",
+      "path": "azak_02_f_adult_g"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "g",
+      "path": "azak_02_m_adult_g"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/23/Azak_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171858",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Azak",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/79/Azak_00_e_egg_b.png/revision/latest?cb=20240202235422"
+}

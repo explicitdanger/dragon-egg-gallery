@@ -1,0 +1,153 @@
+{
+  "name": "temiz",
+  "egg_description": "This Egg has a horn of purification.",
+  "elements": [
+    "light",
+    "steel"
+  ],
+  "rarity": "Epic",
+  "region": "Special",
+  "dragon_type": "Judgement Dragon",
+  "body_type": "Draco",
+  "food": "Grape",
+  "tradeable": false,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "executor",
+    "judge",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "temiz_01_f_adult_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "temiz_01_f_hatch_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "temiz_01_f_hatchling_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "temiz_01_m_adult_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "temiz_01_m_hatch_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "temiz_01_m_hatchling_bk"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "temiz_02_f_adult_bk"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "temiz_02_f_hatch_bk"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "temiz_02_f_hatchling_bk"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "temiz_02_m_adult_bk"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "temiz_02_m_hatch_bk"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "temiz_02_m_hatchling_bk"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "temiz_03_f_adult_w"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "temiz_03_f_hatch_w"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "temiz_03_f_hatchling_w"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "temiz_03_m_adult_w"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "temiz_03_m_hatch_w"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "temiz_03_m_hatchling_w"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/be/Temiz_02_f_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173608",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Temiz",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/4c/Temiz_00_e_egg_bk.png/revision/latest?cb=20240418021213"
+}

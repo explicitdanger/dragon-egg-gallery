@@ -1,0 +1,83 @@
+{
+  "name": "clockwork dragon",
+  "egg_description": "This Egg's spring has to be wound up.",
+  "elements": [
+    "wind",
+    "steel"
+  ],
+  "rarity": "Uncommon",
+  "region": "West Yutakan",
+  "dragon_type": "Machine Dragon",
+  "body_type": "Drake",
+  "food": "Oil",
+  "tradeable": true,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "signature",
+    "undead (default)",
+    "undead (signature)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "clockworkdragon_01_f_adult_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "clockworkdragon_01_f_hatch_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "clockworkdragon_01_f_hatchling_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "clockworkdragon_01_m_adult_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "clockworkdragon_01_m_hatch_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "clockworkdragon_01_m_hatchling_bk"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "clockworkdragon_02_f_adult_b"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "clockworkdragon_02_m_adult_b"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b8/Clockworkdragon_01_f_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171928",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Clockwork_Dragon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/1f/Clockworkdragon_00_e_egg_bk.png/revision/latest?cb=20230919102323"
+}

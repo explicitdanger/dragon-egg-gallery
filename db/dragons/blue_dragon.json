@@ -1,0 +1,83 @@
+{
+  "name": "blue dragon",
+  "egg_description": "This Egg has horns and skin on its belly.",
+  "elements": [
+    "wind",
+    "lightning"
+  ],
+  "rarity": "Rare",
+  "region": "East Yutakan",
+  "dragon_type": "Reaper Dragon",
+  "body_type": "Asian",
+  "food": "Yggdrasill",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "signature",
+    "undead (default)",
+    "undead (signature)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "blue_01_f_adult_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "blue_01_f_hatch_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "blue_01_f_hatchling_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "blue_01_m_adult_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "blue_01_m_hatch_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "blue_01_m_hatchling_b"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "blue_02_f_adult_b"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "blue_02_m_adult_b"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/66/Blue_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171910",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Blue_Dragon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/4d/Blue_00_e_egg_b.png/revision/latest?cb=20240202221514"
+}

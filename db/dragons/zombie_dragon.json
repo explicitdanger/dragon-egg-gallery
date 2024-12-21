@@ -1,0 +1,44 @@
+{
+  "name": "zombie dragon",
+  "egg_description": "This Egg is infected by a virus.",
+  "elements": [
+    "dark"
+  ],
+  "rarity": "Rare",
+  "region": "Special",
+  "dragon_type": "Experiment Dragon",
+  "body_type": "Drake",
+  "food": "Chicken",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "n",
+      "stage": "adult",
+      "color_code": "g",
+      "path": "zombiedragon_01_n_adult_g"
+    },
+    {
+      "form_number": "01",
+      "gender": "n",
+      "stage": "hatch",
+      "color_code": "g",
+      "path": "zombiedragon_01_n_hatch_g"
+    },
+    {
+      "form_number": "01",
+      "gender": "n",
+      "stage": "hatchling",
+      "color_code": "g",
+      "path": "zombiedragon_01_n_hatchling_g"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/8d/Zombiedragon_01_n_adult_g_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173736",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Zombie_Dragon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9a/Zombiedragon_00_e_egg_g.png/revision/latest?cb=20240210055413"
+}

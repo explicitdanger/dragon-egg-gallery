@@ -1,0 +1,66 @@
+{
+  "name": "vera",
+  "egg_description": "This Egg resonates with ancient power.",
+  "elements": [
+    "steel"
+  ],
+  "rarity": "Common",
+  "region": "West Yutakan",
+  "dragon_type": "Evil Dragon",
+  "body_type": "Draco",
+  "food": "Purple Tulip",
+  "tradeable": true,
+  "breeding_tier": 4,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "p",
+      "path": "vera_01_f_adult_p"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "p",
+      "path": "vera_01_f_hatch_p"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "p",
+      "path": "vera_01_f_hatchling_p"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "p",
+      "path": "vera_01_m_adult_p"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "p",
+      "path": "vera_01_m_hatch_p"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "p",
+      "path": "vera_01_m_hatchling_p"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/95/Vera_01_m_adult_p_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173700",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Vera",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/8f/Vera_00_e_egg_p.png/revision/latest?cb=20230919104241"
+}

@@ -1,0 +1,239 @@
+{
+  "name": "lumindis",
+  "egg_description": "This Egg radiates noble loyalty.",
+  "elements": [
+    "light",
+    "steel"
+  ],
+  "rarity": "Rare",
+  "region": "Special",
+  "dragon_type": "Knight Dragon",
+  "body_type": "Draco",
+  "food": "Melon",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "knight of nobilis",
+    "star knight",
+    "moon knight",
+    "warrior",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "lumindis_01_f_adult_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "lumindis_01_f_hatch_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "lumindis_01_f_hatchling_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "lumindis_01_m_adult_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "lumindis_01_m_hatch_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "lumindis_01_m_hatchling_b"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "lumindis_02_f_adult_y"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "lumindis_02_f_hatch_y"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "lumindis_02_f_hatchling_y"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "lumindis_02_m_adult_y"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "lumindis_02_m_hatch_y"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "lumindis_02_m_hatchling_y"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "rp",
+      "path": "lumindis_03_f_adult_rp"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "rp",
+      "path": "lumindis_03_f_hatch_rp"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "rp",
+      "path": "lumindis_03_f_hatchling_rp"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "rp",
+      "path": "lumindis_03_m_adult_rp"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "rp",
+      "path": "lumindis_03_m_hatch_rp"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "rp",
+      "path": "lumindis_03_m_hatchling_rp"
+    },
+    {
+      "form_number": "04",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "pb",
+      "path": "lumindis_04_f_adult_pb"
+    },
+    {
+      "form_number": "04",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "pb",
+      "path": "lumindis_04_f_hatch_pb"
+    },
+    {
+      "form_number": "04",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "pb",
+      "path": "lumindis_04_f_hatchling_pb"
+    },
+    {
+      "form_number": "04",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "pb",
+      "path": "lumindis_04_m_adult_pb"
+    },
+    {
+      "form_number": "04",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "pb",
+      "path": "lumindis_04_m_hatch_pb"
+    },
+    {
+      "form_number": "04",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "pb",
+      "path": "lumindis_04_m_hatchling_pb"
+    },
+    {
+      "form_number": "05",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "g",
+      "path": "lumindis_05_f_adult_g"
+    },
+    {
+      "form_number": "05",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "g",
+      "path": "lumindis_05_f_hatch_g"
+    },
+    {
+      "form_number": "05",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "g",
+      "path": "lumindis_05_f_hatchling_g"
+    },
+    {
+      "form_number": "05",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "g",
+      "path": "lumindis_05_m_adult_g"
+    },
+    {
+      "form_number": "05",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "g",
+      "path": "lumindis_05_m_hatch_g"
+    },
+    {
+      "form_number": "05",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "g",
+      "path": "lumindis_05_m_hatchling_g"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d1/Lumindis_02_m_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173208",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Lumindis",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9a/Lumindis_00_e_egg_y.png/revision/latest?cb=20230926142714"
+}

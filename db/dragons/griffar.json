@@ -1,0 +1,67 @@
+{
+  "name": "griffar",
+  "egg_description": "This Egg is surrounded by flames.",
+  "elements": [
+    "fire",
+    "dream"
+  ],
+  "rarity": "Epic",
+  "region": "West Yutakan",
+  "dragon_type": "Fantasy Dragon",
+  "body_type": "Draco",
+  "food": "Drumstick",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "g",
+      "path": "griffar_01_f_adult_g"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "g",
+      "path": "griffar_01_f_hatch_g"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "g",
+      "path": "griffar_01_f_hatchling_g"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "g",
+      "path": "griffar_01_m_adult_g"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "g",
+      "path": "griffar_01_m_hatch_g"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "g",
+      "path": "griffar_01_m_hatchling_g"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/3c/Griffar_01_m_adult_g_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172431",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Griffar",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a8/Griffar_00_e_egg_g.png/revision/latest?cb=20231129052051"
+}

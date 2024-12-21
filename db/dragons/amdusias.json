@@ -1,0 +1,67 @@
+{
+  "name": "amdusias",
+  "egg_description": "This Egg produces a lively singing voice.",
+  "elements": [
+    "light",
+    "earth"
+  ],
+  "rarity": "Rare",
+  "region": "Deep Sea",
+  "dragon_type": "Music Dragon",
+  "body_type": "Draco",
+  "food": "Maple Leaf",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "amdusias_01_f_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "amdusias_01_f_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "amdusias_01_f_hatchling_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "amdusias_01_m_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "amdusias_01_m_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "amdusias_01_m_hatchling_w"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/80/Amdusias_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171845",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Amdusias",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9c/Amdusias_00_e_egg_w.png/revision/latest?cb=20240229021202"
+}

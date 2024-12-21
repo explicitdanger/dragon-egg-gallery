@@ -1,0 +1,66 @@
+{
+  "name": "khan marino",
+  "egg_description": "The dragon inside this egg has a pink glow.",
+  "elements": [
+    "lightning"
+  ],
+  "rarity": "Uncommon",
+  "region": "East Yutakan",
+  "dragon_type": "Lightning Dragon",
+  "body_type": "Draco",
+  "food": "Grasshopper",
+  "tradeable": true,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "rp",
+      "path": "khanmarino_01_f_adult_rp"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "rp",
+      "path": "khanmarino_01_f_hatch_rp"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "rp",
+      "path": "khanmarino_01_f_hatchling_rp"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "rp",
+      "path": "khanmarino_01_m_adult_rp"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "rp",
+      "path": "khanmarino_01_m_hatch_rp"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "rp",
+      "path": "khanmarino_01_m_hatchling_rp"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/af/Khanmarino_01_m_adult_rp_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173142",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Khan_Marino",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d4/Khanmarino_00_e_egg_rp.png/revision/latest?cb=20240203000127"
+}

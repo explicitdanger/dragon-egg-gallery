@@ -1,0 +1,145 @@
+{
+  "name": "cupid",
+  "egg_description": "This Egg has a heart shape in the middle.",
+  "elements": [
+    "dream"
+  ],
+  "rarity": "Epic",
+  "region": "East Yutakan",
+  "dragon_type": "Love Dragon",
+  "body_type": "Draco",
+  "food": "Starfruit",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "signature",
+    "undead (default)",
+    "undead (signature)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "rp",
+      "path": "cupid_01_f_adult_rp"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "rp",
+      "path": "cupid_01_f_hatch_rp"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "rp",
+      "path": "cupid_01_f_hatchling_rp"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "rp",
+      "path": "cupid_01_m_adult_rp"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "rp",
+      "path": "cupid_01_m_hatch_rp"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "rp",
+      "path": "cupid_01_m_hatchling_rp"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "rp",
+      "path": "cupid_02_f_adult_rp"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "rp",
+      "path": "cupid_02_m_adult_rp"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "pb",
+      "path": "cupid_03_f_adult_pb"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "pb",
+      "path": "cupid_03_f_hatch_pb"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "pb",
+      "path": "cupid_03_f_hatchling_pb"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "pb",
+      "path": "cupid_03_m_adult_pb"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "pb",
+      "path": "cupid_03_m_hatch_pb"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "pb",
+      "path": "cupid_03_m_hatchling_pb"
+    },
+    {
+      "form_number": "legacy",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "r",
+      "path": "cupid_legacy_m_adult_r"
+    },
+    {
+      "form_number": "legacy",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "r",
+      "path": "cupid_legacy_m_hatch_r"
+    },
+    {
+      "form_number": "legacy",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "r",
+      "path": "cupid_legacy_m_hatchling_r"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/04/Cupid_01_m_adult_rp_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171930",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Cupid",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/df/Cupid_00_e_egg_rp.png/revision/latest?cb=20240202225613"
+}

@@ -1,0 +1,66 @@
+{
+  "name": "hurricane dragon",
+  "egg_description": "This Egg has wings of the wind.",
+  "elements": [
+    "wind"
+  ],
+  "rarity": "Epic",
+  "region": "East Yutakan",
+  "dragon_type": "Typhoon Dragon",
+  "body_type": "Draco",
+  "food": "Whirl Flower",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "bg",
+      "path": "hurricane_01_f_adult_bg"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "bg",
+      "path": "hurricane_01_f_hatch_bg"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "bg",
+      "path": "hurricane_01_f_hatchling_bg"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bg",
+      "path": "hurricane_01_m_adult_bg"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "bg",
+      "path": "hurricane_01_m_hatch_bg"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "bg",
+      "path": "hurricane_01_m_hatchling_bg"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/22/Hurricane_01_m_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172452",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Hurricane_Dragon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/30/Hurricane_00_e_egg_bg.png/revision/latest?cb=20230910102652"
+}

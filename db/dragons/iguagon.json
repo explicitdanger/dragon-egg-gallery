@@ -1,0 +1,239 @@
+{
+  "name": "iguagon",
+  "egg_description": "This Egg is proud of its existence.",
+  "elements": [
+    "earth",
+    "wind"
+  ],
+  "rarity": "Legendary",
+  "region": "Deep Sea",
+  "dragon_type": "Lizard Dragon",
+  "body_type": "Draco",
+  "food": "Meggison",
+  "tradeable": true,
+  "breeding_tier": 0,
+  "forms": [
+    "default",
+    "desert lineage",
+    "grassland lineage",
+    "deep sea lineage",
+    "volcano lineage",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "bg",
+      "path": "iguagon_01_f_adult_bg"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "bg",
+      "path": "iguagon_01_f_hatch_bg"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "bg",
+      "path": "iguagon_01_f_hatchling_bg"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bg",
+      "path": "iguagon_01_m_adult_bg"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "bg",
+      "path": "iguagon_01_m_hatch_bg"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "bg",
+      "path": "iguagon_01_m_hatchling_bg"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "iguagon_02_f_adult_y"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "iguagon_02_f_hatch_y"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "iguagon_02_f_hatchling_y"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "iguagon_02_m_adult_y"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "iguagon_02_m_hatch_y"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "iguagon_02_m_hatchling_y"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "iguagon_03_f_adult_y"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "iguagon_03_f_hatch_y"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "iguagon_03_f_hatchling_y"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "iguagon_03_m_adult_y"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "iguagon_03_m_hatch_y"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "iguagon_03_m_hatchling_y"
+    },
+    {
+      "form_number": "04",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "iguagon_04_f_adult_b"
+    },
+    {
+      "form_number": "04",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "iguagon_04_f_hatch_b"
+    },
+    {
+      "form_number": "04",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "iguagon_04_f_hatchling_b"
+    },
+    {
+      "form_number": "04",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "iguagon_04_m_adult_b"
+    },
+    {
+      "form_number": "04",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "iguagon_04_m_hatch_b"
+    },
+    {
+      "form_number": "04",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "iguagon_04_m_hatchling_b"
+    },
+    {
+      "form_number": "05",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "r",
+      "path": "iguagon_05_f_adult_r"
+    },
+    {
+      "form_number": "05",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "r",
+      "path": "iguagon_05_f_hatch_r"
+    },
+    {
+      "form_number": "05",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "r",
+      "path": "iguagon_05_f_hatchling_r"
+    },
+    {
+      "form_number": "05",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "r",
+      "path": "iguagon_05_m_adult_r"
+    },
+    {
+      "form_number": "05",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "r",
+      "path": "iguagon_05_m_hatch_r"
+    },
+    {
+      "form_number": "05",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "r",
+      "path": "iguagon_05_m_hatchling_r"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d6/Iguagon_01_m_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172515",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Iguagon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a2/Iguagon_00_e_egg_bg.png/revision/latest?cb=20240215021047"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "blowfish goldie",
+  "egg_description": "This Egg is adorned with red jewels and is greatly inflated.",
+  "elements": [
+    "water",
+    "dream"
+  ],
+  "rarity": "Uncommon",
+  "region": "Deep Sea",
+  "dragon_type": "Gold Dragon",
+  "body_type": "Drake",
+  "food": "Ore",
+  "tradeable": true,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "non-actual room",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/0/08/Blowfish_Goldie_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/7/72/Blowfish_Goldie_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/5/56/Blowfish_Goldie_Default_Hatchling_M_Sprite.png/150px-Blowfish_Goldie_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/7/7d/Blowfish_Goldie_Default_Hatchling_F_Sprite.png/150px-Blowfish_Goldie_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/5/56/Blowfish_Goldie_Default_Hatchling_M_Sprite.png/150px-Blowfish_Goldie_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/7/7d/Blowfish_Goldie_Default_Hatchling_F_Sprite.png/150px-Blowfish_Goldie_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/7/77/Blowfish_Goldie_Default_Adult_M_Sprite.png/150px-Blowfish_Goldie_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/8/84/Blowfish_Goldie_Default_Adult_F_Sprite.png/150px-Blowfish_Goldie_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/0/08/Blowfish_Goldie_Egg_Sprite.png"
+  },
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a6/Puffergoldie_01_f_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173355",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Blowfish_Goldie",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/93/Puffergoldie_00_e_egg_y.png/revision/latest?cb=20240314030054"
+}

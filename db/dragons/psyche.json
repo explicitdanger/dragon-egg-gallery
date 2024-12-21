@@ -1,0 +1,66 @@
+{
+  "name": "psyche",
+  "egg_description": "This Egg holds the scent of love.",
+  "elements": [
+    "light"
+  ],
+  "rarity": "Rare",
+  "region": "Deep Sea",
+  "dragon_type": "Love Dragon",
+  "body_type": "Drake",
+  "food": "Meggison",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "rp",
+      "path": "psyche_01_f_adult_rp"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "rp",
+      "path": "psyche_01_f_hatch_rp"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "rp",
+      "path": "psyche_01_f_hatchling_rp"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "rp",
+      "path": "psyche_01_m_adult_rp"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "rp",
+      "path": "psyche_01_m_hatch_rp"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "rp",
+      "path": "psyche_01_m_hatchling_rp"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/73/Psyche_01_f_adult_rp_thumb.png/revision/latest/scale-to-width-down/115?cb=20240627033447",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Psyche",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/cc/Psyche_00_e_egg_rp.png/revision/latest?cb=20240627025546"
+}

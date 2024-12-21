@@ -1,0 +1,88 @@
+{
+  "name": "maldek",
+  "egg_description": "This Egg wishes to absorb life from a living being.",
+  "elements": [
+    "earth"
+  ],
+  "rarity": "Epic",
+  "region": "East Yutakan",
+  "dragon_type": "Earth Dragon",
+  "body_type": "Drake",
+  "food": "Paopao Fruit",
+  "tradeable": false,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "arcane",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "r",
+      "path": "maldek_01_f_adult_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "r",
+      "path": "maldek_01_f_hatch_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "r",
+      "path": "maldek_01_f_hatchling_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "r",
+      "path": "maldek_01_m_adult_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "r",
+      "path": "maldek_01_m_hatch_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "r",
+      "path": "maldek_01_m_hatchling_r"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "maldek_02_m_adult_bk"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "maldek_02_m_hatch_bk"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "maldek_02_m_hatchling_bk"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/0d/Maldek_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173233",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Maldek",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/10/Maldek_00_e_egg_r.png/revision/latest?cb=20230831173932"
+}

@@ -1,0 +1,190 @@
+{
+  "name": "rude ore dragon",
+  "egg_description": "This Egg has shiny shards on its shell.",
+  "elements": [
+    "dream"
+  ],
+  "rarity": "Legendary",
+  "region": "Special",
+  "dragon_type": "Ore Dragon",
+  "body_type": "Draco",
+  "food": "Ore",
+  "tradeable": false,
+  "breeding_tier": 0,
+  "forms": [
+    "default",
+    "god's ore",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "rudeore_01_f_adult_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "rudeore_01_f_hatch_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "rudeore_01_f_hatchling_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "rudeore_01_m_adult_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "rudeore_01_m_hatch_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "rudeore_01_m_hatchling_bk"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "rudeore_02_f_adult_bk"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "rudeore_02_f_hatch_bk"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "rudeore_02_f_hatchling_bk"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "rudeore_02_m_adult_bk"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "rudeore_02_m_hatch_bk"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "rudeore_02_m_hatchling_bk"
+    },
+    {
+      "form_number": "legacy01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "rudeore_legacy01_f_adult_bk"
+    },
+    {
+      "form_number": "legacy01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "rudeore_legacy01_f_hatch_bk"
+    },
+    {
+      "form_number": "legacy01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "rudeore_legacy01_f_hatchling_bk"
+    },
+    {
+      "form_number": "legacy01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "rudeore_legacy01_m_adult_bk"
+    },
+    {
+      "form_number": "legacy01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "rudeore_legacy01_m_hatch_bk"
+    },
+    {
+      "form_number": "legacy01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "rudeore_legacy01_m_hatchling_bk"
+    },
+    {
+      "form_number": "legacy02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "rudeore_legacy02_f_adult_bk"
+    },
+    {
+      "form_number": "legacy02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "rudeore_legacy02_f_hatch_bk"
+    },
+    {
+      "form_number": "legacy02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "rudeore_legacy02_f_hatchling_bk"
+    },
+    {
+      "form_number": "legacy02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "rudeore_legacy02_m_adult_bk"
+    },
+    {
+      "form_number": "legacy02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "rudeore_legacy02_m_hatch_bk"
+    },
+    {
+      "form_number": "legacy02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "rudeore_legacy02_m_hatchling_bk"
+    }
+  ],
+  "special_actions": []
+}

@@ -1,0 +1,42 @@
+{
+  "name": "seahorse dragon",
+  "egg_description": "This Egg is surrounded by turbulent waves.",
+  "elements": [
+    "water"
+  ],
+  "rarity": "Epic",
+  "region": "Deep Sea",
+  "dragon_type": "Seahorse Dragon",
+  "body_type": "Draco",
+  "food": "Piremio",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "walking",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/9/9c/Seahorse_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/a/a3/Seahorse_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/0/08/Seahorse_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/0/04/Seahorse_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/0/08/Seahorse_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/0/04/Seahorse_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/8/80/Seahorse_Dragon_Default_Adult_M_Sprite.png/150px-Seahorse_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/a/a6/Seahorse_Dragon_Default_Adult_F_Sprite.png/150px-Seahorse_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/9/9c/Seahorse_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c8/Haemagon_01_m_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172452",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Seahorse_Dragon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9b/Haemagon_00_e_egg_y.png/revision/latest?cb=20240314024930"
+}

@@ -1,0 +1,109 @@
+{
+  "name": "tartaros",
+  "egg_description": "This Egg detects the misdeeds of the dead.",
+  "elements": [
+    "fire",
+    "dark"
+  ],
+  "rarity": "Epic",
+  "region": "Sky Kingdom",
+  "dragon_type": "Soul Dragon",
+  "body_type": "Draco",
+  "food": "Purple Tulip",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "lair"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "p",
+      "path": "tartaros_01_f_adult_p"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "p",
+      "path": "tartaros_01_f_hatch_p"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "p",
+      "path": "tartaros_01_f_hatchling_p"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "p",
+      "path": "tartaros_01_m_adult_p"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "p",
+      "path": "tartaros_01_m_hatch_p"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "p",
+      "path": "tartaros_01_m_hatchling_p"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "pb",
+      "path": "tartaros_02_f_adult_pb"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "pb",
+      "path": "tartaros_02_f_hatch_pb"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "pb",
+      "path": "tartaros_02_f_hatchling_pb"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "pb",
+      "path": "tartaros_02_m_adult_pb"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "pb",
+      "path": "tartaros_02_m_hatch_pb"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "pb",
+      "path": "tartaros_02_m_hatchling_pb"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/4f/Tartaros_01_m_adult_p_thumb.png/revision/latest/scale-to-width-down/115?cb=20240808061839",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Tartaros",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/44/Tartaros_00_e_egg_p.png/revision/latest?cb=20240808005826"
+}

@@ -1,0 +1,66 @@
+{
+  "name": "libro dragon",
+  "egg_description": "This Egg is wearing a hat with feathers on it.",
+  "elements": [
+    "dream"
+  ],
+  "rarity": "Legendary",
+  "region": "West Yutakan",
+  "dragon_type": "History Dragon",
+  "body_type": "Drake",
+  "food": "Starfruit",
+  "tradeable": false,
+  "breeding_tier": 0,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "gy",
+      "path": "librodragon_01_f_adult_gy"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "gy",
+      "path": "librodragon_01_f_hatch_gy"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "gy",
+      "path": "librodragon_01_f_hatchling_gy"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "gy",
+      "path": "librodragon_01_m_adult_gy"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "gy",
+      "path": "librodragon_01_m_hatch_gy"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "gy",
+      "path": "librodragon_01_m_hatchling_gy"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/fb/Librodragon_01_m_adult_gy_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173208",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Libro_Dragon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f8/Librodragon_00_e_egg_gy.png/revision/latest?cb=20231020163411"
+}

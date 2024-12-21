@@ -1,0 +1,66 @@
+{
+  "name": "maple dragon",
+  "egg_description": "This Egg has a leaf pattern.",
+  "elements": [
+    "earth"
+  ],
+  "rarity": "Rare",
+  "region": "West Yutakan",
+  "dragon_type": "wooden Dragon",
+  "body_type": "Draco",
+  "food": "Maple Leaf",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "yr",
+      "path": "mapledragon_01_f_adult_yr"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "yr",
+      "path": "mapledragon_01_f_hatch_yr"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "yr",
+      "path": "mapledragon_01_f_hatchling_yr"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "yr",
+      "path": "mapledragon_01_m_adult_yr"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "yr",
+      "path": "mapledragon_01_m_hatch_yr"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "yr",
+      "path": "mapledragon_01_m_hatchling_yr"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/6a/Mapledragon_01_f_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173233",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Maple_Dragon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/78/Mapledragon_00_e_egg_yr.png/revision/latest?cb=20231122041647"
+}

@@ -1,0 +1,45 @@
+{
+  "name": "panmunia",
+  "egg_description": "This Egg is searching for a friend.",
+  "elements": [
+    "earth"
+  ],
+  "rarity": "Epic",
+  "region": "Sky Kingdom",
+  "dragon_type": "Egg Dragon",
+  "body_type": "Munia",
+  "food": "Paopao Fruit",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "gy",
+      "path": "panmunia_01_f_adult_gy"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "gy",
+      "path": "panmunia_01_f_hatch_gy"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "gy",
+      "path": "panmunia_01_f_hatchling_gy"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b9/Panmunia_01_f_adult_gy_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033802",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Panmunia",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/33/Panmunia_00_e_egg_gy.png/revision/latest?cb=20240724022317"
+}

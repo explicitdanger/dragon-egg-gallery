@@ -1,0 +1,39 @@
+{
+  "name": "nessiebig",
+  "egg_description": "This Egg keeps getting bigger and bigger.",
+  "elements": [
+    "water"
+  ],
+  "rarity": "Legendary",
+  "region": "East Yutakan",
+  "dragon_type": "Lake Dragon",
+  "body_type": "Deep Sea",
+  "food": "Piremio",
+  "tradeable": false,
+  "breeding_tier": 0,
+  "forms": [
+    "default",
+    "underground castle",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "n",
+      "stage": "adult",
+      "color_code": "p",
+      "path": "nessiebig_01_n_adult_p"
+    },
+    {
+      "form_number": "02",
+      "gender": "n",
+      "stage": "adult",
+      "color_code": "pb",
+      "path": "nessiebig_02_n_adult_pb"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b3/Nessiebig_01_n_adult_p_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173306",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Nessiebig",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/82/Nessiebig_00_e_egg_p.png/revision/latest?cb=20240202234718"
+}

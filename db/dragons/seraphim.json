@@ -1,0 +1,152 @@
+{
+  "name": "seraphim",
+  "egg_description": "This Egg is hiding its identity.",
+  "elements": [
+    "light",
+    "dream"
+  ],
+  "rarity": "Legendary",
+  "region": "Sky Kingdom",
+  "dragon_type": "Angel Dragon",
+  "body_type": "Draco",
+  "food": "Unknown",
+  "tradeable": false,
+  "breeding_tier": 0,
+  "forms": [
+    "default",
+    "intellectual",
+    "celestial"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "seraphim_01_f_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "seraphim_01_f_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "seraphim_01_f_hatchling_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "seraphim_01_m_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "seraphim_01_m_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "seraphim_01_m_hatchling_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "g",
+      "path": "seraphim_02_f_adult_g"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "g",
+      "path": "seraphim_02_f_hatch_g"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "g",
+      "path": "seraphim_02_f_hatchling_g"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "g",
+      "path": "seraphim_02_m_adult_g"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "g",
+      "path": "seraphim_02_m_hatch_g"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "g",
+      "path": "seraphim_02_m_hatchling_g"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "seraphim_03_f_adult_y"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "seraphim_03_f_hatch_y"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "seraphim_03_f_hatchling_y"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "seraphim_03_m_adult_y"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "seraphim_03_m_hatch_y"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "seraphim_03_m_hatchling_y"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/17/Seraphim_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033803",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Seraphim",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/61/Seraphim_00_e_egg_w.png/revision/latest?cb=20240724022318"
+}

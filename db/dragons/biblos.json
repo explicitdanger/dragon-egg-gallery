@@ -1,0 +1,110 @@
+{
+  "name": "biblos",
+  "egg_description": "This Egg reacts to stories.",
+  "elements": [
+    "earth",
+    "light"
+  ],
+  "rarity": "Legendary",
+  "region": "Special",
+  "dragon_type": "Book Dragon",
+  "body_type": "Draco",
+  "food": "Maple Leaf",
+  "tradeable": true,
+  "breeding_tier": 0,
+  "forms": [
+    "default",
+    "researcher",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "r",
+      "path": "biblos_01_f_adult_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "r",
+      "path": "biblos_01_f_hatch_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "r",
+      "path": "biblos_01_f_hatchling_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "r",
+      "path": "biblos_01_m_adult_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "r",
+      "path": "biblos_01_m_hatch_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "r",
+      "path": "biblos_01_m_hatchling_r"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "r",
+      "path": "biblos_02_f_adult_r"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "r",
+      "path": "biblos_02_f_hatch_r"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "r",
+      "path": "biblos_02_f_hatchling_r"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "r",
+      "path": "biblos_02_m_adult_r"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "r",
+      "path": "biblos_02_m_hatch_r"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "r",
+      "path": "biblos_02_m_hatchling_r"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c4/Biblos_02_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240718021354",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Biblos",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/ca/Biblos_00_e_egg_r.png/revision/latest?cb=20240718005934"
+}

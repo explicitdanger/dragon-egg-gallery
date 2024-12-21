@@ -1,0 +1,150 @@
+{
+  "body_type": "Animal Dragon",
+  "breeding_tier": 1,
+  "dragon_type": "Draco",
+  "egg_description": "This Egg changes its appearance seamlessly.",
+  "egg_img_url": "https://dvc.wiki.gg/images/d/d1/Disguise_Chameleon_Dragon_Egg_Sprite.png",
+  "elements": [
+    "light"
+  ],
+  "food": "Cricket",
+  "name": "Disguise Chameleon Dragon",
+  "profile_img_url": "https://dvc.wiki.gg/images/d/d1/Disguise_Chameleon_Dragon_Egg_Sprite.png",
+  "profile_url": "https://dvc.wiki.gg/wiki/Disguise_Chameleon_Dragon",
+  "rarity": "Epic",
+  "region": "Sky Kingdom",
+  "tradeable": true,
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "disguisechameleondragon_01_f_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "disguisechameleondragon_01_m_hatch_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "gy",
+      "path": "disguisechameleondragon_02_f_hatch_gy"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "gy",
+      "path": "disguisechameleondragon_02_m_hatch_gy"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "pb",
+      "path": "disguisechameleondragon_03_f_hatch_pb"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "pb",
+      "path": "disguisechameleondragon_03_m_hatch_pb"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "disguisechameleondragon_01_f_hatchling_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "disguisechameleondragon_01_m_hatchling_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "gy",
+      "path": "disguisechameleondragon_02_f_hatchling_gy"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "gy",
+      "path": "disguisechameleondragon_02_m_hatchling_gy"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "pb",
+      "path": "disguisechameleondragon_03_f_hatchling_pb"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "pb",
+      "path": "disguisechameleondragon_03_m_hatchling_pb"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "disguisechameleondragon_01_f_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "disguisechameleondragon_01_m_adult_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "gy",
+      "path": "disguisechameleondragon_02_f_adult_gy"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "gy",
+      "path": "disguisechameleondragon_02_m_adult_gy"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "pb",
+      "path": "disguisechameleondragon_03_f_adult_pb"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "pb",
+      "path": "disguisechameleondragon_03_m_adult_pb"
+    }
+  ],
+  "forms": [
+    "Sky Kingdom",
+    "Yutakan",
+    "Deep Sea"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "name": "blade dragon",
+  "egg_description": "This Egg has tiny blades protruding from it.",
+  "elements": [
+    "steel"
+  ],
+  "rarity": "Common",
+  "region": "West Yutakan",
+  "dragon_type": "Blade Dragon",
+  "body_type": "Draco",
+  "food": "Dark Melon",
+  "tradeable": true,
+  "breeding_tier": 4,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "bladedragon_01_f_adult_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "bladedragon_01_f_hatch_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "bladedragon_01_f_hatchling_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "bladedragon_01_m_adult_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "bladedragon_01_m_hatch_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "bladedragon_01_m_hatchling_b"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/6f/Bladedragon_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171909",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Blade_Dragon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9a/Bladedragon_00_e_egg_b.png/revision/latest?cb=20230919102210"
+}

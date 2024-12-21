@@ -1,0 +1,66 @@
+{
+  "name": "party dragon",
+  "egg_description": "This Egg is wrapped with a giant ribbon.",
+  "elements": [
+    "dream"
+  ],
+  "rarity": "Epic",
+  "region": "East Yutakan",
+  "dragon_type": "Helper Dragon",
+  "body_type": "Drake",
+  "food": "Starfruit",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "r",
+      "path": "party_01_f_adult_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "r",
+      "path": "party_01_f_hatch_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "r",
+      "path": "party_01_f_hatchling_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "r",
+      "path": "party_01_m_adult_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "r",
+      "path": "party_01_m_hatch_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "r",
+      "path": "party_01_m_hatchling_r"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/7a/Party_01_f_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173353",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Party_Dragon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/6f/Party_00_e_egg_r.png/revision/latest?cb=20240202225707"
+}

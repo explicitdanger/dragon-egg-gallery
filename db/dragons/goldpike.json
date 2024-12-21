@@ -1,0 +1,45 @@
+{
+  "name": "goldpike",
+  "egg_description": "This Egg has golden thorns.",
+  "elements": [
+    "steel"
+  ],
+  "rarity": "Rare",
+  "region": "East Yutakan",
+  "dragon_type": "Thorn Dragon",
+  "body_type": "Draco",
+  "food": "Siberian Ginseng",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "n",
+      "stage": "adult",
+      "color_code": "r",
+      "path": "goldpike_01_n_adult_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "n",
+      "stage": "hatch",
+      "color_code": "r",
+      "path": "goldpike_01_n_hatch_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "n",
+      "stage": "hatchling",
+      "color_code": "r",
+      "path": "goldpike_01_n_hatchling_r"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/51/Goldpike_01_n_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172431",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Goldpike",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/76/Goldpike_00_e_egg_r.png/revision/latest?cb=20240202235957"
+}

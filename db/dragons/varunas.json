@@ -1,0 +1,153 @@
+{
+  "name": "varunas",
+  "egg_description": "This Egg was imbued with sacred energy.",
+  "elements": [
+    "water",
+    "light"
+  ],
+  "rarity": "Epic",
+  "region": "Special",
+  "dragon_type": "Primeval Dragon",
+  "body_type": "Draco",
+  "food": "Piremio",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "aquris",
+    "abyss",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "varunas_01_f_adult_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "varunas_01_f_hatch_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "varunas_01_f_hatchling_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "varunas_01_m_adult_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "varunas_01_m_hatch_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "varunas_01_m_hatchling_b"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "varunas_02_f_adult_b"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "varunas_02_f_hatch_b"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "varunas_02_f_hatchling_b"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "varunas_02_m_adult_b"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "varunas_02_m_hatch_b"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "varunas_02_m_hatchling_b"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "varunas_03_f_adult_b"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "varunas_03_f_hatch_b"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "varunas_03_f_hatchling_b"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "varunas_03_m_adult_b"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "varunas_03_m_hatch_b"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "varunas_03_m_hatchling_b"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a9/Varunas_02_f_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173659",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Varunas",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a4/Varunas_00_e_egg_b.png/revision/latest?cb=20240201023841"
+}

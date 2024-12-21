@@ -1,0 +1,68 @@
+{
+  "name": "deva",
+  "egg_description": "This egg has a mysterious pattern on it.",
+  "elements": [
+    "steel",
+    "light"
+  ],
+  "rarity": "Epic",
+  "region": "East Yutakan",
+  "dragon_type": "Primeval Dragon",
+  "body_type": "Draco",
+  "food": "Watermelon",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "underground castle",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "deva_01_m_adult_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "deva_01_m_hatch_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "deva_01_m_hatchling_bk"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "g",
+      "path": "deva_02_m_adult_g"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "g",
+      "path": "deva_02_m_hatch_g"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "g",
+      "path": "deva_02_m_hatchling_g"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b4/Deva_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172216",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Deva",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/ee/Deva_00_e_egg_y.png/revision/latest?cb=20240202235346"
+}

@@ -1,0 +1,66 @@
+{
+  "name": "vetala",
+  "egg_description": "This Egg has black fangs attached to it.",
+  "elements": [
+    "dark"
+  ],
+  "rarity": "Common",
+  "region": "Deep Sea",
+  "dragon_type": "Bat Dragon",
+  "body_type": "Wyvern",
+  "food": "Roast Turkey",
+  "tradeable": true,
+  "breeding_tier": 4,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "vetala_01_f_adult_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "vetala_01_f_hatch_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "vetala_01_f_hatchling_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "vetala_01_m_adult_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "vetala_01_m_hatch_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "vetala_01_m_hatchling_bk"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/30/Vetala_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173700",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Vetala",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/7f/Vetala_00_e_egg_bk.png/revision/latest?cb=20240314030713"
+}

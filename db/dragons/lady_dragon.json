@@ -1,0 +1,89 @@
+{
+  "name": "lady dragon",
+  "egg_description": "This Egg is bright pink.",
+  "elements": [
+    "dream"
+  ],
+  "rarity": "Rare",
+  "region": "East Yutakan",
+  "dragon_type": "Aroma Dragon",
+  "body_type": "Draco",
+  "food": "Eggberry",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "little witch lady",
+    "blonde lady",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "rp",
+      "path": "lady_01_f_adult_rp"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "rp",
+      "path": "lady_01_f_hatch_rp"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "rp",
+      "path": "lady_01_f_hatchling_rp"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "rp",
+      "path": "lady_02_f_adult_rp"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "rp",
+      "path": "lady_02_f_hatch_rp"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "rp",
+      "path": "lady_02_f_hatchling_rp"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "lady_03_f_adult_y"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "lady_03_f_hatch_y"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "lady_03_f_hatchling_y"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/59/Lady_01_f_adult_rp_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173207",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Lady_Dragon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/3b/Lady_00_e_egg_rp.png/revision/latest?cb=20240203000433"
+}

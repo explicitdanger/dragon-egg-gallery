@@ -1,0 +1,46 @@
+{
+  "name": "iron dragon",
+  "egg_description": "Something black is sticking out from this red Egg.",
+  "elements": [
+    "steel",
+    "fire"
+  ],
+  "rarity": "Epic",
+  "region": "East Yutakan",
+  "dragon_type": "Fantasy Dragon",
+  "body_type": "Draco",
+  "food": "Oil",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "n",
+      "stage": "adult",
+      "color_code": "r",
+      "path": "iron_01_n_adult_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "n",
+      "stage": "hatch",
+      "color_code": "r",
+      "path": "iron_01_n_hatch_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "n",
+      "stage": "hatchling",
+      "color_code": "r",
+      "path": "iron_01_n_hatchling_r"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f4/Iron_01_n_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172516",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Iron_Dragon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/cf/Iron_00_e_egg_r.png/revision/latest?cb=20240202223909"
+}

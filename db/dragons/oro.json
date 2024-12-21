@@ -1,0 +1,66 @@
+{
+  "name": "oro",
+  "egg_description": "This Egg subdues threats.",
+  "elements": [
+    "wind"
+  ],
+  "rarity": "Common",
+  "region": "Sky Kingdom",
+  "dragon_type": "Wind Dragon",
+  "body_type": "Draco",
+  "food": "Yggdrasill",
+  "tradeable": true,
+  "breeding_tier": 4,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "oro_01_f_adult_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "oro_01_f_hatch_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "oro_01_f_hatchling_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "oro_01_m_adult_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "oro_01_m_hatch_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "oro_01_m_hatchling_y"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e4/Oro_01_m_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033802",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Oro",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d9/Oro_00_e_egg_y.png/revision/latest?cb=20240724022317"
+}

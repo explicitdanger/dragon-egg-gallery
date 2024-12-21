@@ -1,0 +1,46 @@
+{
+  "name": "mamunia",
+  "egg_description": "This Egg loves water.",
+  "elements": [
+    "water",
+    "dream"
+  ],
+  "rarity": "Uncommon",
+  "region": "Deep Sea",
+  "dragon_type": "Egg Dragon",
+  "body_type": "Munia",
+  "food": "Rainbow Fish",
+  "tradeable": true,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "n",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "mamunia_01_n_adult_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "n",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "mamunia_01_n_hatch_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "n",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "mamunia_01_n_hatchling_b"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/66/Mamunia_01_n_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173233",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Mamunia",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/0d/Mamunia_00_e_egg_b.png/revision/latest?cb=20240215021140"
+}

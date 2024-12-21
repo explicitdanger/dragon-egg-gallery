@@ -1,0 +1,109 @@
+{
+  "name": "asti",
+  "egg_description": "This Egg uses its horns to protect itself.",
+  "elements": [
+    "wind"
+  ],
+  "rarity": "Uncommon",
+  "region": "East Yutakan",
+  "dragon_type": "Wind Dragon",
+  "body_type": "Asian",
+  "food": "Grass",
+  "tradeable": true,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "dark",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "asti_01_f_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "asti_01_f_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "asti_01_f_hatchling_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "asti_01_m_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "asti_01_m_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "asti_01_m_hatchling_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "p",
+      "path": "asti_02_f_adult_p"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "p",
+      "path": "asti_02_f_hatch_p"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "p",
+      "path": "asti_02_f_hatchling_p"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "p",
+      "path": "asti_02_m_adult_p"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "p",
+      "path": "asti_02_m_hatch_p"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "p",
+      "path": "asti_02_m_hatchling_p"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/6b/Asti_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171856",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Asti",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f6/Asti_00_e_egg_w.png/revision/latest?cb=20240202215521"
+}

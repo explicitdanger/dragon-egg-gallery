@@ -1,0 +1,65 @@
+{
+  "name": "tediblo",
+  "egg_description": "This Egg has been abandoned after being loved.",
+  "elements": [
+    "dream"
+  ],
+  "rarity": "Epic",
+  "region": "West Yutakan",
+  "dragon_type": "Doll Dragon",
+  "body_type": "Draco",
+  "food": "Melon",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "r",
+      "path": "tediblo_01_f_adult_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "r",
+      "path": "tediblo_01_f_hatch_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "r",
+      "path": "tediblo_01_f_hatchling_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "r",
+      "path": "tediblo_01_m_adult_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "r",
+      "path": "tediblo_01_m_hatch_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "r",
+      "path": "tediblo_01_m_hatchling_r"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/17/Tediblo_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173608",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Tediblo",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/54/Tediblo_00_e_egg_r.png/revision/latest?cb=20230919104207"
+}

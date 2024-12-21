@@ -1,0 +1,43 @@
+{
+  "name": "eclipse dragon",
+  "egg_description": "This Egg feels the movements of the moon and the sun.",
+  "elements": [
+    "light"
+  ],
+  "rarity": "Very Common",
+  "region": "Special",
+  "dragon_type": "Moon Dragon",
+  "body_type": "Draco",
+  "food": "Ore",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "total eclipse",
+    "moon phase",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/a/ac/Eclipse_Dragon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/9/97/Eclipse_Dragon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/3/3a/Eclipse_Dragon_Default_Hatchling_M_Sprite.png/150px-Eclipse_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/0/08/Eclipse_Dragon_Default_Hatchling_F_Sprite.png/150px-Eclipse_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/3/3a/Eclipse_Dragon_Default_Hatchling_M_Sprite.png/150px-Eclipse_Dragon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/0/08/Eclipse_Dragon_Default_Hatchling_F_Sprite.png/150px-Eclipse_Dragon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/a/ae/Eclipse_Dragon_Default_Adult_M_Sprite.png/150px-Eclipse_Dragon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/b/be/Eclipse_Dragon_Default_Adult_F_Sprite.png/150px-Eclipse_Dragon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/a/ac/Eclipse_Dragon_Egg_Sprite.png"
+  },
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a9/Eclipesdragon_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419182312",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Eclipse_Dragon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/3c/Eclipesdragon_00_e_egg_bk.png/revision/latest?cb=20240418014856"
+}

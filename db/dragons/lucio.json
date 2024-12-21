@@ -1,0 +1,67 @@
+{
+  "name": "lucio",
+  "egg_description": "This Egg induces hallucinations.",
+  "elements": [
+    "dark",
+    "water"
+  ],
+  "rarity": "Epic",
+  "region": "West Yutakan",
+  "dragon_type": "Hallucination Dragon",
+  "body_type": "Coatyl",
+  "food": "Purple Tulip",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "p",
+      "path": "lucio_01_f_adult_p"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "p",
+      "path": "lucio_01_f_hatch_p"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "p",
+      "path": "lucio_01_f_hatchling_p"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "p",
+      "path": "lucio_01_m_adult_p"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "p",
+      "path": "lucio_01_m_hatch_p"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "p",
+      "path": "lucio_01_m_hatchling_p"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/2d/Lucio_01_f_adult_p_thumb.png/revision/latest/scale-to-width-down/115?cb=20240417235936",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Lucio",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/53/Lucio_00_e_egg_p.png/revision/latest?cb=20230919100808"
+}

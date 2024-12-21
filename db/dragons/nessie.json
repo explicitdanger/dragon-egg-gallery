@@ -1,0 +1,109 @@
+{
+  "name": "nessie",
+  "egg_description": "This Egg looks like a fish.",
+  "elements": [
+    "water"
+  ],
+  "rarity": "Common",
+  "region": "East Yutakan",
+  "dragon_type": "Lake Dragon",
+  "body_type": "Deep Sea",
+  "food": "Piremio",
+  "tradeable": true,
+  "breeding_tier": 4,
+  "forms": [
+    "default",
+    "festival",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "p",
+      "path": "nessie_01_f_adult_p"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "p",
+      "path": "nessie_01_f_hatch_p"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "p",
+      "path": "nessie_01_f_hatchling_p"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "p",
+      "path": "nessie_01_m_adult_p"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "p",
+      "path": "nessie_01_m_hatch_p"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "p",
+      "path": "nessie_01_m_hatchling_p"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "nessie_02_f_adult_b"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "nessie_02_f_hatch_b"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "nessie_02_f_hatchling_b"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "nessie_02_m_adult_b"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "nessie_02_m_hatch_b"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "nessie_02_m_hatchling_b"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/76/Nessie_01_m_adult_p_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173306",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Nessie",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/df/Nessie_00_e_egg_p.png/revision/latest?cb=20240202221220"
+}

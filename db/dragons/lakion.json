@@ -1,0 +1,83 @@
+{
+  "name": "lakion",
+  "egg_description": "This Egg is wearing a hoodie.",
+  "elements": [
+    "earth",
+    "dream"
+  ],
+  "rarity": "Uncommon",
+  "region": "East Yutakan",
+  "dragon_type": "Bundle Dragon",
+  "body_type": "Drake",
+  "food": "Haunted Pumpkin",
+  "tradeable": false,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "signature",
+    "undead (default)",
+    "undead (signature)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "yr",
+      "path": "lakion_01_f_adult_yr"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "yr",
+      "path": "lakion_01_f_hatch_yr"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "yr",
+      "path": "lakion_01_f_hatchling_yr"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "yr",
+      "path": "lakion_01_m_adult_yr"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "yr",
+      "path": "lakion_01_m_hatch_yr"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "yr",
+      "path": "lakion_01_m_hatchling_yr"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "yr",
+      "path": "lakion_02_f_adult_yr"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "yr",
+      "path": "lakion_02_m_adult_yr"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/99/Lakion_01_f_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173207",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Lakion",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f8/Lakion_00_e_egg_yr.png/revision/latest?cb=20240202230830"
+}

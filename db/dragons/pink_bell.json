@@ -1,0 +1,168 @@
+{
+  "name": "pink bell",
+  "egg_description": "This Egg is beautiful and adorable.",
+  "elements": [
+    "wind"
+  ],
+  "rarity": "Rare",
+  "region": "West Yutakan",
+  "dragon_type": "Fairy Dragon",
+  "body_type": "Draco",
+  "food": "Whirl Flower",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "monarch butterfly",
+    "morpho butterfly",
+    "signature",
+    "undead (default)",
+    "undead (signature)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "r",
+      "path": "pinkbell_01_f_adult_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "r",
+      "path": "pinkbell_01_f_hatch_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "r",
+      "path": "pinkbell_01_f_hatchling_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "r",
+      "path": "pinkbell_01_m_adult_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "r",
+      "path": "pinkbell_01_m_hatch_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "r",
+      "path": "pinkbell_01_m_hatchling_r"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "pinkbell_02_f_adult_y"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "pinkbell_02_f_hatch_y"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "pinkbell_02_f_hatchling_y"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "pinkbell_02_m_adult_y"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "pinkbell_02_m_hatch_y"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "pinkbell_02_m_hatchling_y"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "pinkbell_03_f_adult_b"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "pinkbell_03_f_hatch_b"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "pinkbell_03_f_hatchling_b"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "pinkbell_03_m_adult_b"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "pinkbell_03_m_hatch_b"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "pinkbell_03_m_hatchling_b"
+    },
+    {
+      "form_number": "04",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "r",
+      "path": "pinkbell_04_f_adult_r"
+    },
+    {
+      "form_number": "04",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "r",
+      "path": "pinkbell_04_m_adult_r"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/09/Pinkbell_01_m_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173354",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Pink_Bell",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c8/Pinkbell_00_e_egg_r.png/revision/latest?cb=20230919103419"
+}

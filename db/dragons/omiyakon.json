@@ -1,0 +1,64 @@
+{
+  "body_type": "?",
+  "breeding_tier": 0,
+  "dragon_type": "?",
+  "egg_description": "?",
+  "egg_img_url": "https://dvc.wiki.gg/images/1/18/Omiyakon_Egg_Sprite.png",
+  "elements": [
+    "water"
+  ],
+  "food": "?",
+  "name": "Omiyakon",
+  "profile_img_url": "https://dvc.wiki.gg/images/1/18/Omiyakon_Egg_Sprite.png",
+  "profile_url": "https://dvc.wiki.gg/wiki/omiyakon",
+  "rarity": "",
+  "region": "Sky Kingdom",
+  "tradeable": true,
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "omiyakon_01_f_hatch_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "omiyakon_01_m_hatch_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "omiyakon_01_f_hatchling_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "omiyakon_01_m_hatchling_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "omiyakon_01_f_adult_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "omiyakon_01_m_adult_b"
+    }
+  ],
+  "forms": [
+    "Default"
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "name": "bearded dragon",
+  "egg_description": "This Egg carries the will of the Lizard Kingdom.",
+  "elements": [
+    "dream"
+  ],
+  "rarity": "Epic",
+  "region": "East Yutakan",
+  "dragon_type": "Lizard Dragon",
+  "body_type": "Draco",
+  "food": "Mealworm",
+  "tradeable": false,
+  "breeding_tier": 5,
+  "forms": [
+    "default",
+    "desert kingdom",
+    "ice kingdom",
+    "underground kingdom",
+    "lizard kingdom",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "beardeddragon_01_f_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "beardeddragon_01_f_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "beardeddragon_01_f_hatchling_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "beardeddragon_01_m_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "beardeddragon_01_m_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "beardeddragon_01_m_hatchling_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "beardeddragon_02_f_adult_bk"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "beardeddragon_02_f_hatch_bk"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "beardeddragon_02_f_hatchling_bk"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "beardeddragon_02_m_adult_bk"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "beardeddragon_02_m_hatch_bk"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "beardeddragon_02_m_hatchling_bk"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "beardeddragon_03_f_adult_b"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "beardeddragon_03_f_hatch_b"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "beardeddragon_03_f_hatchling_b"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "beardeddragon_03_m_adult_b"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "beardeddragon_03_m_hatch_b"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "beardeddragon_03_m_hatchling_b"
+    },
+    {
+      "form_number": "04",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "beardeddragon_04_f_adult_y"
+    },
+    {
+      "form_number": "04",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "beardeddragon_04_f_hatch_y"
+    },
+    {
+      "form_number": "04",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "beardeddragon_04_f_hatchling_y"
+    },
+    {
+      "form_number": "04",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "beardeddragon_04_m_adult_y"
+    },
+    {
+      "form_number": "04",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "beardeddragon_04_m_hatch_y"
+    },
+    {
+      "form_number": "04",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "beardeddragon_04_m_hatchling_y"
+    },
+    {
+      "form_number": "05",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "yr",
+      "path": "beardeddragon_05_f_adult_yr"
+    },
+    {
+      "form_number": "05",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "yr",
+      "path": "beardeddragon_05_f_hatch_yr"
+    },
+    {
+      "form_number": "05",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "yr",
+      "path": "beardeddragon_05_f_hatchling_yr"
+    },
+    {
+      "form_number": "05",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "yr",
+      "path": "beardeddragon_05_m_adult_yr"
+    },
+    {
+      "form_number": "05",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "yr",
+      "path": "beardeddragon_05_m_hatch_yr"
+    },
+    {
+      "form_number": "05",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "yr",
+      "path": "beardeddragon_05_m_hatchling_yr"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c8/Beardeddragon_05_m_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171906",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Bearded_Dragon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/bc/Beardeddragon_00_e_egg_yr.png/revision/latest?cb=20230912190155"
+}

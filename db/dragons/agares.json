@@ -1,0 +1,109 @@
+{
+  "name": "agares",
+  "egg_description": "This Egg is enveloped in eternal flames.",
+  "elements": [
+    "fire"
+  ],
+  "rarity": "Epic",
+  "region": "Deep Sea",
+  "dragon_type": "Fire Dragon",
+  "body_type": "Draco",
+  "food": "Magic Petals",
+  "tradeable": false,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "persion",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "agares_01_f_adult_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "agares_01_f_hatch_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "agares_01_f_hatchling_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "agares_01_m_adult_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "agares_01_m_hatch_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "agares_01_m_hatchling_bk"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "pb",
+      "path": "agares_02_f_adult_pb"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "pb",
+      "path": "agares_02_f_hatch_pb"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "pb",
+      "path": "agares_02_f_hatchling_pb"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "pb",
+      "path": "agares_02_m_adult_pb"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "pb",
+      "path": "agares_02_m_hatch_pb"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "pb",
+      "path": "agares_02_m_hatchling_pb"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/73/Agares_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419190833",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Agares",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/af/Agares_00_e_egg_bk.png/revision/latest?cb=20240418013108"
+}

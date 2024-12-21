@@ -1,0 +1,46 @@
+{
+  "name": "leglien",
+  "egg_description": "This Egg spreads poisonous gas.",
+  "elements": [
+    "dream",
+    "wind"
+  ],
+  "rarity": "Uncommon",
+  "region": "East Yutakan",
+  "dragon_type": "Alien Dragon",
+  "body_type": "Draco",
+  "food": "Starfruit",
+  "tradeable": true,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "n",
+      "stage": "adult",
+      "color_code": "bg",
+      "path": "leglien_01_n_adult_bg"
+    },
+    {
+      "form_number": "01",
+      "gender": "n",
+      "stage": "hatch",
+      "color_code": "bg",
+      "path": "leglien_01_n_hatch_bg"
+    },
+    {
+      "form_number": "01",
+      "gender": "n",
+      "stage": "hatchling",
+      "color_code": "bg",
+      "path": "leglien_01_n_hatchling_bg"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/fb/Leglien_01_n_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173207",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Leglien",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/51/Leglien_00_e_egg_w.png/revision/latest?cb=20230911182554"
+}

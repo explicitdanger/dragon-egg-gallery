@@ -1,0 +1,67 @@
+{
+  "name": "blue lightning dragon",
+  "egg_description": "Electricity flows through this Egg.",
+  "elements": [
+    "lightning",
+    "water"
+  ],
+  "rarity": "Uncommon",
+  "region": "East Yutakan",
+  "dragon_type": "Electricity Dragon",
+  "body_type": "Draco",
+  "food": "Mango",
+  "tradeable": true,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "bluelightning_01_f_adult_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "bluelightning_01_f_hatch_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "bluelightning_01_f_hatchling_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "bluelightning_01_m_adult_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "bluelightning_01_m_hatch_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "bluelightning_01_m_hatchling_b"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b5/Bluelightning_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171912",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Blue_Lightning_Dragon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/7c/Bluelightning_00_e_egg_b.png/revision/latest?cb=20240202224435"
+}

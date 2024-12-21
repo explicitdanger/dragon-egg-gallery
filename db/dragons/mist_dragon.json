@@ -1,0 +1,65 @@
+{
+  "name": "mist dragon",
+  "egg_description": "This Egg gives off eerie vibes.",
+  "elements": [
+    "water"
+  ],
+  "rarity": "Rare",
+  "region": "West Yutakan",
+  "dragon_type": "Ghost Dragon",
+  "body_type": "Coatyl",
+  "food": "Soul",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "mistdragon_01_f_adult_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "mistdragon_01_f_hatch_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "mistdragon_01_f_hatchling_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "mistdragon_01_m_adult_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "mistdragon_01_m_hatch_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "mistdragon_01_m_hatchling_b"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/2a/Mistdragon_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173234",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Mist_Dragon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a4/Mistdragon_00_e_egg_b.png/revision/latest?cb=20230919101202"
+}

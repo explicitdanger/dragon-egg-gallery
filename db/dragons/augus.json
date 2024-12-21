@@ -1,0 +1,66 @@
+{
+  "name": "augus",
+  "egg_description": "These Egg are covered with hard greenish Light.",
+  "elements": [
+    "earth"
+  ],
+  "rarity": "Uncommon",
+  "region": "Deep Sea",
+  "dragon_type": "Strength Dragon",
+  "body_type": "Drake",
+  "food": "Meggison",
+  "tradeable": false,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "g",
+      "path": "augus_01_f_adult_g"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "g",
+      "path": "augus_01_f_hatch_g"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "g",
+      "path": "augus_01_f_hatchling_g"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "g",
+      "path": "augus_01_m_adult_g"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "g",
+      "path": "augus_01_m_hatch_g"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "g",
+      "path": "augus_01_m_hatchling_g"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d4/Augus_01_m_adult_g_thumb.png/revision/latest/scale-to-width-down/115?cb=20240509030056",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Augus",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/50/Augus_00_e_egg_g.png/revision/latest?cb=20240509005224"
+}

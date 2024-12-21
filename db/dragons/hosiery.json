@@ -1,0 +1,150 @@
+{
+  "body_type": "?",
+  "breeding_tier": 0,
+  "dragon_type": "?",
+  "egg_description": "?",
+  "egg_img_url": "https://dvc.wiki.gg/images/7/75/Hosiery_Egg_Sprite.png",
+  "elements": [
+    "dream"
+  ],
+  "food": "?",
+  "name": "Hosiery",
+  "profile_img_url": "https://dvc.wiki.gg/images/7/75/Hosiery_Egg_Sprite.png",
+  "profile_url": "https://dvc.wiki.gg/wiki/hosiery",
+  "rarity": "Legendary",
+  "region": "Special",
+  "tradeable": false,
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "r",
+      "path": "hosiery_01_f_hatch_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "r",
+      "path": "hosiery_01_m_hatch_r"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "hosiery_02_f_hatch_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "hosiery_02_m_hatch_w"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "hosiery_03_f_hatch_w"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "hosiery_03_m_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "r",
+      "path": "hosiery_01_f_hatchling_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "r",
+      "path": "hosiery_01_m_hatchling_r"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "hosiery_02_f_hatchling_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "hosiery_02_m_hatchling_w"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "hosiery_03_f_hatchling_w"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "hosiery_03_m_hatchling_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "r",
+      "path": "hosiery_01_f_adult_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "r",
+      "path": "hosiery_01_m_adult_r"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "hosiery_02_f_adult_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "hosiery_02_m_adult_w"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "hosiery_03_f_adult_w"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "hosiery_03_m_adult_w"
+    }
+  ],
+  "forms": [
+    "Stocking",
+    "Cookie",
+    "Snowdragon"
+  ]
+}

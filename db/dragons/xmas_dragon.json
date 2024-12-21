@@ -1,0 +1,152 @@
+{
+  "name": "xmas dragon",
+  "egg_description": "This egg is decorated with a red ribbon.",
+  "elements": [
+    "light"
+  ],
+  "rarity": "Legendary",
+  "region": "Special",
+  "dragon_type": "Christmas Dragon",
+  "body_type": "Draco",
+  "food": "Melon",
+  "tradeable": false,
+  "breeding_tier": 0,
+  "forms": [
+    "carol of light",
+    "silent night",
+    "christmas tree",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "xmasdragon_01_f_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "xmasdragon_01_f_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "xmasdragon_01_f_hatchling_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "xmasdragon_01_m_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "xmasdragon_01_m_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "xmasdragon_01_m_hatchling_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "pb",
+      "path": "xmasdragon_02_f_adult_pb"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "pb",
+      "path": "xmasdragon_02_f_hatch_pb"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "pb",
+      "path": "xmasdragon_02_f_hatchling_pb"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "pb",
+      "path": "xmasdragon_02_m_adult_pb"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "pb",
+      "path": "xmasdragon_02_m_hatch_pb"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "pb",
+      "path": "xmasdragon_02_m_hatchling_pb"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "g",
+      "path": "xmasdragon_03_f_adult_g"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "g",
+      "path": "xmasdragon_03_f_hatch_g"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "g",
+      "path": "xmasdragon_03_f_hatchling_g"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "g",
+      "path": "xmasdragon_03_m_adult_g"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "g",
+      "path": "xmasdragon_03_m_hatch_g"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "g",
+      "path": "xmasdragon_03_m_hatchling_g"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f0/Xmasdragon_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173735",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Xmas_Dragon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e9/Xmasdragon_00_e_egg_w.png/revision/latest?cb=20231222185207"
+}

@@ -1,0 +1,66 @@
+{
+  "name": "animala",
+  "egg_description": "This Egg is accompanied by souls.",
+  "elements": [
+    "dream",
+    "fire"
+  ],
+  "rarity": "Epic",
+  "region": "West Yutakan",
+  "dragon_type": "Soul Dragon",
+  "body_type": "Draco",
+  "food": "Soul",
+  "tradeable": true,
+  "breeding_tier": 45,
+  "forms": [
+    "default"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "animala_01_f_adult_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "animala_01_f_hatch_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "animala_01_f_hatchling_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "animala_01_m_adult_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "animala_01_m_hatch_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "animala_01_m_hatchling_bk"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a8/Animala_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171850",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Animala",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f3/Animala_00_e_egg_bk.png/revision/latest?cb=20230919101906"
+}

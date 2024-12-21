@@ -1,0 +1,65 @@
+{
+  "name": "hallow",
+  "egg_description": "This Egg is surrounded by ethereal spirits.",
+  "elements": [
+    "fire"
+  ],
+  "rarity": "Common",
+  "region": "West Yutakan",
+  "dragon_type": "Spirit Dragon",
+  "body_type": "Draco",
+  "food": "Fire Carrot",
+  "tradeable": true,
+  "breeding_tier": 4,
+  "forms": [
+    "default"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "g",
+      "path": "hallow_01_f_adult_g"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "g",
+      "path": "hallow_01_f_hatch_g"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "g",
+      "path": "hallow_01_f_hatchling_g"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "g",
+      "path": "hallow_01_m_adult_g"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "g",
+      "path": "hallow_01_m_hatch_g"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "g",
+      "path": "hallow_01_m_hatchling_g"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/00/Hallow_01_m_adult_g_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172452",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Hallow",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/28/Hallow_00_e_egg_g.png/revision/latest?cb=20230919104351"
+}

@@ -1,0 +1,237 @@
+{
+  "name": "feruna",
+  "egg_description": "This Egg is accompanied by dark souls.",
+  "elements": [
+    "dark"
+  ],
+  "rarity": "Rare",
+  "region": "Special",
+  "dragon_type": "Demon Dragon",
+  "body_type": "Draco",
+  "food": "Purple Tulip",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "soul demon",
+    "love angel",
+    "sea demon",
+    "sweet devil"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "rp",
+      "path": "feruna_01_f_adult_rp"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "rp",
+      "path": "feruna_01_f_hatch_rp"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "rp",
+      "path": "feruna_01_f_hatchling_rp"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "rp",
+      "path": "feruna_01_m_adult_rp"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "rp",
+      "path": "feruna_01_m_hatch_rp"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "rp",
+      "path": "feruna_01_m_hatchling_rp"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "rp",
+      "path": "feruna_02_f_adult_rp"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "rp",
+      "path": "feruna_02_f_hatch_rp"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "rp",
+      "path": "feruna_02_f_hatchling_rp"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "rp",
+      "path": "feruna_02_m_adult_rp"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "rp",
+      "path": "feruna_02_m_hatch_rp"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "rp",
+      "path": "feruna_02_m_hatchling_rp"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "feruna_03_f_adult_w"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "feruna_03_f_hatch_w"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "feruna_03_f_hatchling_w"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "feruna_03_m_adult_w"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "feruna_03_m_hatch_w"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "feruna_03_m_hatchling_w"
+    },
+    {
+      "form_number": "04",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "feruna_04_f_adult_bk"
+    },
+    {
+      "form_number": "04",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "feruna_04_f_hatch_bk"
+    },
+    {
+      "form_number": "04",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "feruna_04_f_hatchling_bk"
+    },
+    {
+      "form_number": "04",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "feruna_04_m_adult_bk"
+    },
+    {
+      "form_number": "04",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "feruna_04_m_hatch_bk"
+    },
+    {
+      "form_number": "04",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "feruna_04_m_hatchling_bk"
+    },
+    {
+      "form_number": "05",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "feruna_05_f_adult_w"
+    },
+    {
+      "form_number": "05",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "feruna_05_f_hatch_w"
+    },
+    {
+      "form_number": "05",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "feruna_05_f_hatchling_w"
+    },
+    {
+      "form_number": "05",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "feruna_05_m_adult_w"
+    },
+    {
+      "form_number": "05",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "feruna_05_m_hatch_w"
+    },
+    {
+      "form_number": "05",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "feruna_05_m_hatchling_w"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/eb/Feruna_02_f_adult_rp_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172400",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Feruna",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a3/Feruna_00_e_egg_rp.png/revision/latest?cb=20240130032101"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "dragons",
+  "egg_description": "",
+  "elements": [],
+  "rarity": "",
+  "region": "",
+  "dragon_type": "",
+  "body_type": "",
+  "food": "",
+  "tradeable": false,
+  "breeding_tier": null,
+  "forms": [
+    "default"
+  ],
+  "assets": {
+    "sprites": {}
+  },
+  "special_actions": []
+}

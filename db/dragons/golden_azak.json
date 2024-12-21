@@ -1,0 +1,39 @@
+{
+  "name": "golden azak",
+  "egg_description": "This Egg possesses a sacred golden glow.",
+  "elements": [
+    "steel",
+    "light"
+  ],
+  "rarity": "Epic",
+  "region": "Sky Kingdom",
+  "dragon_type": "Hextech Dragon",
+  "body_type": "Draco",
+  "food": "Mana",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "goldenazak_01_f_adult_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "goldenazak_01_m_adult_y"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/92/Goldenazak_01_m_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20241011004452",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Golden_Azak",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f0/Goldenazak_00_e_egg_y.png/revision/latest?cb=20241011004514"
+}

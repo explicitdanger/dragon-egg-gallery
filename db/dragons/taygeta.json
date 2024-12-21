@@ -1,0 +1,66 @@
+{
+  "name": "taygeta",
+  "egg_description": "This Egg is highly loyal.",
+  "elements": [
+    "wind"
+  ],
+  "rarity": "Uncommon",
+  "region": "East Yutakan",
+  "dragon_type": "Monitor Dragon",
+  "body_type": "Draco",
+  "food": "Magic Petals",
+  "tradeable": true,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "taygeta_01_f_adult_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "taygeta_01_f_hatch_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "taygeta_01_f_hatchling_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "taygeta_01_m_adult_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "taygeta_01_m_hatch_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "taygeta_01_m_hatchling_b"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c2/Taygeta_01_m_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173608",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Taygeta",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/87/Taygeta_00_e_egg_b.png/revision/latest?cb=20240202221451"
+}

@@ -1,0 +1,66 @@
+{
+  "name": "goldie",
+  "egg_description": "This Egg has a gold shaped mark.",
+  "elements": [
+    "dream"
+  ],
+  "rarity": "Uncommon",
+  "region": "East Yutakan",
+  "dragon_type": "Gold Dragon",
+  "body_type": "Drake",
+  "food": "Ore",
+  "tradeable": true,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "goldie_01_f_adult_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "goldie_01_f_hatch_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "goldie_01_f_hatchling_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "goldie_01_m_adult_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "goldie_01_m_hatch_y"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "goldie_01_m_hatchling_y"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/94/Goldie_01_f_adult_y_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172431",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Goldie",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c7/Goldie_00_e_egg_y.png/revision/latest?cb=20240202225721"
+}

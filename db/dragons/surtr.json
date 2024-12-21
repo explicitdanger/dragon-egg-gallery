@@ -1,0 +1,153 @@
+{
+  "name": "surtr",
+  "egg_description": "This Egg holds the flames of the battlefield.",
+  "elements": [
+    "fire",
+    "dark"
+  ],
+  "rarity": "Epic",
+  "region": "Special",
+  "dragon_type": "Flame Dragon",
+  "body_type": "Draco",
+  "food": "Flames",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "conquerer",
+    "apocalypse",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "r",
+      "path": "surtr_01_f_adult_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "r",
+      "path": "surtr_01_f_hatch_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "r",
+      "path": "surtr_01_f_hatchling_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "r",
+      "path": "surtr_01_m_adult_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "r",
+      "path": "surtr_01_m_hatch_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "r",
+      "path": "surtr_01_m_hatchling_r"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "r",
+      "path": "surtr_02_f_adult_r"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "r",
+      "path": "surtr_02_f_hatch_r"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "r",
+      "path": "surtr_02_f_hatchling_r"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "r",
+      "path": "surtr_02_m_adult_r"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "r",
+      "path": "surtr_02_m_hatch_r"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "r",
+      "path": "surtr_02_m_hatchling_r"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "p",
+      "path": "surtr_03_f_adult_p"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "p",
+      "path": "surtr_03_f_hatch_p"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "p",
+      "path": "surtr_03_f_hatchling_p"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "p",
+      "path": "surtr_03_m_adult_p"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "p",
+      "path": "surtr_03_m_hatch_p"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "p",
+      "path": "surtr_03_m_hatchling_p"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/08/Surtr_02_f_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173524",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Surtr",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/8c/Surtr_00_e_egg_r.png/revision/latest?cb=20231013093225"
+}

@@ -1,0 +1,66 @@
+{
+  "name": "eligos",
+  "egg_description": "This Egg has sensitive fins.",
+  "elements": [
+    "water"
+  ],
+  "rarity": "Rare",
+  "region": "Deep Sea",
+  "dragon_type": "Water Dragon",
+  "body_type": "Deep Sea",
+  "food": "Piranha",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "bg",
+      "path": "eligos_01_f_adult_bg"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "bg",
+      "path": "eligos_01_f_hatch_bg"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "bg",
+      "path": "eligos_01_f_hatchling_bg"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bg",
+      "path": "eligos_01_m_adult_bg"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "bg",
+      "path": "eligos_01_m_hatch_bg"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "bg",
+      "path": "eligos_01_m_hatchling_bg"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/9/9e/Eligos_01_f_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419182137",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Eligos",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/de/Eligos_00_e_egg_bg.png/revision/latest?cb=20240418014856"
+}

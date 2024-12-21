@@ -1,0 +1,67 @@
+{
+  "name": "sky cuanade",
+  "egg_description": "This Egg senses urgency.",
+  "elements": [
+    "wind",
+    "light"
+  ],
+  "rarity": "Rare",
+  "region": "Sky Kingdom",
+  "dragon_type": "Helper Dragon",
+  "body_type": "Draco",
+  "food": "Whirl Flower",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "skycuanade_01_f_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "skycuanade_01_f_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "skycuanade_01_f_hatchling_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "skycuanade_01_m_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "skycuanade_01_m_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "skycuanade_01_m_hatchling_w"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/67/Skycuanade_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240724033803",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Sky_Cuanade",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f5/Skycuanade_00_e_egg_w.png/revision/latest?cb=20240724022317"
+}

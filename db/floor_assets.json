@@ -1,0 +1,152 @@
+{
+  "floor": [
+    {
+      "display_name": "Aftea",
+      "path": "aftea/aftea_floor_01"
+    },
+    {
+      "display_name": "Aftea (Special)",
+      "path": "aftea/aftea_floor_02"
+    },
+    {
+      "display_name": "Apocalyptic Kingdom",
+      "path": "kingdomoftheend/kingdomoftheend_floor_01"
+    },
+    {
+      "display_name": "Aquiris Abyss",
+      "path": "deepsea/deepsea_floor_01"
+    },
+    {
+      "display_name": "Aquiris Under The Sea",
+      "path": "shallowsea/shallowsea_floor_01"
+    },
+    {
+      "display_name": "Arca's Court",
+      "path": "judge/judge_floor_01"
+    },
+    {
+      "display_name": "Arca's Execution Hall",
+      "path": "executor/executor_floor_01"
+    },
+    {
+      "display_name": "Clavis",
+      "path": "clavis/clavis_floor_01"
+    },
+    {
+      "display_name": "Clavis (Special)",
+      "path": "clavis/clavis_floor_02"
+    },
+    {
+      "display_name": "Collapsed Laboratory",
+      "path": "destroyedlaboratory/destroyedlaboratory_floor_01"
+    },
+    {
+      "display_name": "Dark Nation",
+      "path": "kkamaknara/kkamaknara_floor_01"
+    },
+    {
+      "display_name": "Eshu",
+      "path": "eshu/eshu_floor_01"
+    },
+    {
+      "display_name": "Feruna",
+      "path": "feruna/feruna_floor_01"
+    },
+    {
+      "display_name": "Feruna (Special)",
+      "path": "feruna/feruna_floor_02"
+    },
+    {
+      "display_name": "Frostina",
+      "path": "frostina/frostina_floor_01"
+    },
+    {
+      "display_name": "Frostina (Special)",
+      "path": "frostina/frostina_floor_02"
+    },
+    {
+      "display_name": "Halloween 2023",
+      "path": "halloween_2023/halloween_2023_floor_01"
+    },
+    {
+      "display_name": "Janus",
+      "path": "janus/janus_floor_01"
+    },
+    {
+      "display_name": "Janus (Special)",
+      "path": "janus/janus_floor_02"
+    },
+    {
+      "display_name": "Lotus Fire Dragon",
+      "path": "lotusfiredragon/lotusfiredragon_floor_01"
+    },
+    {
+      "display_name": "Lotus Fire Dragon (Special)",
+      "path": "lotusfiredragon/lotusfiredragon_floor_02"
+    },
+    {
+      "display_name": "Lumindis",
+      "path": "lumindis/lumindis_floor_01"
+    },
+    {
+      "display_name": "Malcartis",
+      "path": "malcartis/malcartis_floor_01"
+    },
+    {
+      "display_name": "Malcartis (Special)",
+      "path": "malcartis/malcartis_floor_02"
+    },
+    {
+      "display_name": "Metis",
+      "path": "metis/metis_floor_01"
+    },
+    {
+      "display_name": "Metis (Special)",
+      "path": "metis/metis_floor_02"
+    },
+    {
+      "display_name": "Old Palace",
+      "path": "korean_palace/korean_palace_floor_01"
+    },
+    {
+      "display_name": "Pusom",
+      "path": "pusom/pusom_floor_01"
+    },
+    {
+      "display_name": "Pusom (Special)",
+      "path": "pusom/pusom_floor_02"
+    },
+    {
+      "display_name": "Symphonia",
+      "path": "symphonia/symphonia_floor_01"
+    },
+    {
+      "display_name": "Symphonia (Special)",
+      "path": "symphonia/symphonia_floor_02"
+    },
+    {
+      "display_name": "Telos Gamma",
+      "path": "telosgamma/telosgamma_floor_01"
+    },
+    {
+      "display_name": "Telos Gamma (Special)",
+      "path": "telosgamma/telosgamma_floor_02"
+    },
+    {
+      "display_name": "Temple of Memories",
+      "path": "templeofmemory/templeofmemory_floor_01"
+    },
+    {
+      "display_name": "The Path to Hope",
+      "path": "apathtohope/apathtohope_floor_01"
+    },
+    {
+      "display_name": "Vaska",
+      "path": "vaska/vaska_floor_01"
+    },
+    {
+      "display_name": "Vaska (Special)",
+      "path": "vaska/vaska_floor_02"
+    }
+  ]
+}

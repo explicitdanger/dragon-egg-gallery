@@ -1,0 +1,64 @@
+{
+  "body_type": "Asian",
+  "breeding_tier": 2,
+  "dragon_type": "Ice Dragon",
+  "egg_description": "This Egg uses its fins to create cold streams of water.",
+  "egg_img_url": "https://dvc.wiki.gg/images/0/03/Ice_Drake_Egg_Sprite.png",
+  "elements": [
+    "water"
+  ],
+  "food": "Yggdrasill",
+  "forms": [
+    "Default"
+  ],
+  "name": "Ice Drake",
+  "profile_img_url": "https://dvc.wiki.gg/images/0/03/Ice_Drake_Egg_Sprite.png",
+  "profile_url": "https://dvc.wiki.gg/wiki/Ice_Drake",
+  "rarity": "Rare",
+  "region": "Sky Kingdom",
+  "tradeable": true,
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "icedrake_01_f_hatch_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "icedrake_01_m_hatch_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "icedrake_01_f_hatchling_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "icedrake_01_m_hatchling_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "icedrake_01_f_adult_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "icedrake_01_m_adult_b"
+    }
+  ]
+}

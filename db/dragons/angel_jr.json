@@ -1,0 +1,45 @@
+{
+  "name": "angel jr",
+  "egg_description": "This Egg has small wings.",
+  "elements": [
+    "light"
+  ],
+  "rarity": "Epic",
+  "region": "East Yutakan",
+  "dragon_type": "Angel Dragon",
+  "body_type": "Draco",
+  "food": "Melon",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "angeljr_01_f_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "angeljr_01_f_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "angeljr_01_f_hatchling_w"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/fc/Angeljr_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171849",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Angel_Jr",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/1e/Angeljr_00_e_egg_w.png/revision/latest?cb=20230906133748"
+}

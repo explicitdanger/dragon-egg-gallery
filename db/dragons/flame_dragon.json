@@ -1,0 +1,66 @@
+{
+  "name": "flame dragon",
+  "egg_description": "The flames around this Egg never cool down.",
+  "elements": [
+    "fire"
+  ],
+  "rarity": "Uncommon",
+  "region": "East Yutakan",
+  "dragon_type": "Flame Dragon",
+  "body_type": "Draco",
+  "food": "Fire Carrot",
+  "tradeable": false,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "r",
+      "path": "flamedragon_01_f_adult_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "r",
+      "path": "flamedragon_01_f_hatch_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "r",
+      "path": "flamedragon_01_f_hatchling_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "r",
+      "path": "flamedragon_01_m_adult_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "r",
+      "path": "flamedragon_01_m_hatch_r"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "r",
+      "path": "flamedragon_01_m_hatchling_r"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/23/Flamedragon_01_f_adult_r_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172400",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Flame_Dragon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e1/Flamedragon_00_e_egg_r.png/revision/latest?cb=20240202230511"
+}

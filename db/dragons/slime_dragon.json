@@ -1,0 +1,88 @@
+{
+  "name": "slime dragon",
+  "egg_description": "This Egg's texture is like liquid.",
+  "elements": [
+    "water"
+  ],
+  "rarity": "Epic",
+  "region": "East Yutakan",
+  "dragon_type": "Liquid Dragon",
+  "body_type": "Wyvern",
+  "food": "Haunted Pumpkin",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "orange slime",
+    "pink slime"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "n",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "slimedragon_01_n_adult_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "n",
+      "stage": "hatch",
+      "color_code": "b",
+      "path": "slimedragon_01_n_hatch_b"
+    },
+    {
+      "form_number": "01",
+      "gender": "n",
+      "stage": "hatchling",
+      "color_code": "b",
+      "path": "slimedragon_01_n_hatchling_b"
+    },
+    {
+      "form_number": "02",
+      "gender": "n",
+      "stage": "adult",
+      "color_code": "yr",
+      "path": "slimedragon_02_n_adult_yr"
+    },
+    {
+      "form_number": "02",
+      "gender": "n",
+      "stage": "hatch",
+      "color_code": "yr",
+      "path": "slimedragon_02_n_hatch_yr"
+    },
+    {
+      "form_number": "02",
+      "gender": "n",
+      "stage": "hatchling",
+      "color_code": "yr",
+      "path": "slimedragon_02_n_hatchling_yr"
+    },
+    {
+      "form_number": "03",
+      "gender": "n",
+      "stage": "adult",
+      "color_code": "rp",
+      "path": "slimedragon_03_n_adult_rp"
+    },
+    {
+      "form_number": "03",
+      "gender": "n",
+      "stage": "hatch",
+      "color_code": "rp",
+      "path": "slimedragon_03_n_hatch_rp"
+    },
+    {
+      "form_number": "03",
+      "gender": "n",
+      "stage": "hatchling",
+      "color_code": "rp",
+      "path": "slimedragon_03_n_hatchling_rp"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/74/Slimedragon_01_n_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173518",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Slime_Dragon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/aa/Slimedragon_00_e_egg_b.png/revision/latest?cb=20230912212622"
+}

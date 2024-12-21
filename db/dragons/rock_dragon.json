@@ -1,0 +1,109 @@
+{
+  "name": "rock dragon",
+  "egg_description": "A pickax is needed to collect this Egg.",
+  "elements": [
+    "earth"
+  ],
+  "rarity": "Common",
+  "region": "East Yutakan",
+  "dragon_type": "Rock Dragon",
+  "body_type": "Draco",
+  "food": "Ore",
+  "tradeable": true,
+  "breeding_tier": 4,
+  "forms": [
+    "default",
+    "stone ore",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "rock_01_f_adult_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "rock_01_f_hatch_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "rock_01_f_hatchling_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "rock_01_m_adult_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "rock_01_m_hatch_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "rock_01_m_hatchling_bk"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "pb",
+      "path": "rock_02_f_adult_pb"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "pb",
+      "path": "rock_02_f_hatch_pb"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "pb",
+      "path": "rock_02_f_hatchling_pb"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "pb",
+      "path": "rock_02_m_adult_pb"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "pb",
+      "path": "rock_02_m_hatch_pb"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "pb",
+      "path": "rock_02_m_hatchling_pb"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/ce/Rock_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173439",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Rock_Dragon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/bd/Rock_00_e_egg_bk.png/revision/latest?cb=20240202224157"
+}

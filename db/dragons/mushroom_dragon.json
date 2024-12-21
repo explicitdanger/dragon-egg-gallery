@@ -1,0 +1,82 @@
+{
+  "name": "mushroom dragon",
+  "egg_description": "The Egg is moist and bouncy.",
+  "elements": [
+    "earth"
+  ],
+  "rarity": "Common",
+  "region": "East Yutakan",
+  "dragon_type": "Mushroom Dragon",
+  "body_type": "Draco",
+  "food": "Mushroom",
+  "tradeable": true,
+  "breeding_tier": 4,
+  "forms": [
+    "default",
+    "signature",
+    "undead (default)",
+    "undead (signature)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "p",
+      "path": "mushroom_01_f_adult_p"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "p",
+      "path": "mushroom_01_f_hatch_p"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "p",
+      "path": "mushroom_01_f_hatchling_p"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "yr",
+      "path": "mushroom_01_m_adult_yr"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "yr",
+      "path": "mushroom_01_m_hatch_yr"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "yr",
+      "path": "mushroom_01_m_hatchling_yr"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "p",
+      "path": "mushroom_02_f_adult_p"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "yr",
+      "path": "mushroom_02_m_adult_yr"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/db/Mushroom_01_m_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173234",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Mushroom_Dragon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/b7/Mushroom_00_e_egg_yr.png/revision/latest?cb=20240202224229"
+}

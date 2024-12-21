@@ -1,0 +1,411 @@
+{
+  "name": "pusom",
+  "egg_description": "This Egg wants to give happiness.",
+  "elements": [
+    "dream",
+    "light"
+  ],
+  "rarity": "Rare",
+  "region": "Special",
+  "dragon_type": "Dream Dragon",
+  "body_type": "Drake",
+  "food": "Starfruit",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "dinosaur of dollland",
+    "fox of donutland",
+    "unicorn of dreamland",
+    "duck of fruitland",
+    "dinosaur doll",
+    "fox doll",
+    "unicorn doll",
+    "duck doll",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "bg",
+      "path": "pusom_01_f_adult_bg"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "bg",
+      "path": "pusom_01_f_hatch_bg"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "bg",
+      "path": "pusom_01_f_hatchling_bg"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bg",
+      "path": "pusom_01_m_adult_bg"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "bg",
+      "path": "pusom_01_m_hatch_bg"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "bg",
+      "path": "pusom_01_m_hatchling_bg"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "bg",
+      "path": "pusom_02_f_adult_bg"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "bg",
+      "path": "pusom_02_f_hatch_bg"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "bg",
+      "path": "pusom_02_f_hatchling_bg"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bg",
+      "path": "pusom_02_m_adult_bg"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "bg",
+      "path": "pusom_02_m_hatch_bg"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "bg",
+      "path": "pusom_02_m_hatchling_bg"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "yr",
+      "path": "pusom_03_f_adult_yr"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "yr",
+      "path": "pusom_03_f_hatch_yr"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "yr",
+      "path": "pusom_03_f_hatchling_yr"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "yr",
+      "path": "pusom_03_m_adult_yr"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "yr",
+      "path": "pusom_03_m_hatch_yr"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "yr",
+      "path": "pusom_03_m_hatchling_yr"
+    },
+    {
+      "form_number": "04",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "p",
+      "path": "pusom_04_f_adult_p"
+    },
+    {
+      "form_number": "04",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "p",
+      "path": "pusom_04_f_hatch_p"
+    },
+    {
+      "form_number": "04",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "p",
+      "path": "pusom_04_f_hatchling_p"
+    },
+    {
+      "form_number": "04",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "p",
+      "path": "pusom_04_m_adult_p"
+    },
+    {
+      "form_number": "04",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "p",
+      "path": "pusom_04_m_hatch_p"
+    },
+    {
+      "form_number": "04",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "p",
+      "path": "pusom_04_m_hatchling_p"
+    },
+    {
+      "form_number": "05",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "pusom_05_f_adult_w"
+    },
+    {
+      "form_number": "05",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "pusom_05_f_hatch_w"
+    },
+    {
+      "form_number": "05",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "pusom_05_f_hatchling_w"
+    },
+    {
+      "form_number": "05",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "pusom_05_m_adult_w"
+    },
+    {
+      "form_number": "05",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "pusom_05_m_hatch_w"
+    },
+    {
+      "form_number": "05",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "pusom_05_m_hatchling_w"
+    },
+    {
+      "form_number": "06",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "bg",
+      "path": "pusom_06_f_adult_bg"
+    },
+    {
+      "form_number": "06",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "bg",
+      "path": "pusom_06_f_hatch_bg"
+    },
+    {
+      "form_number": "06",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "bg",
+      "path": "pusom_06_f_hatchling_bg"
+    },
+    {
+      "form_number": "06",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bg",
+      "path": "pusom_06_m_adult_bg"
+    },
+    {
+      "form_number": "06",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "bg",
+      "path": "pusom_06_m_hatch_bg"
+    },
+    {
+      "form_number": "06",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "bg",
+      "path": "pusom_06_m_hatchling_bg"
+    },
+    {
+      "form_number": "07",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "yr",
+      "path": "pusom_07_f_adult_yr"
+    },
+    {
+      "form_number": "07",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "yr",
+      "path": "pusom_07_f_hatch_yr"
+    },
+    {
+      "form_number": "07",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "yr",
+      "path": "pusom_07_f_hatchling_yr"
+    },
+    {
+      "form_number": "07",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "yr",
+      "path": "pusom_07_m_adult_yr"
+    },
+    {
+      "form_number": "07",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "yr",
+      "path": "pusom_07_m_hatch_yr"
+    },
+    {
+      "form_number": "07",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "yr",
+      "path": "pusom_07_m_hatchling_yr"
+    },
+    {
+      "form_number": "08",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "p",
+      "path": "pusom_08_f_adult_p"
+    },
+    {
+      "form_number": "08",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "p",
+      "path": "pusom_08_f_hatch_p"
+    },
+    {
+      "form_number": "08",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "p",
+      "path": "pusom_08_f_hatchling_p"
+    },
+    {
+      "form_number": "08",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "p",
+      "path": "pusom_08_m_adult_p"
+    },
+    {
+      "form_number": "08",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "p",
+      "path": "pusom_08_m_hatch_p"
+    },
+    {
+      "form_number": "08",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "p",
+      "path": "pusom_08_m_hatchling_p"
+    },
+    {
+      "form_number": "09",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "pusom_09_f_adult_w"
+    },
+    {
+      "form_number": "09",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "pusom_09_f_hatch_w"
+    },
+    {
+      "form_number": "09",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "pusom_09_f_hatchling_w"
+    },
+    {
+      "form_number": "09",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "pusom_09_m_adult_w"
+    },
+    {
+      "form_number": "09",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "pusom_09_m_hatch_w"
+    },
+    {
+      "form_number": "09",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "pusom_09_m_hatchling_w"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/e/e8/Pusom_02_m_adult_bg_thumb.png/revision/latest/scale-to-width-down/115?cb=20240427083348",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Pusom",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/59/Pusom_00_e_egg_bg.png/revision/latest?cb=20240425005016"
+}

@@ -1,0 +1,41 @@
+{
+  "name": "gatling-gon",
+  "egg_description": "This Egg is equipped with a gun.",
+  "elements": [
+    "light"
+  ],
+  "rarity": "Uncommon",
+  "region": "West Yutakan",
+  "dragon_type": "Weapon Dragon",
+  "body_type": "Wyvern",
+  "food": "Oil",
+  "tradeable": false,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": {
+    "sprites": {
+      "egg": "https://dvc.wiki.gg/images/b/bd/Gatling-Gon_Egg_Sprite.png",
+      "dead_egg": "https://dvc.wiki.gg/images/d/d1/Gatling-Gon_Dead_Egg_Sprite.png",
+      "hatch": {
+        "male": "https://dvc.wiki.gg/images/thumb/5/50/Gatling-Gon_Default_Hatchling_M_Sprite.png/150px-Gatling-Gon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/4/41/Gatling-Gon_Default_Hatchling_F_Sprite.png/150px-Gatling-Gon_Default_Hatchling_F_Sprite.png"
+      },
+      "hatchling": {
+        "male": "https://dvc.wiki.gg/images/thumb/5/50/Gatling-Gon_Default_Hatchling_M_Sprite.png/150px-Gatling-Gon_Default_Hatchling_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/4/41/Gatling-Gon_Default_Hatchling_F_Sprite.png/150px-Gatling-Gon_Default_Hatchling_F_Sprite.png"
+      },
+      "adult": {
+        "male": "https://dvc.wiki.gg/images/thumb/9/9a/Gatling-Gon_Default_Adult_M_Sprite.png/150px-Gatling-Gon_Default_Adult_M_Sprite.png",
+        "female": "https://dvc.wiki.gg/images/thumb/a/aa/Gatling-Gon_Default_Adult_F_Sprite.png/150px-Gatling-Gon_Default_Adult_F_Sprite.png"
+      }
+    },
+    "egg": "https://dvc.wiki.gg/images/b/bd/Gatling-Gon_Egg_Sprite.png"
+  },
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/c/c6/Gautlinggon_01_m_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172430",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Gatling-Gon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/30/Gautlinggon_00_e_egg_yr.png/revision/latest?cb=20231001093325"
+}

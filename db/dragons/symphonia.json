@@ -1,0 +1,410 @@
+{
+  "name": "symphonia",
+  "egg_description": "This Egg hears the sounds of the stars.",
+  "elements": [
+    "dream"
+  ],
+  "rarity": "Rare",
+  "region": "Special",
+  "dragon_type": "Music Dragon",
+  "body_type": "Draco",
+  "food": "Starfruit",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "p_starlight",
+    "p_fireworks",
+    "p_destiny",
+    "p_overgrowth",
+    "starlight",
+    "fireworks",
+    "destiny",
+    "overgrowth",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "symphonia_01_f_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "symphonia_01_f_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "symphonia_01_f_hatchling_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "symphonia_01_m_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "symphonia_01_m_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "symphonia_01_m_hatchling_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "symphonia_02_f_adult_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "symphonia_02_f_hatch_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "symphonia_02_f_hatchling_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "symphonia_02_m_adult_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "symphonia_02_m_hatch_w"
+    },
+    {
+      "form_number": "02",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "symphonia_02_m_hatchling_w"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "symphonia_03_f_adult_w"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "symphonia_03_f_hatch_w"
+    },
+    {
+      "form_number": "03",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "symphonia_03_f_hatchling_w"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "symphonia_03_m_adult_w"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "symphonia_03_m_hatch_w"
+    },
+    {
+      "form_number": "03",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "symphonia_03_m_hatchling_w"
+    },
+    {
+      "form_number": "04",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "symphonia_04_f_adult_bk"
+    },
+    {
+      "form_number": "04",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "symphonia_04_f_hatch_bk"
+    },
+    {
+      "form_number": "04",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "symphonia_04_f_hatchling_bk"
+    },
+    {
+      "form_number": "04",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "symphonia_04_m_adult_bk"
+    },
+    {
+      "form_number": "04",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "symphonia_04_m_hatch_bk"
+    },
+    {
+      "form_number": "04",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "symphonia_04_m_hatchling_bk"
+    },
+    {
+      "form_number": "05",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "symphonia_05_f_adult_y"
+    },
+    {
+      "form_number": "05",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "symphonia_05_f_hatch_y"
+    },
+    {
+      "form_number": "05",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "symphonia_05_f_hatchling_y"
+    },
+    {
+      "form_number": "05",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "symphonia_05_m_adult_y"
+    },
+    {
+      "form_number": "05",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "symphonia_05_m_hatch_y"
+    },
+    {
+      "form_number": "05",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "symphonia_05_m_hatchling_y"
+    },
+    {
+      "form_number": "06",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "symphonia_06_f_adult_w"
+    },
+    {
+      "form_number": "06",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "symphonia_06_f_hatch_w"
+    },
+    {
+      "form_number": "06",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "symphonia_06_f_hatchling_w"
+    },
+    {
+      "form_number": "06",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "symphonia_06_m_adult_w"
+    },
+    {
+      "form_number": "06",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "symphonia_06_m_hatch_w"
+    },
+    {
+      "form_number": "06",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "symphonia_06_m_hatchling_w"
+    },
+    {
+      "form_number": "07",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "symphonia_07_f_adult_w"
+    },
+    {
+      "form_number": "07",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "symphonia_07_f_hatch_w"
+    },
+    {
+      "form_number": "07",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "symphonia_07_f_hatchling_w"
+    },
+    {
+      "form_number": "07",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "symphonia_07_m_adult_w"
+    },
+    {
+      "form_number": "07",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "symphonia_07_m_hatch_w"
+    },
+    {
+      "form_number": "07",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "symphonia_07_m_hatchling_w"
+    },
+    {
+      "form_number": "08",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "symphonia_08_f_adult_bk"
+    },
+    {
+      "form_number": "08",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "symphonia_08_f_hatch_bk"
+    },
+    {
+      "form_number": "08",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "symphonia_08_f_hatchling_bk"
+    },
+    {
+      "form_number": "08",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "symphonia_08_m_adult_bk"
+    },
+    {
+      "form_number": "08",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "symphonia_08_m_hatch_bk"
+    },
+    {
+      "form_number": "08",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "symphonia_08_m_hatchling_bk"
+    },
+    {
+      "form_number": "09",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "symphonia_09_f_adult_y"
+    },
+    {
+      "form_number": "09",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "symphonia_09_f_hatch_y"
+    },
+    {
+      "form_number": "09",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "symphonia_09_f_hatchling_y"
+    },
+    {
+      "form_number": "09",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "y",
+      "path": "symphonia_09_m_adult_y"
+    },
+    {
+      "form_number": "09",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "y",
+      "path": "symphonia_09_m_hatch_y"
+    },
+    {
+      "form_number": "09",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "y",
+      "path": "symphonia_09_m_hatchling_y"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/7/7b/Symphonia_02_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240627033447",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Symphonia",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/16/Symphonia_00_e_egg_w.png/revision/latest?cb=20240627025546"
+}

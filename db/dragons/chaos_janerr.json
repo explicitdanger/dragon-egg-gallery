@@ -1,0 +1,45 @@
+{
+  "name": "chaos janerr",
+  "egg_description": "This Egg attracts the vile.",
+  "elements": [
+    "dark"
+  ],
+  "rarity": "Epic",
+  "region": "Deep Sea",
+  "dragon_type": "Chaos Dragon",
+  "body_type": "Draco",
+  "food": "Purple Tulip",
+  "tradeable": true,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "n",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "chaosjanerr_01_n_adult_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "n",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "chaosjanerr_01_n_hatch_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "n",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "chaosjanerr_01_n_hatchling_bk"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/5a/Chaosjanerr_01_n_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419183642",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Chaos_Janerr",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/fa/Chaosjanerr_00_e_egg_bk.png/revision/latest?cb=20240418014856"
+}

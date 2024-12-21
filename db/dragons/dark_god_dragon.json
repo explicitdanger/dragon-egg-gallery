@@ -1,0 +1,66 @@
+{
+  "name": "dark god dragon",
+  "egg_description": "This Egg has spots of darkness.",
+  "elements": [
+    "dark"
+  ],
+  "rarity": "Legendary",
+  "region": "Special",
+  "dragon_type": "Dark Dragon",
+  "body_type": "Draco",
+  "food": "Dark Melon",
+  "tradeable": false,
+  "breeding_tier": 0,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "darkgoddragon_01_f_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "darkgoddragon_01_f_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "darkgoddragon_01_f_hatchling_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "darkgoddragon_01_m_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "darkgoddragon_01_m_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "darkgoddragon_01_m_hatchling_w"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/8/8b/Darkgoddragon_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171930",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Dark_God_Dragon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/3f/Darkgoddragon_00_e_egg_w.png/revision/latest?cb=20240202230747"
+}

@@ -1,0 +1,66 @@
+{
+  "name": "celsior",
+  "egg_description": "This Egg pulls in stars with a subtle light.",
+  "elements": [
+    "light"
+  ],
+  "rarity": "Epic",
+  "region": "Special",
+  "dragon_type": "Star Dragon",
+  "body_type": "Drake",
+  "food": "Melon",
+  "tradeable": false,
+  "breeding_tier": 1,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "celsior_01_f_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "celsior_01_f_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "celsior_01_f_hatchling_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "celsior_01_m_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "celsior_01_m_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "celsior_01_m_hatchling_w"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/23/Celsior_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240822004517",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Celsior",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/05/Celsior_00_e_egg_w.png/revision/latest?cb=20240822003517"
+}

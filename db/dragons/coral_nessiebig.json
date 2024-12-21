@@ -1,0 +1,31 @@
+{
+  "name": "coral nessiebig",
+  "egg_description": "This Egg becomes more splendid over time.",
+  "elements": [
+    "water"
+  ],
+  "rarity": "Common",
+  "region": "Deep Sea",
+  "dragon_type": "Coral Dragon",
+  "body_type": "Deep Sea",
+  "food": "Piremio",
+  "tradeable": true,
+  "breeding_tier": 4,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "n",
+      "stage": "adult",
+      "color_code": "b",
+      "path": "coralnessiebig_01_n_adult_b"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/f/f4/Coralnessiebig_01_n_adult_b_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171929",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Coral_Nessiebig",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/39/Coralnessiebig_00_e_egg_b.png/revision/latest?cb=20240314024828"
+}

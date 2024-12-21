@@ -1,0 +1,45 @@
+{
+  "name": "citael",
+  "egg_description": "This Egg defends itself with its horns and fangs.",
+  "elements": [
+    "light"
+  ],
+  "rarity": "Uncommon",
+  "region": "East Yutakan",
+  "dragon_type": "Grit Dragon",
+  "body_type": "Draco",
+  "food": "Grape",
+  "tradeable": false,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "n",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "citael_01_n_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "n",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "citael_01_n_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "n",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "citael_01_n_hatchling_w"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/5/5f/Citael_01_n_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419171924",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Citael",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/4/4b/Citael_00_e_egg_w.png/revision/latest?cb=20240202230621"
+}

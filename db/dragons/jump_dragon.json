@@ -1,0 +1,66 @@
+{
+  "name": "jump dragon",
+  "egg_description": "This Egg rarely stays on the ground.",
+  "elements": [
+    "fire"
+  ],
+  "rarity": "Uncommon",
+  "region": "Deep Sea",
+  "dragon_type": "Nomad Dragon",
+  "body_type": "Draco",
+  "food": "Roast Turkey",
+  "tradeable": false,
+  "breeding_tier": 3,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "g",
+      "path": "jumpdragon_01_f_adult_g"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "g",
+      "path": "jumpdragon_01_f_hatch_g"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "g",
+      "path": "jumpdragon_01_f_hatchling_g"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "g",
+      "path": "jumpdragon_01_m_adult_g"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "g",
+      "path": "jumpdragon_01_m_hatch_g"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "g",
+      "path": "jumpdragon_01_m_hatchling_g"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/29/Jumpdragon_01_m_adult_g_thumb.png/revision/latest/scale-to-width-down/115?cb=20240530035101",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Jump_Dragon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/08/Jumpdragon_00_e_egg_g.png/revision/latest?cb=20240530022516"
+}

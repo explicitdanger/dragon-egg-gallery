@@ -1,0 +1,37 @@
+{
+  "name": "god? dragon",
+  "egg_description": "This Egg has strange yellow spots.",
+  "elements": [
+    "light"
+  ],
+  "rarity": "Legendary",
+  "region": "Special",
+  "dragon_type": "Light Dragon",
+  "body_type": "Draco",
+  "food": "Melon",
+  "tradeable": true,
+  "breeding_tier": 3,
+  "forms": [
+    "default"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "godquestiondragon_01_f_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "godquestiondragon_01_m_adult_w"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/6e/Godquestiondragon_01_m_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172430",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/God%3F_Dragon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/31/Godquestiondragon_00_e_egg_w.png/revision/latest?cb=20240328013959"
+}

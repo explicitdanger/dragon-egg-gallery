@@ -1,0 +1,67 @@
+{
+  "name": "florea",
+  "egg_description": "This Egg can see destinies.",
+  "elements": [
+    "dream",
+    "earth"
+  ],
+  "rarity": "Legendary",
+  "region": "West Yutakan",
+  "dragon_type": "Destiny Dragon",
+  "body_type": "Wyvern",
+  "food": "Rainbow Flower",
+  "tradeable": true,
+  "breeding_tier": 0,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "florea_01_f_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "florea_01_f_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "florea_01_f_hatchling_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "florea_01_m_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "florea_01_m_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "florea_01_m_hatchling_w"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/2/2f/Florea_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240417235936",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Florea",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/12/Florea_00_e_egg_w.png/revision/latest?cb=20230919102701"
+}

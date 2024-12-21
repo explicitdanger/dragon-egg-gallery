@@ -1,0 +1,66 @@
+{
+  "name": "glaone",
+  "egg_description": "This Egg has been merged.",
+  "elements": [
+    "light",
+    "earth"
+  ],
+  "rarity": "Epic",
+  "region": "West Yutakan",
+  "dragon_type": "Weapon Dragon",
+  "body_type": "Draco",
+  "food": "Oil",
+  "tradeable": false,
+  "breeding_tier": 1,
+  "forms": [
+    "default"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "glaone_01_f_adult_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "glaone_01_f_hatch_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "glaone_01_f_hatchling_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "glaone_01_m_adult_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "glaone_01_m_hatch_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "glaone_01_m_hatchling_bk"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/d/d4/Glaone_01_f_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419172430",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Glaone",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/31/Glaone_00_e_egg_bk.png/revision/latest?cb=20231026194715"
+}

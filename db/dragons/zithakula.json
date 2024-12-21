@@ -1,0 +1,65 @@
+{
+  "name": "zithakula",
+  "egg_description": "This Egg is surrounded by ice.",
+  "elements": [
+    "water"
+  ],
+  "rarity": "",
+  "region": "Deep Sea",
+  "dragon_type": "Warden Dragon",
+  "body_type": "Wyvern",
+  "food": "Piranha",
+  "tradeable": false,
+  "breeding_tier": 3,
+  "forms": [
+    "default"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "zithakula_01_f_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "zithakula_01_f_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "zithakula_01_f_hatchling_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "zithakula_01_m_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "zithakula_01_m_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "zithakula_01_m_hatchling_w"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/1e/Zithakula_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173736",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Zithakula",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/6/6b/Zithakula_00_e_egg_w.png/revision/latest?cb=20240229022325"
+}

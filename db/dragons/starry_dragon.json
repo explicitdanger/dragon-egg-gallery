@@ -1,0 +1,66 @@
+{
+  "name": "starry dragon",
+  "egg_description": "This Egg is faintly surrounded by stardust.",
+  "elements": [
+    "light"
+  ],
+  "rarity": "Rare",
+  "region": "East Yutakan",
+  "dragon_type": "Star Dragon",
+  "body_type": "Wyvern",
+  "food": "Melon",
+  "tradeable": false,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "starrydragon_01_f_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "starrydragon_01_f_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "starrydragon_01_f_hatchling_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "w",
+      "path": "starrydragon_01_m_adult_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "w",
+      "path": "starrydragon_01_m_hatch_w"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "w",
+      "path": "starrydragon_01_m_hatchling_w"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/04/Starrydragon_01_f_adult_w_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173523",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Starry_Dragon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/0/09/Starrydragon_00_e_egg_w.png/revision/latest?cb=20240215021427"
+}

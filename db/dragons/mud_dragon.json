@@ -1,0 +1,46 @@
+{
+  "name": "mud dragon",
+  "egg_description": "This Egg is dripping with mud.",
+  "elements": [
+    "earth",
+    "water"
+  ],
+  "rarity": "Rare",
+  "region": "East Yutakan",
+  "dragon_type": "Mud Dragon",
+  "body_type": "Draco",
+  "food": "Meggison",
+  "tradeable": true,
+  "breeding_tier": 2,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "n",
+      "stage": "adult",
+      "color_code": "yr",
+      "path": "mud_01_n_adult_yr"
+    },
+    {
+      "form_number": "01",
+      "gender": "n",
+      "stage": "hatch",
+      "color_code": "yr",
+      "path": "mud_01_n_hatch_yr"
+    },
+    {
+      "form_number": "01",
+      "gender": "n",
+      "stage": "hatchling",
+      "color_code": "yr",
+      "path": "mud_01_n_hatchling_yr"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/a/a1/Mud_01_n_adult_yr_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173234",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Mud_Dragon",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/1/1b/Mud_00_e_egg_yr.png/revision/latest?cb=20240203000102"
+}

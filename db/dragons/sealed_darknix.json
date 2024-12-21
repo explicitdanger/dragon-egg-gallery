@@ -1,0 +1,66 @@
+{
+  "name": "sealed darknix",
+  "egg_description": "This Egg is bound by chains of sealing.",
+  "elements": [
+    "dark"
+  ],
+  "rarity": "Legendary",
+  "region": "West Yutakan",
+  "dragon_type": "Dark Dragon",
+  "body_type": "Draco",
+  "food": "Dark Melon",
+  "tradeable": true,
+  "breeding_tier": 0,
+  "forms": [
+    "default",
+    "undead (default)"
+  ],
+  "assets": [
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "sealeddarknix_01_f_adult_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "sealeddarknix_01_f_hatch_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "f",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "sealeddarknix_01_f_hatchling_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "adult",
+      "color_code": "bk",
+      "path": "sealeddarknix_01_m_adult_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatch",
+      "color_code": "bk",
+      "path": "sealeddarknix_01_m_hatch_bk"
+    },
+    {
+      "form_number": "01",
+      "gender": "m",
+      "stage": "hatchling",
+      "color_code": "bk",
+      "path": "sealeddarknix_01_m_hatchling_bk"
+    }
+  ],
+  "special_actions": [],
+  "profile_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/b/bb/Sealeddarknix_01_m_adult_bk_thumb.png/revision/latest/scale-to-width-down/115?cb=20240419173514",
+  "profile_url": "https://dragon-village-collection.fandom.com/wiki/Sealed_Darknix",
+  "egg_img_url": "https://static.wikia.nocookie.net/dragon-village-collection/images/3/38/Sealeddarknix_00_e_egg_bk.png/revision/latest?cb=20231129051526"
+}
