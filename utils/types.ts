@@ -1,3 +1,9 @@
+export interface Personality {
+  back: string;
+  front: string;
+  each?: string;
+}
+
 export interface Dragon {
   name: string;
   egg_description: string;
@@ -12,7 +18,7 @@ export interface Dragon {
   forms: string[];
   assets: DragonAsset[];
   special_actions: string[];
-  egg_img_url:string
+  egg_img_url: string;
 }
 
 interface DragonAsset {

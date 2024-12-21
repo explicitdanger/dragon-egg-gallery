@@ -1,7 +1,7 @@
 // Server Component
 import GalleryClientContent from '@/components/gallery/GalleryClient';
 import { getData } from '@/lib/utils';
-import { Dragon } from '@/types/dragon';
+import { Dragon } from '@/utils/types';
 import { notFound } from 'next/navigation';
 
 

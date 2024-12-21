@@ -1,4 +1,3 @@
-import BackgroundSpineObject from "@/spine/BackgroundSpineObject";
 import FloorSpineObject from "@/spine/FloorSpineObject";
 import { backgroundBaseUrl } from "@/utils/dragonUtils";
 import * as spine from "@esotericsoftware/spine-webgl";

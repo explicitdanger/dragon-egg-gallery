@@ -1,4 +1,4 @@
-import { Dragon } from "@/types/dragon";
+import { Dragon } from "@/utils/types";
 import { clsx, type ClassValue } from "clsx";
 import { notFound } from "next/navigation";
 import { twMerge } from "tailwind-merge";

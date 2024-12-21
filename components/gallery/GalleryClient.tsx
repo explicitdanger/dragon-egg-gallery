@@ -6,7 +6,7 @@ import FilterBar from "@/components/gallery/FilterBar";
 import EggCard from "@/components/gallery/EggCard";
 import { Pagination } from "@/components/ui/pagination";
 import { SearchBar } from "@/components/ui/search-bar";
-import { Dragon } from "@/types/dragon";
+import { Dragon } from "@/utils/types";
 
 interface GalleryClientProps {
   initialData: Dragon[];

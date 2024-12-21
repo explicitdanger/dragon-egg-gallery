@@ -1,4 +1,3 @@
-import { Suspense } from "react";
 import { PreviewControls } from "@/components/preview/PreviewControls";
 import {
   getDragonData,
@@ -8,7 +7,6 @@ import {
 } from "@/lib/utils";
 import { SelectedStage } from "@/lib/utils";
 import { redirect } from "next/navigation";
-import PreviewLoading from "./loading";
 
 interface PreviewPageProps {
   params: Promise<{ name: string }>;
@@ -19,18 +17,7 @@ interface PreviewPageProps {
   }>;
 }
 
-export default async function PreviewPage({
-  params,
-  searchParams,
-}: PreviewPageProps) {
-  return (
-    <Suspense fallback={<PreviewLoading />}>
-      <PreviewContent params={params} searchParams={searchParams} />
-    </Suspense>
-  );
-}
-
-async function PreviewContent({ params, searchParams }: PreviewPageProps) {
+export default async function PreviewPage({ params, searchParams }: PreviewPageProps) {
   const { name } = await params;
   const { form, gender, stage } = await searchParams;
 
