@@ -2,8 +2,8 @@
 
 import { useCallback, useState, useMemo } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
-import FilterBar from "@/components/FilterBar";
-import EggCard from "@/components/EggCard";
+import FilterBar from "@/components/gallery/FilterBar";
+import EggCard from "@/components/gallery/EggCard";
 import { Pagination } from "@/components/ui/pagination";
 import { SearchBar } from "@/components/ui/search-bar";
 import { Dragon } from "@/types/dragon";
