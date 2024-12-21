@@ -1,4 +1,4 @@
-import { Dragon } from "@/types/dragon";
+import { Dragon } from "@/utils/types";
 import { useSpineAnimation } from "@/hooks/useSpineAnimation";
 import { useMemo } from "react";
 

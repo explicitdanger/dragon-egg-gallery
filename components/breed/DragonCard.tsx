@@ -1,6 +1,6 @@
 "use client";
 
-import { Dragon } from "@/types/dragon";
+import { Dragon } from "@/utils/types";
 import { GenderSelector } from "@/components/dragon/GenderSelector";
 import { Check, ChevronsUpDown } from "lucide-react";
 import { cn } from "@/lib/utils";

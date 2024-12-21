@@ -1,7 +1,7 @@
 import { Card, CardContent, CardHeader } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { cn } from "@/lib/utils";
-import { Dragon } from "@/types/dragon";
+import { Dragon } from "@/utils/types";
 import Link from "next/link";
 import DragonCanvas from "./DragonCanvas";
 import Image from "next/image";
