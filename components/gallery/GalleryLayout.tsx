@@ -6,7 +6,7 @@ import { SearchBar } from "@/components/ui/search-bar";
 import FilterBar from "@/components/gallery/FilterBar";
 import { Pagination } from "@/components/ui/pagination";
 import { useRouter, useSearchParams } from "next/navigation";
-import { useCallback } from "react";
+import { useCallback, useState } from "react";
 
 interface GalleryLayoutProps {
   initialData: Dragon[];
@@ -24,18 +24,20 @@ export function GalleryLayout({ initialData, regions, searchParams }: GalleryLay
   const router = useRouter();
   const searchParamsObj = useSearchParams();
 
-  // Keep existing state management
+  // Add state for stage and search
+  const [selectedStage, setSelectedStage] = useState(Number(searchParams.stage) || 0);
+  const [searchQuery, setSearchQuery] = useState(searchParams.search || "");
+
   const currentRegion = searchParams.region || null;
   const currentRarity = searchParams.rarity as "asc" | "desc" | null || null;
   const currentPage = Number(searchParams.page) || 1;
-  const searchQuery = searchParams.search || "";
-  const selectedStage = Number(searchParams.stage) || 0;
 
-  // Add handlers from GalleryClient
+  // Update handlers to manage local state
   const handleStageSelect = useCallback(
     (stage: number) => {
+      setSelectedStage(stage);
       const params = new URLSearchParams(searchParamsObj);
-      if (stage !== 1) {
+      if (stage !== 0) {
         params.set("stage", stage.toString());
       } else {
         params.delete("stage");
@@ -45,6 +47,22 @@ export function GalleryLayout({ initialData, regions, searchParams }: GalleryLay
     [router, searchParamsObj]
   );
 
+  const handleSearch = useCallback(
+    (value: string) => {
+      setSearchQuery(value);
+      const params = new URLSearchParams(searchParamsObj);
+      if (value) {
+        params.set("search", value);
+      } else {
+        params.delete("search");
+      }
+      params.delete("page");
+      router.push(`?${params.toString()}`);
+    },
+    [router, searchParamsObj]
+  );
+
+  // Keep existing handlers
   const handleRegionSelect = useCallback(
     (region: string | null) => {
       const params = new URLSearchParams(searchParamsObj);
@@ -81,20 +99,6 @@ export function GalleryLayout({ initialData, regions, searchParams }: GalleryLay
       } else {
         params.delete("page");
       }
-      router.push(`?${params.toString()}`);
-    },
-    [router, searchParamsObj]
-  );
-
-  const handleSearch = useCallback(
-    (value: string) => {
-      const params = new URLSearchParams(searchParamsObj);
-      if (value) {
-        params.set("search", value);
-      } else {
-        params.delete("search");
-      }
-      params.delete("page");
       router.push(`?${params.toString()}`);
     },
     [router, searchParamsObj]
