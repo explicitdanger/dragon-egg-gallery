@@ -65,5 +65,5 @@ update_floor:
 update_personality:
 	@echo "\n=== Checking for Personality updates ===\n"
 	python personality/check_new_personality.py
-	mv personality/updated_personality_assets.json personality/personality_list.json
+	mv personality/updated_personality_list.json personality/personality_list.json
 	cp personality/personality_list.json ../db/personality_list.json
