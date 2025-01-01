@@ -1,9 +1,10 @@
 // Server Component
-import GalleryClientContent from '@/components/gallery/GalleryClient';
+import dynamic from 'next/dynamic';
 import { getData } from '@/utils/api';
 import { Dragon } from '@/utils/types';
 import { notFound } from 'next/navigation';
 
+const GalleryClientContent = dynamic(() => import('@/components/gallery/GalleryClient'))
 
 export default async function Home() {
   const data = await getData();
