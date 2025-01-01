@@ -3,8 +3,17 @@ import { GeistSans } from "geist/font/sans";
 import Link from "next/link";
 import { Analytics } from "@vercel/analytics/react";
 import { defaultmetadata } from "./metadata";
+import { Viewport } from "next";
 
 export const metadata = defaultmetadata;
+
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
+  maximumScale: 1,
+  minimumScale: 1,
+  userScalable: false,
+};
 
 export default function RootLayout({
   children,

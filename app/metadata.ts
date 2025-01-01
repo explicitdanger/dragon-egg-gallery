@@ -26,7 +26,9 @@ export const defaultmetadata: Metadata = {
         canonical: "https://dragon-egg-gallery.vercel.app",
     },
     manifest: "/manifest.webmanifest",
-    verification: {},
+    verification: {
+        google: "0iLmhY0bYkc_cPb4ISSuFwolpoxRU9JFkzarJs4OywI",
+    },
     assets: "https://dragon-egg-gallery.vercel.app/",
     category: "gaming",
     classification: "Games",

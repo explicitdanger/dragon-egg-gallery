@@ -4,6 +4,7 @@ import DragonDetails from "@/components/dragon/DragonDetails";
 import { Dragon } from "@/utils/types";
 import { getDragonData } from "@/utils/api";
 import Link from "next/link";
+import { defaultmetadata } from "../metadata";
 
 // Define the params type
 type Params = {
@@ -18,15 +19,28 @@ type Props = {
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { name } = await params;
-  const dragon = await getDragonData(name);
+  const dragon: Dragon = await getDragonData(name);
   const decodedName = decodeURIComponent(dragon.name);
 
-  return {
-    title: `✨ ${
-      decodedName.charAt(0).toUpperCase() + decodedName.slice(1)
-    } - egg-db`,
-    description: dragon.egg_description,
+  const metadata: Metadata = {
+    ...defaultmetadata,
+    title: `${name} | Dragon Egg Gallery`,
+    description: `${dragon.egg_description}`,
+    openGraph: {
+      title: `${name} | Dragon Egg Gallery`,
+      description: `${dragon.egg_description}`,
+      url: `https://dragon-egg-gallery.vercel.app/${decodedName}`,
+    },
+    alternates: {
+      canonical: `https://dragon-egg-gallery.vercel.app/${decodedName}`,
+    },
+    verification: {
+      google: "0iLmhY0bYkc_cPb4ISSuFwolpoxRU9JFkzarJs4OywI",
+    },
+    keywords: [...defaultmetadata.keywords as string[], ...dragon.elements, dragon.name, dragon.egg_description, dragon.rarity, dragon.region, dragon.dragon_type, dragon.body_type, dragon.food, ...dragon.forms, ...dragon.special_actions, String(dragon.breeding_tier),String(dragon.tradeable)],
   };
+  console.log(metadata.keywords);
+  return metadata;
 }
 
 export default async function DragonPage({ params }: Props) {
