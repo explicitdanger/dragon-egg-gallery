@@ -26,7 +26,7 @@ export function StageSelector({ stages, selectedStage, onStageChange, textColor 
           "disabled:opacity-50 disabled:cursor-not-allowed"
         )}
         onClick={() => onStageChange(Math.max(0, selectedStage - 1))}
-        disabled={selectedStage === 0}
+        disabled={selectedStage === 1}
       >
         <ChevronLeft className="h-3 w-3 sm:h-4 sm:w-4" />
       </Button>

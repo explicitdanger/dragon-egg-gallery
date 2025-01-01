@@ -1,17 +1,32 @@
 // Server Component
-import dynamic from 'next/dynamic';
 import { getData } from '@/utils/api';
-import { Dragon } from '@/utils/types';
+import { GalleryLayout } from '@/components/gallery/GalleryLayout';
 import { notFound } from 'next/navigation';
 
-const GalleryClientContent = dynamic(() => import('@/components/gallery/GalleryClient'))
+interface PageProps {
+  searchParams: Promise<{
+    region?: string;
+    rarity?: "asc" | "desc";
+    page?: string;
+    search?: string;
+    stage?: string;
+  }>;
+}
 
-export default async function Home() {
+export default async function Home({ searchParams }: PageProps) {
   const data = await getData();
   if (!('dragons' in data)) {
     notFound();
   }
+  
   const { dragons } = data;
-  const regions = [...new Set(dragons.map((item: Dragon) => item.region))] as string[];
-  return <GalleryClientContent initialData={dragons} regions={regions} />;
+  const regions = [...new Set(dragons.map(item => item.region))] as string[];
+  
+  return (
+    <GalleryLayout 
+      initialData={dragons} 
+      regions={regions} 
+      searchParams={await searchParams}
+    />
+  );
 }

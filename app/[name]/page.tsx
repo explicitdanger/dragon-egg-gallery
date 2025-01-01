@@ -39,7 +39,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     },
     keywords: [...defaultmetadata.keywords as string[], ...dragon.elements, dragon.name, dragon.egg_description, dragon.rarity, dragon.region, dragon.dragon_type, dragon.body_type, dragon.food, ...dragon.forms, ...dragon.special_actions, String(dragon.breeding_tier),String(dragon.tradeable)],
   };
-  console.log(metadata.keywords);
+  // console.log(metadata.length);
   return metadata;
 }
 

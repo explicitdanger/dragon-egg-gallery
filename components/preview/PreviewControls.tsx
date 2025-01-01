@@ -19,9 +19,9 @@ import {
 import { Combobox } from "@/components/ui/combobox";
 import { useSpineAnimation } from "@/hooks/useSpineAnimation";
 import { animateAura } from "@/spine/SpineObject";
-import { StageSelector } from "../dragon/StageSelector";
-import { FormSelector } from "../dragon/FormSelector";
-import { GenderSelector } from "../dragon/GenderSelector";
+import { StageSelector } from "@/components/dragon/StageSelector";
+import { FormSelector } from "@/components/dragon/FormSelector";
+import { GenderSelector } from "@/components/dragon/GenderSelector";
 import useBackgroundSpineAnimation from "@/hooks/useBackgroundSpineAnimation";
 import useFloorSpineAnimation from "@/hooks/useFloorSpineAnimation";
 import {

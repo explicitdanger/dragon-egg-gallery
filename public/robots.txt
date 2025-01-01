@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://dragon-egg-gallery.vercel.app
+
+# Sitemaps
+Sitemap: https://dragon-egg-gallery.vercel.app/sitemap.xml
